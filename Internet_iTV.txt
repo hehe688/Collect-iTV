@@ -1060,6 +1060,7 @@ CETV4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index
 石河子教育,http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
 辽宁教育青少,http://fxgm.fxjf.work:19901/tsfile/live/1005_1.m3u8
 🚃重庆频道,#genre#
+ 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
  江津新闻,http://222.179.155.21:1935/ch1.m3u8?zzhongqd
  璧山综合,http://222.179.42.129:8181/hls1.m3u8
  重庆新闻,http://38.75.136.137:98/gslb/dsdqpub/cqxw.m3u8?auth=testpub
@@ -1067,6 +1068,7 @@ CETV4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index
 万州三峡移民,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8?zzhongqd
 万州综合,http://123.146.162.24:8017/iTXwrGs/800/live.m3u8?zzhongqd
 万州综合,http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8?zzhongqd
+新闻综合,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 江津新闻综合,http://222.179.155.21:1935/ch1.m3u8
 重庆新闻,http://183.66.13.82:60033/tsfile/live/0016_1.m3u8
 重庆时尚购物,https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129
@@ -2116,7 +2118,6 @@ CETV4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=ea03ed711725339376
 青海都市,http://stream.qhbtv.com/qhds/sd/live.m3u8
 🦽山东频道,#genre#
- 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
  山东文旅,http://58.57.40.22:9901/tsfile/live/1023_1.m3u8
  山东生活,http://ls.qingting.fm/live/60260.m3u8
  烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
@@ -2143,7 +2144,6 @@ CETV4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index
 山东齐鲁,http://61.156.228.12:8154/tsfile/live/1001_1.m3u8
 山东齐鲁,http://123.130.84.106:8154/tsfile/live/1001_1.m3u8
 山东齐鲁,http://222.134.245.16:9901/tsfile/live/1001_1.m3u8
-新闻综合,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 🦼山西频道,#genre#
  万荣综合,http://60.222.246.220:19433/hls1.m3u8
  古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
