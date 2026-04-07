@@ -588,56 +588,65 @@
     <channel id="CCTV6电影">
         <display-name lang="zh">CCTV6电影</display-name>
     </channel>
-    <programme channel="CCTV6电影" start="20260407000000 +0800" stop="20260407012615 +0800">
+    <programme channel="CCTV6电影" start="20260407000000 +0800" stop="20260407011837 +0800">
         <title lang="zh">侠义金枪客</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260407012615 +0800" stop="20260407025423 +0800">
+    <programme channel="CCTV6电影" start="20260407011837 +0800" stop="20260407024645 +0800">
         <title lang="zh">遇见崆峒</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260407025423 +0800" stop="20260407072018 +0800">
+    <programme channel="CCTV6电影" start="20260407024645 +0800" stop="20260407041911 +0800">
         <title lang="zh">京武传奇</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260407072018 +0800" stop="20260407092534 +0800">
-        <title lang="zh">我们永不言弃</title>
+    <programme channel="CCTV6电影" start="20260407041911 +0800" stop="20260407062112 +0800">
+        <title lang="zh">武者</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260407092534 +0800" stop="20260407110422 +0800">
+    <programme channel="CCTV6电影" start="20260407062112 +0800" stop="20260407075646 +0800">
+        <title lang="zh">举起手来！</title>
+    </programme>
+    <programme channel="CCTV6电影" start="20260407075646 +0800" stop="20260407093424 +0800">
         <title lang="zh">英雄之战</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260407110422 +0800" stop="20260407125123 +0800">
+    <programme channel="CCTV6电影" start="20260407093424 +0800" stop="20260407112440 +0800">
         <title lang="zh">功夫联盟</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260407125123 +0800" stop="20260407125738 +0800">
+    <programme channel="CCTV6电影" start="20260407112440 +0800" stop="20260407112940 +0800">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260407125738 +0800" stop="20260407144445 +0800">
+    <programme channel="CCTV6电影" start="20260407112940 +0800" stop="20260407131332 +0800">
         <title lang="zh">火锅英雄</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260407144445 +0800" stop="20260407162640 +0800">
+    <programme channel="CCTV6电影" start="20260407131332 +0800" stop="20260407145434 +0800">
         <title lang="zh">回溯者</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260407162640 +0800" stop="20260407182113 +0800">
+    <programme channel="CCTV6电影" start="20260407145434 +0800" stop="20260407162808 +0800">
+        <title lang="zh">警花燕子</title>
+    </programme>
+    <programme channel="CCTV6电影" start="20260407162808 +0800" stop="20260407183043 +0800">
         <title lang="zh">狐踪谍影</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260407182113 +0800" stop="20260407183358 +0800">
+    <programme channel="CCTV6电影" start="20260407183043 +0800" stop="20260407184213 +0800">
         <title lang="zh">《M指数》2026-006</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260407183358 +0800" stop="20260407201939 +0800">
+    <programme channel="CCTV6电影" start="20260407184213 +0800" stop="20260407202009 +0800">
         <title lang="zh">骆驼客</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260407201939 +0800" stop="20260407220000 +0800">
+    <programme channel="CCTV6电影" start="20260407202009 +0800" stop="20260407220000 +0800">
         <title lang="zh">骆驼客2 箭在弦</title>
     </programme>
     <programme channel="CCTV6电影" start="20260407220000 +0800" stop="20260407221800 +0800">
         <title lang="zh">中国电影报道2026-097</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260407221800 +0800" stop="20260407222320 +0800">
+    <programme channel="CCTV6电影" start="20260407221800 +0800" stop="20260407222420 +0800">
         <title lang="zh">中国福利彩票阳光开奖2026-04-07</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260407222320 +0800" stop="20260407235552 +0800">
-        <title lang="zh">霹雳十杰</title>
+    <programme channel="CCTV6电影" start="20260407222420 +0800" stop="20260407230009 +0800">
+        <title lang="zh">霹雳十杰（上）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20260407235552 +0800" stop="20260407235900 +0800">
+    <programme channel="CCTV6电影" start="20260407230009 +0800" stop="20260407230109 +0800">
         <title lang="zh">中国体育彩票阳光开奖2026-04-07</title>
+    </programme>
+    <programme channel="CCTV6电影" start="20260407230109 +0800" stop="20260407235900 +0800">
+        <title lang="zh">霹雳十杰（下）</title>
     </programme>
     <channel id="CCTV7国防军事">
         <display-name lang="zh">CCTV7国防军事</display-name>
