@@ -245,6 +245,8 @@ http://47.119.24.76:59093/958475356
 http://47.119.24.76:59093/961930369
 #EXTINF:-1 tvg-id="萨德VS神户胜利船" tvg-name="亚冠精英 萨德VS神户胜利船 全场回放(吴桐) 00:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2024/9/11/1000000012261060873b.png" group-title="体育-昨天",亚冠精英 萨德VS神户胜利船 全场回放(吴桐) 00:00
 http://47.119.24.76:59093/964229232
+#EXTINF:-1 tvg-id="凯利秒杀威尔逊 麦基判定击败洛霍雷" tvg-name="PFL 凯利秒杀威尔逊 麦基判定击败洛霍雷 PFL贝尔法斯特站主赛全场回放（赛场原声） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-昨天",PFL 凯利秒杀威尔逊 麦基判定击败洛霍雷 PFL贝尔法斯特站主赛全场回放（赛场原声） 02:30
+http://47.119.24.76:59093/964254436
 #EXTINF:-1 tvg-id="凯利秒杀威尔逊 麦基判定击败洛霍雷" tvg-name="PFL 凯利秒杀威尔逊 麦基判定击败洛霍雷 PFL贝尔法斯特站副赛全场回放（赛场原声） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-昨天",PFL 凯利秒杀威尔逊 麦基判定击败洛霍雷 PFL贝尔法斯特站副赛全场回放（赛场原声） 02:30
 http://47.119.24.76:59093/964236508
 #EXTINF:-1 tvg-id="凯利秒杀威尔逊 麦基判定击败洛霍雷" tvg-name="PFL 凯利秒杀威尔逊 麦基判定击败洛霍雷 【主赛】（郝俊） 02:30" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/3/31/100000001408106a8f70.png" group-title="体育-昨天",PFL 凯利秒杀威尔逊 麦基判定击败洛霍雷 【主赛】（郝俊） 02:30
@@ -347,16 +349,12 @@ http://47.119.24.76:59093/964252294
 http://47.119.24.76:59093/964202276
 #EXTINF:-1 tvg-id="崇左麦那湖百万垂钓大赛day1" tvg-name="崇左麦那湖百万垂钓大赛 崇左麦那湖百万垂钓大赛day1 解说 08:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/17/100000001450106b2e4c.png" group-title="体育-今天",崇左麦那湖百万垂钓大赛 崇左麦那湖百万垂钓大赛day1 解说 08:00
 http://47.119.24.76:59093/964232864
-#EXTINF:-1 tvg-id="太阳VS勇士" tvg-name="NBA 太阳VS勇士 孙博 李根 季孟年 09:45" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS勇士 孙博 李根 季孟年 09:45
-http://47.119.24.76:59093/964222156
-#EXTINF:-1 tvg-id="太阳VS勇士" tvg-name="NBA 太阳VS勇士 拜月宁 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS勇士 拜月宁 09:55
-http://47.119.24.76:59093/964222175
-#EXTINF:-1 tvg-id="太阳VS勇士" tvg-name="NBA 太阳VS勇士 英文原声 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS勇士 英文原声 09:55
-http://47.119.24.76:59093/964222224
-#EXTINF:-1 tvg-id="太阳VS勇士" tvg-name="NBA 太阳VS勇士 智能字幕 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS勇士 智能字幕 09:55
-http://47.119.24.76:59093/964222238
-#EXTINF:-1 tvg-id="环岛骑行全民挑战赛day4" tvg-name="环海南岛国际公路自行车赛 环岛骑行全民挑战赛day4 解说 11:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/13/100000001439106b941e.png" group-title="体育-今天",环海南岛国际公路自行车赛 环岛骑行全民挑战赛day4 解说 11:00
-http://47.119.24.76:59093/964166266
+#EXTINF:-1 tvg-id="太阳VS勇士" tvg-name="NBA 太阳VS勇士 全场回放（孙博、李根、季孟年、小七） 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS勇士 全场回放（孙博、李根、季孟年、小七） 09:55
+http://47.119.24.76:59093/964254418
+#EXTINF:-1 tvg-id="太阳VS勇士" tvg-name="NBA 太阳VS勇士 全场回放（拜月宁） 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS勇士 全场回放（拜月宁） 09:55
+http://47.119.24.76:59093/964254539
+#EXTINF:-1 tvg-id="太阳VS勇士" tvg-name="NBA 太阳VS勇士 全场回放（英文原声） 09:55" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2020/1/10/7f7fd4d8-7213-412b-8a19-02521a6ef852.png" group-title="体育-今天",NBA 太阳VS勇士 全场回放（英文原声） 09:55
+http://47.119.24.76:59093/964254603
 #EXTINF:-1 tvg-id="经典重映-2025年终总决赛" tvg-name="BWF 经典重映-2025年终总决赛 赛事重映 12:00" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2023/5/25/100000001055106085dd.png" group-title="体育-今天",BWF 经典重映-2025年终总决赛 赛事重映 12:00
 http://47.119.24.76:59093/964237712
 #EXTINF:-1 tvg-id="上海泽天VS长春喜都" tvg-name="足协杯 上海泽天VS长春喜都 解说 14:20" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2021/3/3/210621e32.png" group-title="体育-今天",足协杯 上海泽天VS长春喜都 解说 14:20
@@ -507,7 +505,7 @@ http://47.119.24.76:59093/964237347
 http://47.119.24.76:59093/964223541
 #EXTINF:-1 tvg-id="黄冈队VS神农架队" tvg-name="楚超 黄冈队VS神农架队 2026湖北省城市足球联赛第一轮: 黄冈vs神农架 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001434106e5143.png" group-title="体育-今天",楚超 黄冈队VS神农架队 2026湖北省城市足球联赛第一轮: 黄冈vs神农架 19:25
 http://47.119.24.76:59093/964052563
-#EXTINF:-1 tvg-id="宜昌队VS孝感孝傲江湖队" tvg-name="楚超 宜昌队VS孝感孝傲江湖队 2026湖北省城市足球联赛第一轮: 宜昌vs孝感孝傲江湖 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001434106e5143.png" group-title="体育-今天",楚超 宜昌队VS孝感孝傲江湖队 2026湖北省城市足球联赛第一轮: 宜昌vs孝感孝傲江湖 19:25
+#EXTINF:-1 tvg-id="宜昌队VS孝感孝傲江湖队" tvg-name="楚超 宜昌队VS孝感孝傲江湖队 2026湖北省城市足球联赛第一轮: 宜昌东阳光vs孝感孝傲江湖 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001434106e5143.png" group-title="体育-今天",楚超 宜昌队VS孝感孝傲江湖队 2026湖北省城市足球联赛第一轮: 宜昌东阳光vs孝感孝傲江湖 19:25
 http://47.119.24.76:59093/964052583
 #EXTINF:-1 tvg-id="咸宁队VS随州队" tvg-name="楚超 咸宁队VS随州队 2026湖北省城市足球联赛第一轮: 咸宁vs随州 19:25" tvg-logo="https://img.cmvideo.cn/sports/uploadImages/2026/4/14/100000001434106e5143.png" group-title="体育-今天",楚超 咸宁队VS随州队 2026湖北省城市足球联赛第一轮: 咸宁vs随州 19:25
 http://47.119.24.76:59093/964052597
