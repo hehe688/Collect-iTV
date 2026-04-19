@@ -4673,8 +4673,6 @@ http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
 http://fxgm.fxjf.work:19901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name=" 三明新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/三明新闻综合.png" group-title="🚝福建频道", 三明新闻综合
 http://ls.qingting.fm/live/4885.m3u8
-#EXTINF:-1 tvg-name=" 东莞新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/东莞新闻综合.png" group-title="🚝福建频道", 东莞新闻综合
-https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 tvg-name=" 云霄综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云霄综合.png" group-title="🚝福建频道", 云霄综合
 https://live.zzyxxw.com:2443/live/xwzh.m3u8
 #EXTINF:-1 tvg-name=" 福建新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/福建新闻.png" group-title="🚝福建频道", 福建新闻
@@ -4689,8 +4687,6 @@ http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 http://live.zzyxxw.com:85/live/xwzh.m3u8
 #EXTINF:-1 tvg-name="云霄综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/云霄综合.png" group-title="🚝福建频道",云霄综合
 http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
-#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新闻综合.png" group-title="🚝福建频道",新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 #EXTINF:-1 tvg-name="漳浦综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/漳浦综合.png" group-title="🚝福建频道",漳浦综合
 http://220.161.87.62:8090/hls/0/index.m3u8
 #EXTINF:-1 tvg-name="漳浦综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/漳浦综合.png" group-title="🚝福建频道",漳浦综合
@@ -5681,6 +5677,8 @@ http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8
 http://fxgm.fxjf.work:19901/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-name=" 万荣综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/万荣综合.png" group-title="🦼山西频道", 万荣综合
 http://60.222.246.220:19433/hls1.m3u8
+#EXTINF:-1 tvg-name=" 东莞新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/东莞新闻综合.png" group-title="🦼山西频道", 东莞新闻综合
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 tvg-name=" 大宁综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/大宁综合.png" group-title="🦼山西频道", 大宁综合
 http://live.daningtv.com/aac_dngb/playlist.m3u8
 #EXTINF:-1 tvg-name=" 太谷新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/太谷新闻综合.png" group-title="🦼山西频道", 太谷新闻综合
@@ -5795,6 +5793,8 @@ http://171.116.254.184:9003/hls/52/index.m3u8
 https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
 #EXTINF:-1 tvg-name="怀仁综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/怀仁综合.png" group-title="🦼山西频道",怀仁综合
 http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
+#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新闻综合.png" group-title="🦼山西频道",新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 #EXTINF:-1 tvg-name="汾西综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/汾西综合.png" group-title="🦼山西频道",汾西综合
 https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
 #EXTINF:-1 tvg-name="黄河电视台" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/黄河电视台.png" group-title="🦼山西频道",黄河电视台
