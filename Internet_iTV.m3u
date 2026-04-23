@@ -3841,8 +3841,6 @@ http://150.255.149.33:9901/tsfile/live/1017_1.m3u8
 http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
 #EXTINF:-1 tvg-name="海南自贸" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/海南自贸.png" group-title="🚑海南频道",海南自贸
 http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
-#EXTINF:-1 tvg-name=" 东莞新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/东莞新闻综合.png" group-title="🚒河北频道", 东莞新闻综合
-https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 tvg-name=" 任丘综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/任丘综合.png" group-title="🚒河北频道", 任丘综合
 https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name=" 兴隆综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/兴隆综合.png" group-title="🚒河北频道", 兴隆综合
@@ -3879,8 +3877,6 @@ https://jwcdnqx.hebyun.com.cn/zb/rqtv1/1500k/tzwj_video.m3u8
 https://jwcdnqx.hebyun.com.cn/zb/xlzh/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="平泉影视" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/平泉影视.png" group-title="🚒河北频道",平泉影视
 https://jwcdnqx.hebyun.com.cn/zb/pqys/1500k/tzwj_video.m3u8
-#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新闻综合.png" group-title="🚒河北频道",新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 #EXTINF:-1 tvg-name="昌黎综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/昌黎综合.png" group-title="🚒河北频道",昌黎综合
 https://jwcdnqx.hebyun.com.cn/zb/clzhpd/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="河北农民" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/河北农民.png" group-title="🚒河北频道",河北农民
@@ -4293,6 +4289,8 @@ https://fenghuang.tv12.xyz/66.m3u8
 https://masterpull.hljtv.com/live/dUi8b96l.m3u8
 #EXTINF:-1 tvg-name="齐齐哈尔新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/齐齐哈尔新闻综合.png" group-title="🚕黑龙江频道",齐齐哈尔新闻综合
 https://rmplive.hljtv.com/live/qiqihaer.m3u8
+#EXTINF:-1 tvg-name=" 东莞新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/东莞新闻综合.png" group-title="🚗湖北频道", 东莞新闻综合
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 tvg-name=" 武汉一台新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/武汉一台新闻综合.png" group-title="🚗湖北频道", 武汉一台新闻综合
 https://ls.qingting.fm/live/20198/64k.m3u8
 #EXTINF:-1 tvg-name=" 江夏新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/江夏新闻综合.png" group-title="🚗湖北频道", 江夏新闻综合
@@ -4303,6 +4301,8 @@ http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 http://yp.qqqtv.top/1/api.php?id=%E4%BA%91%E6%A2%A6%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93&auth=666858
 #EXTINF:-1 tvg-name="十堰新闻" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/十堰新闻.png" group-title="🚗湖北频道",十堰新闻
 http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
+#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新闻综合.png" group-title="🚗湖北频道",新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 #EXTINF:-1 tvg-name="武汉外语" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/武汉外语.png" group-title="🚗湖北频道",武汉外语
 http://stream.appwuhan.com/6tzb/sd/live.m3u8
 #EXTINF:-1 tvg-name="武汉文体" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/武汉文体.png" group-title="🚗湖北频道",武汉文体
