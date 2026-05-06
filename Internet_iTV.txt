@@ -1334,7 +1334,6 @@ CETV4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index
 福建综合,http://117.27.190.42:9998/tsfile/live/23284_1.m3u8
 龙岩综合,http://117.27.190.42:9998/tsfile/live/23297_1.m3u8
 🚋甘肃频道,#genre#
- 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
  嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
  永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
  渭源新闻,http://play.kankanlive.com/live/1720408280309109.m3u8
@@ -1347,7 +1346,6 @@ CETV4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index
 定西综合,https://play.kankanlive.com/live/1675303871634928.m3u8
 张掖新闻综合,https://play.kankanlive.com/live/1720583434627241.m3u8
 成县综合,https://play.kankanlive.com/live/1702454377323961.m3u8
-新闻综合,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 景泰综合,https://play.kankanlive.com/live/1624439143745981.m3u8?zgand
 武威新闻,https://play.kankanlive.com/live/1693539781636986.m3u8
 甘南综合,https://play.kankanlive.com/live/1711955176432990.m3u8
@@ -2162,7 +2160,9 @@ CETV4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index
  赣州公共,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8
  赣州新闻,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
 🚜辽宁频道,#genre#
+ 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
  辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8
+新闻综合,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 辽宁体育,http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
 辽宁北方,http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
 辽宁北方,http://fxgm.fxjf.work:19901/tsfile/live/1006_1.m3u8
