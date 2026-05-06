@@ -3111,624 +3111,6 @@
     <programme channel="CGTN" start="20260506233000 +0800" stop="20260507000000 +0800">
         <title lang="zh">文化速递</title>
     </programme>
-    <channel id="赛事最经典">
-        <display-name lang="zh">赛事最经典</display-name>
-    </channel>
-    <programme channel="赛事最经典" start="20260505223500 +0800" stop="20260506002000 +0800">
-        <title lang="zh">2024-25赛季德甲第12轮：多特蒙德1比1拜仁慕尼黑</title>
-    </programme>
-    <programme channel="赛事最经典" start="20260506002000 +0800" stop="20260506020500 +0800">
-        <title lang="zh">2024足协杯决赛：山东泰山1比3上海海港</title>
-    </programme>
-    <programme channel="赛事最经典" start="20260506020500 +0800" stop="20260506034100 +0800">
-        <title lang="zh">2024-25赛季德甲第11轮：多特蒙德4比0弗赖堡</title>
-    </programme>
-    <programme channel="赛事最经典" start="20260506034100 +0800" stop="20260506052700 +0800">
-        <title lang="zh">2024-2025赛季英超联赛第12轮：南安普敦2比3利物浦</title>
-    </programme>
-    <programme channel="赛事最经典" start="20260506052700 +0800" stop="20260506070800 +0800">
-        <title lang="zh">2024-2025赛季英超联赛第12轮：阿森纳3比0诺丁汉森林</title>
-    </programme>
-    <programme channel="赛事最经典" start="20260506070800 +0800" stop="20260506084600 +0800">
-        <title lang="zh">2024-25赛季西甲第14轮：塞维利亚1比0巴列卡诺</title>
-    </programme>
-    <programme channel="赛事最经典" start="20260506084600 +0800" stop="20260506102400 +0800">
-        <title lang="zh">西甲第14轮：莱加内斯VS皇马</title>
-    </programme>
-    <programme channel="赛事最经典" start="20260506102400 +0800" stop="20260506114300 +0800">
-        <title lang="zh">2024-25赛季西甲第13轮：巴拉多利德1比1毕尔巴鄂竞技</title>
-    </programme>
-    <programme channel="赛事最经典" start="20260506114300 +0800" stop="20260506130300 +0800">
-        <title lang="zh">2024-25赛季德甲第10轮：莱比锡0比0门兴格拉德巴赫</title>
-    </programme>
-    <programme channel="赛事最经典" start="20260506130300 +0800" stop="20260506144100 +0800">
-        <title lang="zh">西甲第18轮：皇家马德里VS皇家贝蒂斯</title>
-    </programme>
-    <programme channel="赛事最经典" start="20260506144100 +0800" stop="20260506161900 +0800">
-        <title lang="zh">西甲第17轮：比利亚雷亚尔VS巴塞罗那</title>
-    </programme>
-    <programme channel="赛事最经典" start="20260506161900 +0800" stop="20260506181100 +0800">
-        <title lang="zh">西甲第22轮：皇家马德里VS巴列卡诺</title>
-    </programme>
-    <programme channel="赛事最经典" start="20260506181100 +0800" stop="20260506195300 +0800">
-        <title lang="zh">2025-2026西甲联赛第20轮：马德里竞技VS阿拉维斯</title>
-    </programme>
-    <programme channel="赛事最经典" start="20260506195300 +0800" stop="20260506204600 +0800">
-        <title lang="zh">2026斯诺克威尔士公开赛：墨菲VS常冰玉</title>
-    </programme>
-    <programme channel="赛事最经典" start="20260506204600 +0800" stop="20260506222100 +0800">
-        <title lang="zh">国际足球系列赛第1轮：中国VS库拉索</title>
-    </programme>
-    <programme channel="赛事最经典" start="20260506222100 +0800" stop="20260507000000 +0800">
-        <title lang="zh">西安国际青年足球锦标赛：中国U23 VS 泰国U23</title>
-    </programme>
-    <channel id="体坛名栏汇">
-        <display-name lang="zh">体坛名栏汇</display-name>
-    </channel>
-    <programme channel="体坛名栏汇" start="20260505235700 +0800" stop="20260506004900 +0800">
-        <title lang="zh">棋牌乐20240110王星昊VS芈昱廷</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506004900 +0800" stop="20260506014100 +0800">
-        <title lang="zh">天下足球20260323冠军大反转</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506014100 +0800" stop="20260506023400 +0800">
-        <title lang="zh">天下足球20260316上半场换门将</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506023400 +0800" stop="20260506032600 +0800">
-        <title lang="zh">天下足球20260309罗德里戈：破碎的梦想</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506032600 +0800" stop="20260506041800 +0800">
-        <title lang="zh">天下足球20260302博德闪耀：走出北极圈</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506041800 +0800" stop="20260506051000 +0800">
-        <title lang="zh">天下足球20260223萨卡：青春正当时</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506051000 +0800" stop="20260506060000 +0800">
-        <title lang="zh">天下足球20260202徐彬：勇敢追梦</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506060000 +0800" stop="20260506064900 +0800">
-        <title lang="zh">天下足球20260126攀峰不止</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506064900 +0800" stop="20260506073900 +0800">
-        <title lang="zh">天下足球20260119阿隆索：未完成的蓝图</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506073900 +0800" stop="20260506083000 +0800">
-        <title lang="zh">天下足球20260112阿莫林：梦剧场困局</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506083000 +0800" stop="20260506095400 +0800">
-        <title lang="zh">天下足球20260105 2025·年度巅峰对决</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506095400 +0800" stop="20260506104500 +0800">
-        <title lang="zh">天下足球20251229疯狂的足球·2025</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506104500 +0800" stop="20260506105600 +0800">
-        <title lang="zh">天下足球2025年度失意阵容</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506105600 +0800" stop="20260506114600 +0800">
-        <title lang="zh">天下足球20251222哈兰德超越传奇</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506114600 +0800" stop="20260506122400 +0800">
-        <title lang="zh">天下足球20251215巴萨稳居榜首</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506122400 +0800" stop="20260506131400 +0800">
-        <title lang="zh">天下足球20251208 2026年世界杯十大看点</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506131400 +0800" stop="20260506143300 +0800">
-        <title lang="zh">天下足球20251201“齐”迹再现</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506143300 +0800" stop="20260506152200 +0800">
-        <title lang="zh">天下足球20251124 C罗：用数字说话</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506152200 +0800" stop="20260506161200 +0800">
-        <title lang="zh">天下足球20251103探访香港C罗博物馆</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506161200 +0800" stop="20260506170300 +0800">
-        <title lang="zh">天下足球20251027国家德比</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506170300 +0800" stop="20260506175300 +0800">
-        <title lang="zh">天下足球20251020佛得角：岛国奇迹</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506175300 +0800" stop="20260506183900 +0800">
-        <title lang="zh">篮球公园20260410对话——张茹</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506183900 +0800" stop="20260506190400 +0800">
-        <title lang="zh">体坛零距离20260409冬奥之约：谷爱凌 李方慧 张可欣 刘奕杉</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506190400 +0800" stop="20260506195500 +0800">
-        <title lang="zh">足球之夜20260409场内场外</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506195500 +0800" stop="20260506201000 +0800">
-        <title lang="zh">艺术里的奥林匹克20260404马拉松在一八九六</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506201000 +0800" stop="20260506202500 +0800">
-        <title lang="zh">艺术里的奥林匹克20260405在光影中奔跑</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506202500 +0800" stop="20260506211600 +0800">
-        <title lang="zh">天下足球20260406那些年，我们一起追的蓝衣军团</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506211600 +0800" stop="20260506220200 +0800">
-        <title lang="zh">篮球公园20260403吴前</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506220200 +0800" stop="20260506221500 +0800">
-        <title lang="zh">体坛零距离20260402冬奥之约：李琰 吴宇 刘瀚彬 李文淏</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506221500 +0800" stop="20260506222700 +0800">
-        <title lang="zh">体坛零距离20260402冬奥之约：金博洋</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506222700 +0800" stop="20260506231700 +0800">
-        <title lang="zh">足球之夜20260402中国足球齐头并进</title>
-    </programme>
-    <programme channel="体坛名栏汇" start="20260506231700 +0800" stop="20260507000000 +0800">
-        <title lang="zh">天下足球20260330边缘人</title>
-    </programme>
-    <channel id="四海钓鱼">
-        <display-name lang="zh">四海钓鱼</display-name>
-    </channel>
-    <programme channel="四海钓鱼" start="20260506000000 +0800" stop="20260506000500 +0800">
-        <title lang="zh">渔乐前沿</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506000500 +0800" stop="20260506010500 +0800">
-        <title lang="zh">钓赛最前线：长海海钓纪实</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506010500 +0800" stop="20260506020500 +0800">
-        <title lang="zh">钓赛最前线：长海海钓纪实</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506020500 +0800" stop="20260506030500 +0800">
-        <title lang="zh">钓赛最前线：长海海钓纪实</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506030500 +0800" stop="20260506040000 +0800">
-        <title lang="zh">钓赛最前线：长海海钓纪实</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506040000 +0800" stop="20260506040500 +0800">
-        <title lang="zh">渔乐前沿</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506040500 +0800" stop="20260506051000 +0800">
-        <title lang="zh">钓赛最前线：长海海钓纪实</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506051000 +0800" stop="20260506061000 +0800">
-        <title lang="zh">钓赛最前线：长海海钓纪实</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506061000 +0800" stop="20260506071000 +0800">
-        <title lang="zh">钓赛最前线：长海海钓纪实</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506071000 +0800" stop="20260506081000 +0800">
-        <title lang="zh">钓赛最前线：长海海钓纪实</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506081000 +0800" stop="20260506083500 +0800">
-        <title lang="zh">钓赛最前线：长海海钓纪实</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506083500 +0800" stop="20260506090000 +0800">
-        <title lang="zh">渔具新视界：天津碧海展</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506090000 +0800" stop="20260506091500 +0800">
-        <title lang="zh">钓赛最前线：CAA温宿站</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506091500 +0800" stop="20260506093000 +0800">
-        <title lang="zh">钓赛最前线：CAA黄桥站</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506093000 +0800" stop="20260506094500 +0800">
-        <title lang="zh">钓赛最前线：CAA疏勒站</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506094500 +0800" stop="20260506100000 +0800">
-        <title lang="zh">钓赛最前线：紫蒙湖杯</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506100000 +0800" stop="20260506101500 +0800">
-        <title lang="zh">钓赛最前线：CAA洛南站</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506101500 +0800" stop="20260506104000 +0800">
-        <title lang="zh">钓赛最前线：升钟湖钓赛</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506104000 +0800" stop="20260506104500 +0800">
-        <title lang="zh">渔乐前沿</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506104500 +0800" stop="20260506105500 +0800">
-        <title lang="zh">渔乐地图：红旗水库</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506105500 +0800" stop="20260506110000 +0800">
-        <title lang="zh">渔乐前沿</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506110000 +0800" stop="20260506112500 +0800">
-        <title lang="zh">渔具新视界：天津碧海展（自）</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506112500 +0800" stop="20260506114500 +0800">
-        <title lang="zh">钓谈风云</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506114500 +0800" stop="20260506120000 +0800">
-        <title lang="zh">钓赛最前线：“万年上山杯”首届溪流大师赛（浦江）</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506120000 +0800" stop="20260506123000 +0800">
-        <title lang="zh">渔具新视界：顺义渔具展（自）</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506123000 +0800" stop="20260506123500 +0800">
-        <title lang="zh">渔乐前沿</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506123500 +0800" stop="20260506124500 +0800">
-        <title lang="zh">渔乐地图：红旗水库</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506124500 +0800" stop="20260506130000 +0800">
-        <title lang="zh">钓赛最前线：中国海钓锦标赛万宁海钓拉力赛</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506130000 +0800" stop="20260506140000 +0800">
-        <title lang="zh">钓赛最前线：长海海钓纪实</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506140000 +0800" stop="20260506150000 +0800">
-        <title lang="zh">钓赛最前线：长海海钓纪实</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506150000 +0800" stop="20260506160000 +0800">
-        <title lang="zh">钓赛最前线：长海海钓纪实</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506160000 +0800" stop="20260506165500 +0800">
-        <title lang="zh">钓赛最前线：长海海钓纪实</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506165500 +0800" stop="20260506180000 +0800">
-        <title lang="zh">钓赛最前线：长海海钓纪实</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506180000 +0800" stop="20260506181000 +0800">
-        <title lang="zh">渔乐地图：红旗水库</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506181000 +0800" stop="20260506183000 +0800">
-        <title lang="zh">钓谈风云</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506183000 +0800" stop="20260506183500 +0800">
-        <title lang="zh">渔乐前沿</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506183500 +0800" stop="20260506185000 +0800">
-        <title lang="zh">钓赛最前线：中华垂钓大赛总决赛东平站</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506185000 +0800" stop="20260506191500 +0800">
-        <title lang="zh">钓赛最前线：2025庐山西海垂钓运动季</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506191500 +0800" stop="20260506194500 +0800">
-        <title lang="zh">渔具新视界：顺义渔具展</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506194500 +0800" stop="20260506200500 +0800">
-        <title lang="zh">钓赛最前线：2025麻城女钓手路亚挑战赛</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506200500 +0800" stop="20260506203000 +0800">
-        <title lang="zh">渔具新视界：天津碧海渔具博览会</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506203000 +0800" stop="20260506203500 +0800">
-        <title lang="zh">渔乐前沿</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506203500 +0800" stop="20260506204500 +0800">
-        <title lang="zh">渔乐地图：红旗水库</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506204500 +0800" stop="20260506210000 +0800">
-        <title lang="zh">钓赛最前线：2025自然水域武汉站</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506210000 +0800" stop="20260506210500 +0800">
-        <title lang="zh">渔乐前沿</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506210500 +0800" stop="20260506212000 +0800">
-        <title lang="zh">钓赛最前线：“沃鼎杯”2025年中华钓鲫精英赛（江西南昌站）</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506212000 +0800" stop="20260506213500 +0800">
-        <title lang="zh">钓赛最前线：2025自然水域武汉站</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506213500 +0800" stop="20260506220000 +0800">
-        <title lang="zh">渔具新视界：天津碧海渔具博览会</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506220000 +0800" stop="20260506221500 +0800">
-        <title lang="zh">钓赛最前线：“巧渔夫杯”天津宝坻站</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506221500 +0800" stop="20260506224000 +0800">
-        <title lang="zh">钓赛最前线：2025庐山西海垂钓运动季</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506224000 +0800" stop="20260506224500 +0800">
-        <title lang="zh">渔乐前沿</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506224500 +0800" stop="20260506225500 +0800">
-        <title lang="zh">渔乐地图：红旗水库</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506225500 +0800" stop="20260506231500 +0800">
-        <title lang="zh">钓赛最前线：2025麻城女钓手路亚挑战赛</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506231500 +0800" stop="20260506233000 +0800">
-        <title lang="zh">钓赛最前线：“万年上山杯”首届溪流大师赛（浦江）</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506233000 +0800" stop="20260506235500 +0800">
-        <title lang="zh">渔具新视界：天津碧海渔具博览会</title>
-    </programme>
-    <programme channel="四海钓鱼" start="20260506235500 +0800" stop="20260507000000 +0800">
-        <title lang="zh">渔乐前沿</title>
-    </programme>
-    <channel id="陕西体育休闲频道">
-        <display-name lang="zh">陕西体育休闲频道</display-name>
-    </channel>
-    <programme channel="陕西体育休闲频道" start="20260506000000 +0800" stop="20260506004300 +0800">
-        <title lang="zh">天下赛场</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506004300 +0800" stop="20260506064600 +0800">
-        <title lang="zh">导视+结束曲</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506064600 +0800" stop="20260506064700 +0800">
-        <title lang="zh">台标晨曲</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506064700 +0800" stop="20260506071700 +0800">
-        <title lang="zh">搏击王</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506071700 +0800" stop="20260506072000 +0800">
-        <title lang="zh">频道+导视</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506072000 +0800" stop="20260506075000 +0800">
-        <title lang="zh">体育时间</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506075000 +0800" stop="20260506081000 +0800">
-        <title lang="zh">天下赛场</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506081000 +0800" stop="20260506084000 +0800">
-        <title lang="zh">剧场：和平饭店-41</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506084000 +0800" stop="20260506090000 +0800">
-        <title lang="zh">陕西体育</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506090000 +0800" stop="20260506101000 +0800">
-        <title lang="zh">夺宝秦兵</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506101000 +0800" stop="20260506103000 +0800">
-        <title lang="zh">专题节目</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506103000 +0800" stop="20260506103300 +0800">
-        <title lang="zh">频宣+导视</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506103300 +0800" stop="20260506104800 +0800">
-        <title lang="zh">体育会客厅</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506104800 +0800" stop="20260506110900 +0800">
-        <title lang="zh">陕西体育</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506110900 +0800" stop="20260506113900 +0800">
-        <title lang="zh">剧场：和平饭店-42</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506113900 +0800" stop="20260506115900 +0800">
-        <title lang="zh">专题节目</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506115900 +0800" stop="20260506120000 +0800">
-        <title lang="zh">导视</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506120000 +0800" stop="20260506131700 +0800">
-        <title lang="zh">夺宝秦兵</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506131700 +0800" stop="20260506133700 +0800">
-        <title lang="zh">专题节目</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506133700 +0800" stop="20260506135500 +0800">
-        <title lang="zh">赛事集锦</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506135500 +0800" stop="20260506141000 +0800">
-        <title lang="zh">体育会客厅</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506141000 +0800" stop="20260506144000 +0800">
-        <title lang="zh">剧场：和平饭店-43</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506144000 +0800" stop="20260506150000 +0800">
-        <title lang="zh">专题节目</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506150000 +0800" stop="20260506150100 +0800">
-        <title lang="zh">导视</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506150100 +0800" stop="20260506153100 +0800">
-        <title lang="zh">剧场：和平饭店-44</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506153100 +0800" stop="20260506155100 +0800">
-        <title lang="zh">专题节目</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506155100 +0800" stop="20260506155500 +0800">
-        <title lang="zh">导视+广告</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506155500 +0800" stop="20260506162500 +0800">
-        <title lang="zh">剧场：和平饭店-45</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506162500 +0800" stop="20260506164500 +0800">
-        <title lang="zh">专题节目</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506164500 +0800" stop="20260506165000 +0800">
-        <title lang="zh">广告+导视</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506165000 +0800" stop="20260506172000 +0800">
-        <title lang="zh">剧场：和平饭店-46</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506172000 +0800" stop="20260506174000 +0800">
-        <title lang="zh">专题节目</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506174000 +0800" stop="20260506175500 +0800">
-        <title lang="zh">体育会客厅</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506175500 +0800" stop="20260506175600 +0800">
-        <title lang="zh">导视</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506175600 +0800" stop="20260506182600 +0800">
-        <title lang="zh">剧场：和平饭店-47</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506182600 +0800" stop="20260506184600 +0800">
-        <title lang="zh">专题节目</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506184600 +0800" stop="20260506190600 +0800">
-        <title lang="zh">天下赛场</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506190600 +0800" stop="20260506191000 +0800">
-        <title lang="zh">广告+导视</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506191000 +0800" stop="20260506201500 +0800">
-        <title lang="zh">开心智斗</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506201500 +0800" stop="20260506205500 +0800">
-        <title lang="zh">专题节目</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506205500 +0800" stop="20260506210000 +0800">
-        <title lang="zh">广告+导视</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506210000 +0800" stop="20260506212000 +0800">
-        <title lang="zh">陕西体育</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506212000 +0800" stop="20260506212500 +0800">
-        <title lang="zh">广告+导视</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506212500 +0800" stop="20260506224100 +0800">
-        <title lang="zh">夺宝秦兵</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506224100 +0800" stop="20260506230100 +0800">
-        <title lang="zh">专题节目</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506230100 +0800" stop="20260506230200 +0800">
-        <title lang="zh">导视</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506230200 +0800" stop="20260506233200 +0800">
-        <title lang="zh">搏击王</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506233200 +0800" stop="20260506233300 +0800">
-        <title lang="zh">导视</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20260506233300 +0800" stop="20260507000000 +0800">
-        <title lang="zh">天下赛场</title>
-    </programme>
-    <channel id="24小时城市联赛轮播台">
-        <display-name lang="zh">24小时城市联赛轮播台</display-name>
-    </channel>
-    <programme channel="24小时城市联赛轮播台" start="20260505225900 +0800" stop="20260506010800 +0800">
-        <title lang="zh">福建闽超第1轮全场回放：龙岩2:0漳州</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260506010800 +0800" stop="20260506030800 +0800">
-        <title lang="zh">安徽徽青赛第10轮全场回放:淮北6:0芜湖</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260506030800 +0800" stop="20260506052400 +0800">
-        <title lang="zh">安徽徽BA第1轮全场回放：黄山86:70池州</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260506052400 +0800" stop="20260506083800 +0800">
-        <title lang="zh">山东齐鲁超赛第1轮全场回放：烟台队5:0东营队</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260506083800 +0800" stop="20260506104200 +0800">
-        <title lang="zh">湖北武汉城超第1轮全场回放：武汉引力空间93:85CHA海外仓</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260506104200 +0800" stop="20260506125900 +0800">
-        <title lang="zh">云南滇超第11轮全场回放：迪庆队3:1昭通队</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260506125900 +0800" stop="20260506153400 +0800">
-        <title lang="zh">四川川超第7轮全场回放：成都锦城队2:1乐山味道非常队</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260506153400 +0800" stop="20260506174900 +0800">
-        <title lang="zh">广西县超第7轮全场回放：南宁市江南区队4:1百色市田东县队</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260506174900 +0800" stop="20260506195400 +0800">
-        <title lang="zh">江西赣BA总决赛第3轮全场回放:萍乡87:79上饶</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260506195400 +0800" stop="20260506215200 +0800">
-        <title lang="zh">广东粤BA第5轮全场回放：中山101:77江门</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260506215200 +0800" stop="20260507000900 +0800">
-        <title lang="zh">浙江吴越杯第5轮全场回放：丽水1:2杭州</title>
-    </programme>
-    <channel id="武术世界">
-        <display-name lang="zh">武术世界</display-name>
-    </channel>
-    <programme channel="武术世界" start="20260506000000 +0800" stop="20260506042000 +0800">
-        <title lang="zh">巅峰擂台</title>
-    </programme>
-    <programme channel="武术世界" start="20260506042000 +0800" stop="20260506043000 +0800">
-        <title lang="zh">以武会影</title>
-    </programme>
-    <programme channel="武术世界" start="20260506043000 +0800" stop="20260506051000 +0800">
-        <title lang="zh">功夫课堂：少林连环拳</title>
-    </programme>
-    <programme channel="武术世界" start="20260506051000 +0800" stop="20260506055000 +0800">
-        <title lang="zh">功夫课堂：太极缠丝功</title>
-    </programme>
-    <programme channel="武术世界" start="20260506055000 +0800" stop="20260506063000 +0800">
-        <title lang="zh">功夫课堂：四式五行太极</title>
-    </programme>
-    <programme channel="武术世界" start="20260506063000 +0800" stop="20260506071000 +0800">
-        <title lang="zh">功夫课堂：少林八段锦</title>
-    </programme>
-    <programme channel="武术世界" start="20260506071000 +0800" stop="20260506073000 +0800">
-        <title lang="zh">以武会影</title>
-    </programme>
-    <programme channel="武术世界" start="20260506073000 +0800" stop="20260506081000 +0800">
-        <title lang="zh">武林人物周刊：啸谈武林</title>
-    </programme>
-    <programme channel="武术世界" start="20260506081000 +0800" stop="20260506090000 +0800">
-        <title lang="zh">武观天下：功夫少林</title>
-    </programme>
-    <programme channel="武术世界" start="20260506090000 +0800" stop="20260506093000 +0800">
-        <title lang="zh">瑜伽课堂</title>
-    </programme>
-    <programme channel="武术世界" start="20260506093000 +0800" stop="20260506121000 +0800">
-        <title lang="zh">巅峰擂台特约：JCK战觉城</title>
-    </programme>
-    <programme channel="武术世界" start="20260506121000 +0800" stop="20260506125000 +0800">
-        <title lang="zh">武观天下</title>
-    </programme>
-    <programme channel="武术世界" start="20260506125000 +0800" stop="20260506125500 +0800">
-        <title lang="zh">武道健康特约之：健康小贴士</title>
-    </programme>
-    <programme channel="武术世界" start="20260506125500 +0800" stop="20260506153500 +0800">
-        <title lang="zh">巅峰擂台特约：ONE冠军赛</title>
-    </programme>
-    <programme channel="武术世界" start="20260506153500 +0800" stop="20260506181500 +0800">
-        <title lang="zh">巅峰擂台</title>
-    </programme>
-    <programme channel="武术世界" start="20260506181500 +0800" stop="20260506185500 +0800">
-        <title lang="zh">武林人物周刊：啸谈武林</title>
-    </programme>
-    <programme channel="武术世界" start="20260506185500 +0800" stop="20260506190000 +0800">
-        <title lang="zh">武道健康特约之：健康小贴士</title>
-    </programme>
-    <programme channel="武术世界" start="20260506190000 +0800" stop="20260506194000 +0800">
-        <title lang="zh">武观天下</title>
-    </programme>
-    <programme channel="武术世界" start="20260506194000 +0800" stop="20260506210000 +0800">
-        <title lang="zh">武林风</title>
-    </programme>
-    <programme channel="武术世界" start="20260506210000 +0800" stop="20260506222000 +0800">
-        <title lang="zh">武林笼中对</title>
-    </programme>
-    <programme channel="武术世界" start="20260506222000 +0800" stop="20260506230000 +0800">
-        <title lang="zh">武观天下</title>
-    </programme>
-    <programme channel="武术世界" start="20260506230000 +0800" stop="20260507000000 +0800">
-        <title lang="zh">巅峰擂台</title>
-    </programme>
-    <channel id="快乐垂钓">
-        <display-name lang="zh">快乐垂钓</display-name>
-    </channel>
-    <programme channel="快乐垂钓" start="20260505233000 +0800" stop="20260506010000 +0800">
-        <title lang="zh">第三届黑坑拉力赛冠亚决赛第四节（重播）</title>
-    </programme>
-    <programme channel="快乐垂钓" start="20260506010000 +0800" stop="20260506020000 +0800">
-        <title lang="zh">我们的征途：椰乡自由行（上）</title>
-    </programme>
-    <programme channel="快乐垂钓" start="20260506020000 +0800" stop="20260506080000 +0800">
-        <title lang="zh">收播结束</title>
-    </programme>
-    <programme channel="快乐垂钓" start="20260506080000 +0800" stop="20260506100000 +0800">
-        <title lang="zh">快乐垂钓商城会员日0505（重播）</title>
-    </programme>
-    <programme channel="快乐垂钓" start="20260506100000 +0800" stop="20260506103000 +0800">
-        <title lang="zh">钩尖上的美食：万峰湖寻鲤（上）</title>
-    </programme>
-    <programme channel="快乐垂钓" start="20260506103000 +0800" stop="20260506110000 +0800">
-        <title lang="zh">就这样钓鱼：云南江河春钓鲫</title>
-    </programme>
-    <programme channel="快乐垂钓" start="20260506110000 +0800" stop="20260506120000 +0800">
-        <title lang="zh">一起钓鱼吧第一期</title>
-    </programme>
-    <programme channel="快乐垂钓" start="20260506120000 +0800" stop="20260506140000 +0800">
-        <title lang="zh">快乐垂钓商城会员日0505（重播）</title>
-    </programme>
-    <programme channel="快乐垂钓" start="20260506140000 +0800" stop="20260506180000 +0800">
-        <title lang="zh">2024王者之战决赛第一天（上）</title>
-    </programme>
-    <programme channel="快乐垂钓" start="20260506180000 +0800" stop="20260506190000 +0800">
-        <title lang="zh">垂钓学院：春钓攻略</title>
-    </programme>
-    <programme channel="快乐垂钓" start="20260506190000 +0800" stop="20260506200000 +0800">
-        <title lang="zh">向往的渔乐生活：漫游桃花源（上）</title>
-    </programme>
-    <programme channel="快乐垂钓" start="20260506200000 +0800" stop="20260506220000 +0800">
-        <title lang="zh">快乐垂钓商城会员日0505（重播）</title>
-    </programme>
-    <programme channel="快乐垂钓" start="20260506220000 +0800" stop="20260507001000 +0800">
-        <title lang="zh">第三届黑坑拉力赛复赛第一场（重播）</title>
-    </programme>
     <channel id="东方卫视">
         <display-name lang="zh">东方卫视</display-name>
     </channel>
@@ -4458,7 +3840,7 @@
     <programme channel="河北卫视" start="20260506233000 +0800" stop="20260506233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260506233300 +0800" stop="20260507000000 +0800">
+    <programme channel="河北卫视" start="20260506233300 +0800" stop="20260507001500 +0800">
         <title lang="zh">纪录片《大河之北·文华燕赵》</title>
     </programme>
     <channel id="江西卫视">
@@ -4524,7 +3906,7 @@
     <programme channel="江西卫视" start="20260506224000 +0800" stop="20260506233000 +0800">
         <title lang="zh">新闻夜航</title>
     </programme>
-    <programme channel="江西卫视" start="20260506233000 +0800" stop="20260507000000 +0800">
+    <programme channel="江西卫视" start="20260506233000 +0800" stop="20260507011500 +0800">
         <title lang="zh">精品剧场:沉默的荣耀</title>
     </programme>
     <channel id="河南卫视">
@@ -4638,7 +4020,7 @@
     <programme channel="河南卫视" start="20260506230900 +0800" stop="20260506235200 +0800">
         <title lang="zh">晚间剧场</title>
     </programme>
-    <programme channel="河南卫视" start="20260506235200 +0800" stop="20260507000000 +0800">
+    <programme channel="河南卫视" start="20260506235200 +0800" stop="20260507000700 +0800">
         <title lang="zh">武林风精编版</title>
     </programme>
     <channel id="陕西卫视">
@@ -4719,7 +4101,7 @@
     <programme channel="陕西卫视" start="20260506231000 +0800" stop="20260506235100 +0800">
         <title lang="zh">晚间剧场:渡江侦察记</title>
     </programme>
-    <programme channel="陕西卫视" start="20260506235100 +0800" stop="20260507000000 +0800">
+    <programme channel="陕西卫视" start="20260506235100 +0800" stop="20260507003400 +0800">
         <title lang="zh">纪录时间</title>
     </programme>
     <channel id="大湾区卫视">
@@ -4887,7 +4269,7 @@
     <programme channel="湖北卫视" start="20260506223100 +0800" stop="20260506233300 +0800">
         <title lang="zh">夜观财经</title>
     </programme>
-    <programme channel="湖北卫视" start="20260506233300 +0800" stop="20260507000000 +0800">
+    <programme channel="湖北卫视" start="20260506233300 +0800" stop="20260507004700 +0800">
         <title lang="zh">大揭秘</title>
     </programme>
     <channel id="吉林卫视">
@@ -5001,7 +4383,7 @@
     <programme channel="吉林卫视" start="20260506230900 +0800" stop="20260506233900 +0800">
         <title lang="zh">凌晨剧场:奔腾年代</title>
     </programme>
-    <programme channel="吉林卫视" start="20260506233900 +0800" stop="20260507000000 +0800">
+    <programme channel="吉林卫视" start="20260506233900 +0800" stop="20260507002400 +0800">
         <title lang="zh">凌晨剧场:奔腾年代</title>
     </programme>
     <channel id="青海卫视">
@@ -5106,7 +4488,7 @@
     <programme channel="青海卫视" start="20260506230000 +0800" stop="20260506232400 +0800">
         <title lang="zh">晚间播报</title>
     </programme>
-    <programme channel="青海卫视" start="20260506232400 +0800" stop="20260507000000 +0800">
+    <programme channel="青海卫视" start="20260506232400 +0800" stop="20260507010400 +0800">
         <title lang="zh">午夜剧场:三体</title>
     </programme>
     <channel id="东南卫视">
@@ -5283,7 +4665,7 @@
     <programme channel="海南卫视" start="20260506223000 +0800" stop="20260506230000 +0800">
         <title lang="zh">海南新闻联播</title>
     </programme>
-    <programme channel="海南卫视" start="20260506230000 +0800" stop="20260507000000 +0800">
+    <programme channel="海南卫视" start="20260506230000 +0800" stop="20260507001500 +0800">
         <title lang="zh">卫视高尔夫</title>
     </programme>
     <channel id="海峡卫视">
@@ -8903,6 +8285,624 @@
     </programme>
     <programme channel="镇江新闻综合" start="20260506230000 +0800" stop="20260507065000 +0800">
         <title lang="zh">晚间剧场</title>
+    </programme>
+    <channel id="赛事最经典">
+        <display-name lang="zh">赛事最经典</display-name>
+    </channel>
+    <programme channel="赛事最经典" start="20260505223500 +0800" stop="20260506002000 +0800">
+        <title lang="zh">2024-25赛季德甲第12轮：多特蒙德1比1拜仁慕尼黑</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260506002000 +0800" stop="20260506020500 +0800">
+        <title lang="zh">2024足协杯决赛：山东泰山1比3上海海港</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260506020500 +0800" stop="20260506034100 +0800">
+        <title lang="zh">2024-25赛季德甲第11轮：多特蒙德4比0弗赖堡</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260506034100 +0800" stop="20260506052700 +0800">
+        <title lang="zh">2024-2025赛季英超联赛第12轮：南安普敦2比3利物浦</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260506052700 +0800" stop="20260506070800 +0800">
+        <title lang="zh">2024-2025赛季英超联赛第12轮：阿森纳3比0诺丁汉森林</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260506070800 +0800" stop="20260506084600 +0800">
+        <title lang="zh">2024-25赛季西甲第14轮：塞维利亚1比0巴列卡诺</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260506084600 +0800" stop="20260506102400 +0800">
+        <title lang="zh">西甲第14轮：莱加内斯VS皇马</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260506102400 +0800" stop="20260506114300 +0800">
+        <title lang="zh">2024-25赛季西甲第13轮：巴拉多利德1比1毕尔巴鄂竞技</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260506114300 +0800" stop="20260506130300 +0800">
+        <title lang="zh">2024-25赛季德甲第10轮：莱比锡0比0门兴格拉德巴赫</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260506130300 +0800" stop="20260506144100 +0800">
+        <title lang="zh">西甲第18轮：皇家马德里VS皇家贝蒂斯</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260506144100 +0800" stop="20260506161900 +0800">
+        <title lang="zh">西甲第17轮：比利亚雷亚尔VS巴塞罗那</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260506161900 +0800" stop="20260506181100 +0800">
+        <title lang="zh">西甲第22轮：皇家马德里VS巴列卡诺</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260506181100 +0800" stop="20260506195300 +0800">
+        <title lang="zh">2025-2026西甲联赛第20轮：马德里竞技VS阿拉维斯</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260506195300 +0800" stop="20260506204600 +0800">
+        <title lang="zh">2026斯诺克威尔士公开赛：墨菲VS常冰玉</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260506204600 +0800" stop="20260506222100 +0800">
+        <title lang="zh">国际足球系列赛第1轮：中国VS库拉索</title>
+    </programme>
+    <programme channel="赛事最经典" start="20260506222100 +0800" stop="20260507000000 +0800">
+        <title lang="zh">西安国际青年足球锦标赛：中国U23 VS 泰国U23</title>
+    </programme>
+    <channel id="体坛名栏汇">
+        <display-name lang="zh">体坛名栏汇</display-name>
+    </channel>
+    <programme channel="体坛名栏汇" start="20260505235700 +0800" stop="20260506004900 +0800">
+        <title lang="zh">棋牌乐20240110王星昊VS芈昱廷</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506004900 +0800" stop="20260506014100 +0800">
+        <title lang="zh">天下足球20260323冠军大反转</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506014100 +0800" stop="20260506023400 +0800">
+        <title lang="zh">天下足球20260316上半场换门将</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506023400 +0800" stop="20260506032600 +0800">
+        <title lang="zh">天下足球20260309罗德里戈：破碎的梦想</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506032600 +0800" stop="20260506041800 +0800">
+        <title lang="zh">天下足球20260302博德闪耀：走出北极圈</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506041800 +0800" stop="20260506051000 +0800">
+        <title lang="zh">天下足球20260223萨卡：青春正当时</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506051000 +0800" stop="20260506060000 +0800">
+        <title lang="zh">天下足球20260202徐彬：勇敢追梦</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506060000 +0800" stop="20260506064900 +0800">
+        <title lang="zh">天下足球20260126攀峰不止</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506064900 +0800" stop="20260506073900 +0800">
+        <title lang="zh">天下足球20260119阿隆索：未完成的蓝图</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506073900 +0800" stop="20260506083000 +0800">
+        <title lang="zh">天下足球20260112阿莫林：梦剧场困局</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506083000 +0800" stop="20260506095400 +0800">
+        <title lang="zh">天下足球20260105 2025·年度巅峰对决</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506095400 +0800" stop="20260506104500 +0800">
+        <title lang="zh">天下足球20251229疯狂的足球·2025</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506104500 +0800" stop="20260506105600 +0800">
+        <title lang="zh">天下足球2025年度失意阵容</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506105600 +0800" stop="20260506114600 +0800">
+        <title lang="zh">天下足球20251222哈兰德超越传奇</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506114600 +0800" stop="20260506122400 +0800">
+        <title lang="zh">天下足球20251215巴萨稳居榜首</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506122400 +0800" stop="20260506131400 +0800">
+        <title lang="zh">天下足球20251208 2026年世界杯十大看点</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506131400 +0800" stop="20260506143300 +0800">
+        <title lang="zh">天下足球20251201“齐”迹再现</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506143300 +0800" stop="20260506152200 +0800">
+        <title lang="zh">天下足球20251124 C罗：用数字说话</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506152200 +0800" stop="20260506161200 +0800">
+        <title lang="zh">天下足球20251103探访香港C罗博物馆</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506161200 +0800" stop="20260506170300 +0800">
+        <title lang="zh">天下足球20251027国家德比</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506170300 +0800" stop="20260506175300 +0800">
+        <title lang="zh">天下足球20251020佛得角：岛国奇迹</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506175300 +0800" stop="20260506183900 +0800">
+        <title lang="zh">篮球公园20260410对话——张茹</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506183900 +0800" stop="20260506190400 +0800">
+        <title lang="zh">体坛零距离20260409冬奥之约：谷爱凌 李方慧 张可欣 刘奕杉</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506190400 +0800" stop="20260506195500 +0800">
+        <title lang="zh">足球之夜20260409场内场外</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506195500 +0800" stop="20260506201000 +0800">
+        <title lang="zh">艺术里的奥林匹克20260404马拉松在一八九六</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506201000 +0800" stop="20260506202500 +0800">
+        <title lang="zh">艺术里的奥林匹克20260405在光影中奔跑</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506202500 +0800" stop="20260506211600 +0800">
+        <title lang="zh">天下足球20260406那些年，我们一起追的蓝衣军团</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506211600 +0800" stop="20260506220200 +0800">
+        <title lang="zh">篮球公园20260403吴前</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506220200 +0800" stop="20260506221500 +0800">
+        <title lang="zh">体坛零距离20260402冬奥之约：李琰 吴宇 刘瀚彬 李文淏</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506221500 +0800" stop="20260506222700 +0800">
+        <title lang="zh">体坛零距离20260402冬奥之约：金博洋</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506222700 +0800" stop="20260506231700 +0800">
+        <title lang="zh">足球之夜20260402中国足球齐头并进</title>
+    </programme>
+    <programme channel="体坛名栏汇" start="20260506231700 +0800" stop="20260507000000 +0800">
+        <title lang="zh">天下足球20260330边缘人</title>
+    </programme>
+    <channel id="四海钓鱼">
+        <display-name lang="zh">四海钓鱼</display-name>
+    </channel>
+    <programme channel="四海钓鱼" start="20260506000000 +0800" stop="20260506000500 +0800">
+        <title lang="zh">渔乐前沿</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506000500 +0800" stop="20260506010500 +0800">
+        <title lang="zh">钓赛最前线：长海海钓纪实</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506010500 +0800" stop="20260506020500 +0800">
+        <title lang="zh">钓赛最前线：长海海钓纪实</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506020500 +0800" stop="20260506030500 +0800">
+        <title lang="zh">钓赛最前线：长海海钓纪实</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506030500 +0800" stop="20260506040000 +0800">
+        <title lang="zh">钓赛最前线：长海海钓纪实</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506040000 +0800" stop="20260506040500 +0800">
+        <title lang="zh">渔乐前沿</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506040500 +0800" stop="20260506051000 +0800">
+        <title lang="zh">钓赛最前线：长海海钓纪实</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506051000 +0800" stop="20260506061000 +0800">
+        <title lang="zh">钓赛最前线：长海海钓纪实</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506061000 +0800" stop="20260506071000 +0800">
+        <title lang="zh">钓赛最前线：长海海钓纪实</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506071000 +0800" stop="20260506081000 +0800">
+        <title lang="zh">钓赛最前线：长海海钓纪实</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506081000 +0800" stop="20260506083500 +0800">
+        <title lang="zh">钓赛最前线：长海海钓纪实</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506083500 +0800" stop="20260506090000 +0800">
+        <title lang="zh">渔具新视界：天津碧海展</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506090000 +0800" stop="20260506091500 +0800">
+        <title lang="zh">钓赛最前线：CAA温宿站</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506091500 +0800" stop="20260506093000 +0800">
+        <title lang="zh">钓赛最前线：CAA黄桥站</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506093000 +0800" stop="20260506094500 +0800">
+        <title lang="zh">钓赛最前线：CAA疏勒站</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506094500 +0800" stop="20260506100000 +0800">
+        <title lang="zh">钓赛最前线：紫蒙湖杯</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506100000 +0800" stop="20260506101500 +0800">
+        <title lang="zh">钓赛最前线：CAA洛南站</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506101500 +0800" stop="20260506104000 +0800">
+        <title lang="zh">钓赛最前线：升钟湖钓赛</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506104000 +0800" stop="20260506104500 +0800">
+        <title lang="zh">渔乐前沿</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506104500 +0800" stop="20260506105500 +0800">
+        <title lang="zh">渔乐地图：红旗水库</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506105500 +0800" stop="20260506110000 +0800">
+        <title lang="zh">渔乐前沿</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506110000 +0800" stop="20260506112500 +0800">
+        <title lang="zh">渔具新视界：天津碧海展（自）</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506112500 +0800" stop="20260506114500 +0800">
+        <title lang="zh">钓谈风云</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506114500 +0800" stop="20260506120000 +0800">
+        <title lang="zh">钓赛最前线：“万年上山杯”首届溪流大师赛（浦江）</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506120000 +0800" stop="20260506123000 +0800">
+        <title lang="zh">渔具新视界：顺义渔具展（自）</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506123000 +0800" stop="20260506123500 +0800">
+        <title lang="zh">渔乐前沿</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506123500 +0800" stop="20260506124500 +0800">
+        <title lang="zh">渔乐地图：红旗水库</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506124500 +0800" stop="20260506130000 +0800">
+        <title lang="zh">钓赛最前线：中国海钓锦标赛万宁海钓拉力赛</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506130000 +0800" stop="20260506140000 +0800">
+        <title lang="zh">钓赛最前线：长海海钓纪实</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506140000 +0800" stop="20260506150000 +0800">
+        <title lang="zh">钓赛最前线：长海海钓纪实</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506150000 +0800" stop="20260506160000 +0800">
+        <title lang="zh">钓赛最前线：长海海钓纪实</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506160000 +0800" stop="20260506165500 +0800">
+        <title lang="zh">钓赛最前线：长海海钓纪实</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506165500 +0800" stop="20260506180000 +0800">
+        <title lang="zh">钓赛最前线：长海海钓纪实</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506180000 +0800" stop="20260506181000 +0800">
+        <title lang="zh">渔乐地图：红旗水库</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506181000 +0800" stop="20260506183000 +0800">
+        <title lang="zh">钓谈风云</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506183000 +0800" stop="20260506183500 +0800">
+        <title lang="zh">渔乐前沿</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506183500 +0800" stop="20260506185000 +0800">
+        <title lang="zh">钓赛最前线：中华垂钓大赛总决赛东平站</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506185000 +0800" stop="20260506191500 +0800">
+        <title lang="zh">钓赛最前线：2025庐山西海垂钓运动季</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506191500 +0800" stop="20260506194500 +0800">
+        <title lang="zh">渔具新视界：顺义渔具展</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506194500 +0800" stop="20260506200500 +0800">
+        <title lang="zh">钓赛最前线：2025麻城女钓手路亚挑战赛</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506200500 +0800" stop="20260506203000 +0800">
+        <title lang="zh">渔具新视界：天津碧海渔具博览会</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506203000 +0800" stop="20260506203500 +0800">
+        <title lang="zh">渔乐前沿</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506203500 +0800" stop="20260506204500 +0800">
+        <title lang="zh">渔乐地图：红旗水库</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506204500 +0800" stop="20260506210000 +0800">
+        <title lang="zh">钓赛最前线：2025自然水域武汉站</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506210000 +0800" stop="20260506210500 +0800">
+        <title lang="zh">渔乐前沿</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506210500 +0800" stop="20260506212000 +0800">
+        <title lang="zh">钓赛最前线：“沃鼎杯”2025年中华钓鲫精英赛（江西南昌站）</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506212000 +0800" stop="20260506213500 +0800">
+        <title lang="zh">钓赛最前线：2025自然水域武汉站</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506213500 +0800" stop="20260506220000 +0800">
+        <title lang="zh">渔具新视界：天津碧海渔具博览会</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506220000 +0800" stop="20260506221500 +0800">
+        <title lang="zh">钓赛最前线：“巧渔夫杯”天津宝坻站</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506221500 +0800" stop="20260506224000 +0800">
+        <title lang="zh">钓赛最前线：2025庐山西海垂钓运动季</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506224000 +0800" stop="20260506224500 +0800">
+        <title lang="zh">渔乐前沿</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506224500 +0800" stop="20260506225500 +0800">
+        <title lang="zh">渔乐地图：红旗水库</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506225500 +0800" stop="20260506231500 +0800">
+        <title lang="zh">钓赛最前线：2025麻城女钓手路亚挑战赛</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506231500 +0800" stop="20260506233000 +0800">
+        <title lang="zh">钓赛最前线：“万年上山杯”首届溪流大师赛（浦江）</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506233000 +0800" stop="20260506235500 +0800">
+        <title lang="zh">渔具新视界：天津碧海渔具博览会</title>
+    </programme>
+    <programme channel="四海钓鱼" start="20260506235500 +0800" stop="20260507000000 +0800">
+        <title lang="zh">渔乐前沿</title>
+    </programme>
+    <channel id="陕西体育休闲频道">
+        <display-name lang="zh">陕西体育休闲频道</display-name>
+    </channel>
+    <programme channel="陕西体育休闲频道" start="20260506000000 +0800" stop="20260506004300 +0800">
+        <title lang="zh">天下赛场</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506004300 +0800" stop="20260506064600 +0800">
+        <title lang="zh">导视+结束曲</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506064600 +0800" stop="20260506064700 +0800">
+        <title lang="zh">台标晨曲</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506064700 +0800" stop="20260506071700 +0800">
+        <title lang="zh">搏击王</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506071700 +0800" stop="20260506072000 +0800">
+        <title lang="zh">频道+导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506072000 +0800" stop="20260506075000 +0800">
+        <title lang="zh">体育时间</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506075000 +0800" stop="20260506081000 +0800">
+        <title lang="zh">天下赛场</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506081000 +0800" stop="20260506084000 +0800">
+        <title lang="zh">剧场：和平饭店-41</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506084000 +0800" stop="20260506090000 +0800">
+        <title lang="zh">陕西体育</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506090000 +0800" stop="20260506101000 +0800">
+        <title lang="zh">夺宝秦兵</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506101000 +0800" stop="20260506103000 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506103000 +0800" stop="20260506103300 +0800">
+        <title lang="zh">频宣+导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506103300 +0800" stop="20260506104800 +0800">
+        <title lang="zh">体育会客厅</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506104800 +0800" stop="20260506110900 +0800">
+        <title lang="zh">陕西体育</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506110900 +0800" stop="20260506113900 +0800">
+        <title lang="zh">剧场：和平饭店-42</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506113900 +0800" stop="20260506115900 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506115900 +0800" stop="20260506120000 +0800">
+        <title lang="zh">导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506120000 +0800" stop="20260506131700 +0800">
+        <title lang="zh">夺宝秦兵</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506131700 +0800" stop="20260506133700 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506133700 +0800" stop="20260506135500 +0800">
+        <title lang="zh">赛事集锦</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506135500 +0800" stop="20260506141000 +0800">
+        <title lang="zh">体育会客厅</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506141000 +0800" stop="20260506144000 +0800">
+        <title lang="zh">剧场：和平饭店-43</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506144000 +0800" stop="20260506150000 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506150000 +0800" stop="20260506150100 +0800">
+        <title lang="zh">导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506150100 +0800" stop="20260506153100 +0800">
+        <title lang="zh">剧场：和平饭店-44</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506153100 +0800" stop="20260506155100 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506155100 +0800" stop="20260506155500 +0800">
+        <title lang="zh">导视+广告</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506155500 +0800" stop="20260506162500 +0800">
+        <title lang="zh">剧场：和平饭店-45</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506162500 +0800" stop="20260506164500 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506164500 +0800" stop="20260506165000 +0800">
+        <title lang="zh">广告+导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506165000 +0800" stop="20260506172000 +0800">
+        <title lang="zh">剧场：和平饭店-46</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506172000 +0800" stop="20260506174000 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506174000 +0800" stop="20260506175500 +0800">
+        <title lang="zh">体育会客厅</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506175500 +0800" stop="20260506175600 +0800">
+        <title lang="zh">导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506175600 +0800" stop="20260506182600 +0800">
+        <title lang="zh">剧场：和平饭店-47</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506182600 +0800" stop="20260506184600 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506184600 +0800" stop="20260506190600 +0800">
+        <title lang="zh">天下赛场</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506190600 +0800" stop="20260506191000 +0800">
+        <title lang="zh">广告+导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506191000 +0800" stop="20260506201500 +0800">
+        <title lang="zh">开心智斗</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506201500 +0800" stop="20260506205500 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506205500 +0800" stop="20260506210000 +0800">
+        <title lang="zh">广告+导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506210000 +0800" stop="20260506212000 +0800">
+        <title lang="zh">陕西体育</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506212000 +0800" stop="20260506212500 +0800">
+        <title lang="zh">广告+导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506212500 +0800" stop="20260506224100 +0800">
+        <title lang="zh">夺宝秦兵</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506224100 +0800" stop="20260506230100 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506230100 +0800" stop="20260506230200 +0800">
+        <title lang="zh">导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506230200 +0800" stop="20260506233200 +0800">
+        <title lang="zh">搏击王</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506233200 +0800" stop="20260506233300 +0800">
+        <title lang="zh">导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20260506233300 +0800" stop="20260507000000 +0800">
+        <title lang="zh">天下赛场</title>
+    </programme>
+    <channel id="24小时城市联赛轮播台">
+        <display-name lang="zh">24小时城市联赛轮播台</display-name>
+    </channel>
+    <programme channel="24小时城市联赛轮播台" start="20260505225900 +0800" stop="20260506010800 +0800">
+        <title lang="zh">福建闽超第1轮全场回放：龙岩2:0漳州</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260506010800 +0800" stop="20260506030800 +0800">
+        <title lang="zh">安徽徽青赛第10轮全场回放:淮北6:0芜湖</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260506030800 +0800" stop="20260506052400 +0800">
+        <title lang="zh">安徽徽BA第1轮全场回放：黄山86:70池州</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260506052400 +0800" stop="20260506083800 +0800">
+        <title lang="zh">山东齐鲁超赛第1轮全场回放：烟台队5:0东营队</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260506083800 +0800" stop="20260506104200 +0800">
+        <title lang="zh">湖北武汉城超第1轮全场回放：武汉引力空间93:85CHA海外仓</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260506104200 +0800" stop="20260506125900 +0800">
+        <title lang="zh">云南滇超第11轮全场回放：迪庆队3:1昭通队</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260506125900 +0800" stop="20260506153400 +0800">
+        <title lang="zh">四川川超第7轮全场回放：成都锦城队2:1乐山味道非常队</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260506153400 +0800" stop="20260506174900 +0800">
+        <title lang="zh">广西县超第7轮全场回放：南宁市江南区队4:1百色市田东县队</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260506174900 +0800" stop="20260506195400 +0800">
+        <title lang="zh">江西赣BA总决赛第3轮全场回放:萍乡87:79上饶</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260506195400 +0800" stop="20260506215200 +0800">
+        <title lang="zh">广东粤BA第5轮全场回放：中山101:77江门</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260506215200 +0800" stop="20260507000900 +0800">
+        <title lang="zh">浙江吴越杯第5轮全场回放：丽水1:2杭州</title>
+    </programme>
+    <channel id="武术世界">
+        <display-name lang="zh">武术世界</display-name>
+    </channel>
+    <programme channel="武术世界" start="20260506000000 +0800" stop="20260506042000 +0800">
+        <title lang="zh">巅峰擂台</title>
+    </programme>
+    <programme channel="武术世界" start="20260506042000 +0800" stop="20260506043000 +0800">
+        <title lang="zh">以武会影</title>
+    </programme>
+    <programme channel="武术世界" start="20260506043000 +0800" stop="20260506051000 +0800">
+        <title lang="zh">功夫课堂：少林连环拳</title>
+    </programme>
+    <programme channel="武术世界" start="20260506051000 +0800" stop="20260506055000 +0800">
+        <title lang="zh">功夫课堂：太极缠丝功</title>
+    </programme>
+    <programme channel="武术世界" start="20260506055000 +0800" stop="20260506063000 +0800">
+        <title lang="zh">功夫课堂：四式五行太极</title>
+    </programme>
+    <programme channel="武术世界" start="20260506063000 +0800" stop="20260506071000 +0800">
+        <title lang="zh">功夫课堂：少林八段锦</title>
+    </programme>
+    <programme channel="武术世界" start="20260506071000 +0800" stop="20260506073000 +0800">
+        <title lang="zh">以武会影</title>
+    </programme>
+    <programme channel="武术世界" start="20260506073000 +0800" stop="20260506081000 +0800">
+        <title lang="zh">武林人物周刊：啸谈武林</title>
+    </programme>
+    <programme channel="武术世界" start="20260506081000 +0800" stop="20260506090000 +0800">
+        <title lang="zh">武观天下：功夫少林</title>
+    </programme>
+    <programme channel="武术世界" start="20260506090000 +0800" stop="20260506093000 +0800">
+        <title lang="zh">瑜伽课堂</title>
+    </programme>
+    <programme channel="武术世界" start="20260506093000 +0800" stop="20260506121000 +0800">
+        <title lang="zh">巅峰擂台特约：JCK战觉城</title>
+    </programme>
+    <programme channel="武术世界" start="20260506121000 +0800" stop="20260506125000 +0800">
+        <title lang="zh">武观天下</title>
+    </programme>
+    <programme channel="武术世界" start="20260506125000 +0800" stop="20260506125500 +0800">
+        <title lang="zh">武道健康特约之：健康小贴士</title>
+    </programme>
+    <programme channel="武术世界" start="20260506125500 +0800" stop="20260506153500 +0800">
+        <title lang="zh">巅峰擂台特约：ONE冠军赛</title>
+    </programme>
+    <programme channel="武术世界" start="20260506153500 +0800" stop="20260506181500 +0800">
+        <title lang="zh">巅峰擂台</title>
+    </programme>
+    <programme channel="武术世界" start="20260506181500 +0800" stop="20260506185500 +0800">
+        <title lang="zh">武林人物周刊：啸谈武林</title>
+    </programme>
+    <programme channel="武术世界" start="20260506185500 +0800" stop="20260506190000 +0800">
+        <title lang="zh">武道健康特约之：健康小贴士</title>
+    </programme>
+    <programme channel="武术世界" start="20260506190000 +0800" stop="20260506194000 +0800">
+        <title lang="zh">武观天下</title>
+    </programme>
+    <programme channel="武术世界" start="20260506194000 +0800" stop="20260506210000 +0800">
+        <title lang="zh">武林风</title>
+    </programme>
+    <programme channel="武术世界" start="20260506210000 +0800" stop="20260506222000 +0800">
+        <title lang="zh">武林笼中对</title>
+    </programme>
+    <programme channel="武术世界" start="20260506222000 +0800" stop="20260506230000 +0800">
+        <title lang="zh">武观天下</title>
+    </programme>
+    <programme channel="武术世界" start="20260506230000 +0800" stop="20260507000000 +0800">
+        <title lang="zh">巅峰擂台</title>
+    </programme>
+    <channel id="快乐垂钓">
+        <display-name lang="zh">快乐垂钓</display-name>
+    </channel>
+    <programme channel="快乐垂钓" start="20260505233000 +0800" stop="20260506010000 +0800">
+        <title lang="zh">第三届黑坑拉力赛冠亚决赛第四节（重播）</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260506010000 +0800" stop="20260506020000 +0800">
+        <title lang="zh">我们的征途：椰乡自由行（上）</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260506020000 +0800" stop="20260506080000 +0800">
+        <title lang="zh">收播结束</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260506080000 +0800" stop="20260506100000 +0800">
+        <title lang="zh">快乐垂钓商城会员日0505（重播）</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260506100000 +0800" stop="20260506103000 +0800">
+        <title lang="zh">钩尖上的美食：万峰湖寻鲤（上）</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260506103000 +0800" stop="20260506110000 +0800">
+        <title lang="zh">就这样钓鱼：云南江河春钓鲫</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260506110000 +0800" stop="20260506120000 +0800">
+        <title lang="zh">一起钓鱼吧第一期</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260506120000 +0800" stop="20260506140000 +0800">
+        <title lang="zh">快乐垂钓商城会员日0505（重播）</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260506140000 +0800" stop="20260506180000 +0800">
+        <title lang="zh">2024王者之战决赛第一天（上）</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260506180000 +0800" stop="20260506190000 +0800">
+        <title lang="zh">垂钓学院：春钓攻略</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260506190000 +0800" stop="20260506200000 +0800">
+        <title lang="zh">向往的渔乐生活：漫游桃花源（上）</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260506200000 +0800" stop="20260506220000 +0800">
+        <title lang="zh">快乐垂钓商城会员日0505（重播）</title>
+    </programme>
+    <programme channel="快乐垂钓" start="20260506220000 +0800" stop="20260507001000 +0800">
+        <title lang="zh">第三届黑坑拉力赛复赛第一场（重播）</title>
     </programme>
     <channel id="经典香港电影">
         <display-name lang="zh">经典香港电影</display-name>
