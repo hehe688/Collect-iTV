@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="精準導航·咪視盡享" generator-info-url=""https://i叚娤.倖鍢.net.cn"    ">
+<tv generator-info-name="精準導航·咪視盡享" generator-info-url="https://i叚娤.倖鍢.net.cn">
     <channel id="CCTV1综合">
         <display-name lang="zh">CCTV1综合</display-name>
     </channel>
@@ -537,10 +537,10 @@
     <programme channel="CCTV5体育" start="20260507190000 +0800" stop="20260507193000 +0800">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260507193000 +0800" stop="20260507213000 +0800">
+    <programme channel="CCTV5体育" start="20260507193000 +0800" stop="20260507220000 +0800">
         <title lang="zh">2026年世界乒乓球团体锦标赛-男团1/4决赛（德国VS日本）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260507213000 +0800" stop="20260507223500 +0800">
+    <programme channel="CCTV5体育" start="20260507220000 +0800" stop="20260507223500 +0800">
         <title lang="zh">体育世界</title>
     </programme>
     <programme channel="CCTV5体育" start="20260507223500 +0800" stop="20260507233500 +0800">
@@ -3363,7 +3363,7 @@
     <programme channel="广东卫视" start="20260507230500 +0800" stop="20260507234500 +0800">
         <title lang="zh">真心英雄之现场(4)</title>
     </programme>
-    <programme channel="广东卫视" start="20260507234500 +0800" stop="20260508000000 +0800">
+    <programme channel="广东卫视" start="20260507234500 +0800" stop="20260508010000 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
