@@ -123,8 +123,11 @@
     <programme channel="CCTV1综合" start="20260511220000 +0800" stop="20260511223545 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260511223545 +0800" stop="20260511235900 +0800">
-        <title lang="zh">城市风华录-3</title>
+    <programme channel="CCTV1综合" start="20260511223545 +0800" stop="20260511231015 +0800">
+        <title lang="zh">自然中国-探秘哀牢山-地质密码</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20260511231015 +0800" stop="20260511235900 +0800">
+        <title lang="zh">宗师列传·大宋词人传-晏殊</title>
     </programme>
     <channel id="CCTV2财经">
         <display-name lang="zh">CCTV2财经</display-name>
