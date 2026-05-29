@@ -1368,7 +1368,6 @@ CETV4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index
 福建综合,https://live.264788.xyz/channel/fujianzonghe?streamid=6464f306ec4c0acd88d9a698fc2d699e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 龙岩综合,http://117.27.190.42:9998/tsfile/live/23297_1.m3u8
 🚋甘肃频道,#genre#
- 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
  嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
  张掖新闻综合,https://play.kankanlive.com/live/1720583434627241.m3u8
  永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
@@ -1383,7 +1382,6 @@ CETV4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index
 天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
 定西综合,https://play.kankanlive.com/live/1675303871634928.m3u8
 成县综合,https://play.kankanlive.com/live/1702454377323961.m3u8
-新闻综合,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 景泰综合,https://play.kankanlive.com/live/1624439143745981.m3u8?zgand
 武威新闻,https://play.kankanlive.com/live/1693539781636986.m3u8
 甘南综合,https://play.kankanlive.com/live/1711955176432990.m3u8
@@ -2457,6 +2455,7 @@ CETV4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index
 天津体育,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=tjtv5
 武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 🛹新疆频道,#genre#
+ 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
  伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8
  伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8
  伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8
@@ -2476,6 +2475,7 @@ CETV4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index
 哈密二套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
 巴音郭楞州,http://58.57.40.22:9901/tsfile/live/1024_1.m3u8
+新闻综合,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8
 石河子影视文体,http://124.88.144.73:1935/live/jjsh/HasBahCa.m3u8
