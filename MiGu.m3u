@@ -20,6 +20,8 @@ http://47.119.24.76:59095/624878271
 #EXTINF:-1 tvg-name="CCTV3" group-title="央视频道", CCTV3
 http://120.233.73.4:19901/tsfile/live/1029_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV4" group-title="央视频道", CCTV4
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1780207200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-238a97ed6217d2c0fcc69381624ebc9f&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道", CCTV4
 http://47.119.24.76:59095/631780421
 #EXTINF:-1 tvg-name="CCTV4" group-title="央视频道", CCTV4
 http://47.119.24.76:59095/608807419
@@ -71,12 +73,10 @@ http://120.233.73.4:19901/tsfile/live/1001_1.m3u8?key=txiptv
 http://47.119.24.76:59095/673168223
 #EXTINF:-1 tvg-name="CCTV15" group-title="央视频道", CCTV15
 http://120.233.73.4:19901/tsfile/live/1002_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="CCTV16" group-title="央视频道", CCTV16
-https://piccpndks.v.kcdnvip.com/audio/cctv16_2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" group-title="央视频道", CCTV17
 http://47.119.24.76:59095/673168256
 #EXTINF:-1 tvg-name="CCTV4K" group-title="央视频道", CCTV4K
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1780196400-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-bb980232c97fee76df7f277d449e07ef&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4k_mbd.m3u8?auth_key=1780207200-1-b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c-c2ade6af4d9c6a6efe60c71c82f76c39&yid=b59134a2ead43d7f783f943c8f535e7bb80c5169575b2e8efcd5b3ddea21b41c
 #EXTINF:-1 tvg-name="三沙卫视" group-title="卫视频道", 三沙卫视
 http://47.119.24.76:59095/961023778
 #EXTINF:-1 tvg-name="东南卫视" group-title="卫视频道", 东南卫视
@@ -89,10 +89,14 @@ http://120.233.73.4:19901/tsfile/live/1041_1.m3u8?key=txiptv
 http://47.119.24.76:59095/956904896
 #EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道", 兵团卫视
 http://47.119.24.76:59095/956923145
+#EXTINF:-1 tvg-name="兵团卫视" group-title="卫视频道", 兵团卫视
+http://fcasad.x3322.net:9901/tsfile/live/1092_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道", 北京卫视
 http://47.119.24.76:59095/630287636
 #EXTINF:-1 tvg-name="北京卫视" group-title="卫视频道", 北京卫视
 http://120.233.73.4:19901/tsfile/live/1040_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="厦门卫视" group-title="卫视频道", 厦门卫视
+http://fcasad.x3322.net:9901/tsfile/live/1093_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="吉林卫视" group-title="卫视频道", 吉林卫视
 http://47.119.24.76:59095/947472500
 #EXTINF:-1 tvg-name="四川卫视" group-title="卫视频道", 四川卫视
@@ -101,22 +105,26 @@ https://piccpndks.v.kcdnvip.com/audio/sichuan_2/index.m3u8
 http://120.233.73.4:19901/tsfile/live/1011_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="卫视频道", 大湾区卫视
 http://47.119.24.76:59095/608917627
-#EXTINF:-1 tvg-name="天津卫视" group-title="卫视频道", 天津卫视
-https://piccpndks.v.kcdnvip.com/audio/tianjin_2/index.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道", 宁夏卫视
 http://47.119.24.76:59095/738910535
-#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道", 山西卫视
-https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/x1sqfR0.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道", 宁夏卫视
+http://fcasad.x3322.net:9901/tsfile/live/1088_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道", 广东卫视
 http://47.119.24.76:59095/608831231
 #EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道", 广东卫视
 http://120.233.73.4:19901/tsfile/live/1004_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="广西卫视" group-title="卫视频道", 广西卫视
+https://piccpndks.v.kcdnvip.com/audio/guangxi_2/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" group-title="卫视频道", 新疆卫视
+http://fcasad.x3322.net:9901/tsfile/live/1090_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道", 江苏卫视
 http://47.119.24.76:59095/623899368
 #EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道", 江苏卫视
 http://120.233.73.4:19901/tsfile/live/1009_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道", 江西卫视
 http://47.119.24.76:59095/783847495
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道", 河北卫视
+http://47.119.24.76:59095/962042070
 #EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道", 河南卫视
 http://47.119.24.76:59095/790187291
 #EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道", 浙江卫视
