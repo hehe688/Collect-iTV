@@ -73,6 +73,8 @@ http://120.233.73.4:19901/tsfile/live/1002_1.m3u8?key=txiptv
 http://47.119.24.76:59095/673168256
 #EXTINF:-1 tvg-name="三沙卫视" group-title="卫视频道", 三沙卫视
 http://47.119.24.76:59095/961023778
+#EXTINF:-1 tvg-name="东南卫视" group-title="卫视频道", 东南卫视
+http://47.119.24.76:59095/849116810
 #EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道", 东方卫视
 http://47.119.24.76:59095/651632648
 #EXTINF:-1 tvg-name="东方卫视" group-title="卫视频道", 东方卫视
@@ -95,28 +97,24 @@ http://47.119.24.76:59095/608917627
 http://47.119.24.76:59095/738910535
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视频道", 宁夏卫视
 http://120.198.86.186:9901/tsfile/live/1088_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="山西卫视" group-title="卫视频道", 山西卫视
-http://120.198.86.186:9901/tsfile/live/1084_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道", 广东卫视
 http://47.119.24.76:59095/608831231
 #EXTINF:-1 tvg-name="广东卫视" group-title="卫视频道", 广东卫视
 http://120.233.73.4:19901/tsfile/live/1004_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="旅游卫视" group-title="卫视频道", 旅游卫视
-http://fcasad.x3322.net:9901/tsfile/live/1087_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道", 江苏卫视
 http://47.119.24.76:59095/623899368
 #EXTINF:-1 tvg-name="江苏卫视" group-title="卫视频道", 江苏卫视
 http://120.233.73.4:19901/tsfile/live/1009_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="江西卫视" group-title="卫视频道", 江西卫视
 http://47.119.24.76:59095/783847495
+#EXTINF:-1 tvg-name="河北卫视" group-title="卫视频道", 河北卫视
+http://47.119.24.76:59095/962042070
 #EXTINF:-1 tvg-name="河南卫视" group-title="卫视频道", 河南卫视
 http://47.119.24.76:59095/790187291
 #EXTINF:-1 tvg-name="浙江卫视" group-title="卫视频道", 浙江卫视
 http://120.233.73.4:19901/tsfile/live/1008_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="海南卫视" group-title="卫视频道", 海南卫视
 http://47.119.24.76:59095/947472502
-#EXTINF:-1 tvg-name="海峡卫视" group-title="卫视频道", 海峡卫视
-http://47.119.24.76:59095/849119120
 #EXTINF:-1 tvg-name="深圳卫视" group-title="卫视频道", 深圳卫视
 http://120.233.73.4:19901/tsfile/live/1034_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="湖北卫视" group-title="卫视频道", 湖北卫视
@@ -126,7 +124,9 @@ http://120.233.73.4:19901/tsfile/live/1039_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="湖南卫视" group-title="卫视频道", 湖南卫视
 http://120.233.73.4:19901/tsfile/live/1007_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="甘肃卫视" group-title="卫视频道", 甘肃卫视
-http://fcasad.x3322.net:9901/tsfile/live/1091_1.m3u8?key=txiptv
+http://120.198.86.186:9901/tsfile/live/1091_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="西藏卫视" group-title="卫视频道", 西藏卫视
+http://120.198.86.186:9901/tsfile/live/1089_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="辽宁卫视" group-title="卫视频道", 辽宁卫视
 http://47.119.24.76:59095/630291707
 #EXTINF:-1 tvg-name="重庆卫视" group-title="卫视频道", 重庆卫视
