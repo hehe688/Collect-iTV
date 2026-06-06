@@ -99,7 +99,7 @@
     <programme channel="CCTV1" start="20260606223600 +0800" stop="20260606232700 +0800">
         <title lang="zh">开讲啦-2026-16</title>
     </programme>
-    <programme channel="CCTV1" start="20260606232700 +0800" stop="20260607010300 +0800">
+    <programme channel="CCTV1" start="20260606232700 +0800" stop="20260607010200 +0800">
         <title lang="zh">非遗里的中国（第四季）-7</title>
     </programme>
     <channel id="CCTV2">
@@ -342,10 +342,10 @@
     <programme channel="CCTV4" start="20260606070000 +0800" stop="20260606073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260606073000 +0800" stop="20260606080000 +0800">
+    <programme channel="CCTV4" start="20260606073000 +0800" stop="20260606080100 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4" start="20260606080000 +0800" stop="20260606090000 +0800">
+    <programme channel="CCTV4" start="20260606080100 +0800" stop="20260606090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4" start="20260606090000 +0800" stop="20260606092800 +0800">
@@ -438,10 +438,10 @@
     <programme channel="CCTV5" start="20260606053000 +0800" stop="20260606060000 +0800">
         <title lang="zh">实况录像-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌1</title>
     </programme>
-    <programme channel="CCTV5" start="20260606060000 +0800" stop="20260606063000 +0800">
+    <programme channel="CCTV5" start="20260606060000 +0800" stop="20260606063100 +0800">
         <title lang="zh">实况录像-2026年艺术体操世界杯 塔什干站 25分钟版</title>
     </programme>
-    <programme channel="CCTV5" start="20260606063000 +0800" stop="20260606070000 +0800">
+    <programme channel="CCTV5" start="20260606063100 +0800" stop="20260606070000 +0800">
         <title lang="zh">健身动起来</title>
     </programme>
     <programme channel="CCTV5" start="20260606070000 +0800" stop="20260606080300 +0800">
@@ -555,14 +555,17 @@
     <channel id="CCTV6">
         <display-name lang="zh">CCTV6</display-name>
     </channel>
-    <programme channel="CCTV6" start="20260605222300 +0800" stop="20260606010800 +0800">
+    <programme channel="CCTV6" start="20260605222300 +0800" stop="20260606005300 +0800">
         <title lang="zh">夺宝奇兵：命运转盘</title>
     </programme>
-    <programme channel="CCTV6" start="20260606010800 +0800" stop="20260606025500 +0800">
+    <programme channel="CCTV6" start="20260606005300 +0800" stop="20260606023600 +0800">
         <title lang="zh">老皮探长</title>
     </programme>
-    <programme channel="CCTV6" start="20260606025500 +0800" stop="20260606043600 +0800">
+    <programme channel="CCTV6" start="20260606023600 +0800" stop="20260606041700 +0800">
         <title lang="zh">疯狂的石头</title>
+    </programme>
+    <programme channel="CCTV6" start="20260606041700 +0800" stop="20260606043600 +0800">
+        <title lang="zh">我是代办</title>
     </programme>
     <programme channel="CCTV6" start="20260606043600 +0800" stop="20260606065500 +0800">
         <title lang="zh">我是代办</title>
@@ -1203,10 +1206,10 @@
     <programme channel="CCTV13" start="20260606100000 +0800" stop="20260606120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260606120000 +0800" stop="20260606123300 +0800">
+    <programme channel="CCTV13" start="20260606120000 +0800" stop="20260606123600 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260606123300 +0800" stop="20260606130000 +0800">
+    <programme channel="CCTV13" start="20260606123600 +0800" stop="20260606130000 +0800">
         <title lang="zh">军情时间到</title>
     </programme>
     <programme channel="CCTV13" start="20260606130000 +0800" stop="20260606140000 +0800">
