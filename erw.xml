@@ -351,10 +351,10 @@
     <programme channel="CCTV4" start="20260609070000 +0800" stop="20260609073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260609073000 +0800" stop="20260609080000 +0800">
+    <programme channel="CCTV4" start="20260609073000 +0800" stop="20260609080100 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4" start="20260609080000 +0800" stop="20260609090000 +0800">
+    <programme channel="CCTV4" start="20260609080100 +0800" stop="20260609090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4" start="20260609090000 +0800" stop="20260609093000 +0800">
@@ -477,10 +477,10 @@
     <programme channel="CCTV5" start="20260609053000 +0800" stop="20260609060000 +0800">
         <title lang="zh">实况录像-2026年射箭世界杯 中国站 2</title>
     </programme>
-    <programme channel="CCTV5" start="20260609060000 +0800" stop="20260609063000 +0800">
+    <programme channel="CCTV5" start="20260609060000 +0800" stop="20260609063100 +0800">
         <title lang="zh">2026年体操世界杯-安塔利亚站精彩</title>
     </programme>
-    <programme channel="CCTV5" start="20260609063000 +0800" stop="20260609070000 +0800">
+    <programme channel="CCTV5" start="20260609063100 +0800" stop="20260609070000 +0800">
         <title lang="zh">健身动起来</title>
     </programme>
     <programme channel="CCTV5" start="20260609070000 +0800" stop="20260609080300 +0800">
@@ -1284,10 +1284,10 @@
     <programme channel="CCTV13" start="20260609110000 +0800" stop="20260609120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260609120000 +0800" stop="20260609123300 +0800">
+    <programme channel="CCTV13" start="20260609120000 +0800" stop="20260609124500 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260609123300 +0800" stop="20260609130000 +0800">
+    <programme channel="CCTV13" start="20260609124500 +0800" stop="20260609130000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13" start="20260609130000 +0800" stop="20260609140000 +0800">
