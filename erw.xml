@@ -399,10 +399,7 @@
     <programme channel="CCTV4" start="20260611171500 +0800" stop="20260611180000 +0800">
         <title lang="zh">远方的家2026-121</title>
     </programme>
-    <programme channel="CCTV4" start="20260611180000 +0800" stop="20260611190000 +0800">
-        <title lang="zh">中国新闻</title>
-    </programme>
-    <programme channel="CCTV4" start="20260611190000 +0800" stop="20260611193000 +0800">
+    <programme channel="CCTV4" start="20260611180000 +0800" stop="20260611193000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
     <programme channel="CCTV4" start="20260611193000 +0800" stop="20260611200000 +0800">
@@ -630,7 +627,7 @@
     <programme channel="CCTV6" start="20260611230100 +0800" stop="20260611235700 +0800">
         <title lang="zh">终极斗士 4（下）</title>
     </programme>
-    <programme channel="CCTV6" start="20260611235700 +0800" stop="20260612000000 +0800">
+    <programme channel="CCTV6" start="20260611235700 +0800" stop="20260612014200 +0800">
         <title lang="zh">秦明·生死语者</title>
     </programme>
     <channel id="CCTV7">
@@ -1245,10 +1242,10 @@
     <programme channel="CCTV13" start="20260611110000 +0800" stop="20260611120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260611120000 +0800" stop="20260611123300 +0800">
+    <programme channel="CCTV13" start="20260611120000 +0800" stop="20260611123500 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260611123300 +0800" stop="20260611130000 +0800">
+    <programme channel="CCTV13" start="20260611123500 +0800" stop="20260611130000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13" start="20260611130000 +0800" stop="20260611140000 +0800">
@@ -1263,10 +1260,10 @@
     <programme channel="CCTV13" start="20260611160000 +0800" stop="20260611170000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260611170000 +0800" stop="20260611180000 +0800">
+    <programme channel="CCTV13" start="20260611170000 +0800" stop="20260611180100 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260611180000 +0800" stop="20260611190000 +0800">
+    <programme channel="CCTV13" start="20260611180100 +0800" stop="20260611190000 +0800">
         <title lang="zh">共同关注</title>
     </programme>
     <programme channel="CCTV13" start="20260611190000 +0800" stop="20260611194700 +0800">
@@ -2106,7 +2103,7 @@
     <programme channel="广东卫视" start="20260611225800 +0800" stop="20260611234000 +0800">
         <title lang="zh">乌云之上(11)</title>
     </programme>
-    <programme channel="广东卫视" start="20260611234000 +0800" stop="20260612000000 +0800">
+    <programme channel="广东卫视" start="20260611234000 +0800" stop="20260612010000 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
@@ -2379,7 +2376,7 @@
     <programme channel="辽宁卫视" start="20260611230400 +0800" stop="20260611233300 +0800">
         <title lang="zh">纪录片</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260611233300 +0800" stop="20260612000000 +0800">
+    <programme channel="辽宁卫视" start="20260611233300 +0800" stop="20260612002600 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
@@ -2529,7 +2526,7 @@
     <programme channel="河北卫视" start="20260611233000 +0800" stop="20260611233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260611233300 +0800" stop="20260612000000 +0800">
+    <programme channel="河北卫视" start="20260611233300 +0800" stop="20260612011300 +0800">
         <title lang="zh">不期而遇的生活原版(23-24）</title>
     </programme>
     <channel id="江西卫视">
