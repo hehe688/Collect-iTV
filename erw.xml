@@ -1008,26 +1008,29 @@
     <programme channel="CCTV11" start="20260615234200 +0800" stop="20260616003300 +0800">
         <title lang="zh">无所畏惧之永不放弃第34集</title>
     </programme>
-    <programme channel="CCTV11" start="20260616003300 +0800" stop="20260616060600 +0800">
-        <title lang="zh">青春戏苑-2026-130秦腔《三滴血》专辑</title>
+    <programme channel="CCTV11" start="20260616003300 +0800" stop="20260616010400 +0800">
+        <title lang="zh">青春戏苑-2026-108溯光·京剧《闹天宫》专辑</title>
     </programme>
-    <programme channel="CCTV11" start="20260616060600 +0800" stop="20260616071900 +0800">
+    <programme channel="CCTV11" start="20260616010400 +0800" stop="20260616060600 +0800">
+        <title lang="zh">再见</title>
+    </programme>
+    <programme channel="CCTV11" start="20260616060600 +0800" stop="20260616071700 +0800">
         <title lang="zh">青春戏苑-2026-43 京剧《贵妃醉酒》</title>
     </programme>
-    <programme channel="CCTV11" start="20260616071900 +0800" stop="20260616083400 +0800">
+    <programme channel="CCTV11" start="20260616071700 +0800" stop="20260616083200 +0800">
         <title lang="zh">角儿来了-2025-39戏曲里的美德（二）</title>
     </programme>
-    <programme channel="CCTV11" start="20260616083400 +0800" stop="20260616091600 +0800">
-        <title lang="zh">青春戏苑-2026-130秦腔《三滴血》专辑</title>
+    <programme channel="CCTV11" start="20260616083200 +0800" stop="20260616091400 +0800">
+        <title lang="zh">青春戏苑-2026-108溯光·京剧《闹天宫》专辑</title>
     </programme>
-    <programme channel="CCTV11" start="20260616091600 +0800" stop="20260616115600 +0800">
-        <title lang="zh">中国戏曲像音像集萃-2025-45高甲戏《包公三勘蝴蝶梦》</title>
+    <programme channel="CCTV11" start="20260616091400 +0800" stop="20260616115600 +0800">
+        <title lang="zh">中国戏曲像音像集萃-2025-52评剧《三凤求凰》</title>
     </programme>
     <programme channel="CCTV11" start="20260616115600 +0800" stop="20260616124700 +0800">
-        <title lang="zh">人生之路29/37</title>
+        <title lang="zh">人生之路第29集</title>
     </programme>
     <programme channel="CCTV11" start="20260616124700 +0800" stop="20260616133700 +0800">
-        <title lang="zh">人生之路30/37</title>
+        <title lang="zh">人生之路第30集</title>
     </programme>
     <programme channel="CCTV11" start="20260616133700 +0800" stop="20260616145600 +0800">
         <title lang="zh">梨园闯关我挂帅-2025-44</title>
@@ -1036,10 +1039,10 @@
         <title lang="zh">京剧电影工程 状元媒</title>
     </programme>
     <programme channel="CCTV11" start="20260616171300 +0800" stop="20260616180300 +0800">
-        <title lang="zh">绝代双骄8/44</title>
+        <title lang="zh">绝代双骄第8集</title>
     </programme>
     <programme channel="CCTV11" start="20260616180300 +0800" stop="20260616190000 +0800">
-        <title lang="zh">绝代双骄9/44</title>
+        <title lang="zh">绝代双骄第9集</title>
     </programme>
     <programme channel="CCTV11" start="20260616190000 +0800" stop="20260616193000 +0800">
         <title lang="zh">青春戏苑-2026-133亲历·京剧《三打陶三春》专辑</title>
@@ -1048,13 +1051,13 @@
         <title lang="zh">评剧电影  花为媒</title>
     </programme>
     <programme channel="CCTV11" start="20260616213500 +0800" stop="20260616222500 +0800">
-        <title lang="zh">无所畏惧之永不放弃35/38</title>
+        <title lang="zh">无所畏惧之永不放弃第35集</title>
     </programme>
     <programme channel="CCTV11" start="20260616222500 +0800" stop="20260616231600 +0800">
-        <title lang="zh">无所畏惧之永不放弃36/38</title>
+        <title lang="zh">无所畏惧之永不放弃第36集</title>
     </programme>
     <programme channel="CCTV11" start="20260616231600 +0800" stop="20260617000600 +0800">
-        <title lang="zh">无所畏惧之永不放弃37/38</title>
+        <title lang="zh">无所畏惧之永不放弃第37集</title>
     </programme>
     <channel id="CCTV12">
         <display-name lang="zh">CCTV12</display-name>
