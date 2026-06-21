@@ -342,10 +342,10 @@
     <programme channel="CCTV4" start="20260621070000 +0800" stop="20260621073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260621073000 +0800" stop="20260621080000 +0800">
+    <programme channel="CCTV4" start="20260621073000 +0800" stop="20260621080300 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4" start="20260621080000 +0800" stop="20260621090000 +0800">
+    <programme channel="CCTV4" start="20260621080300 +0800" stop="20260621090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4" start="20260621090000 +0800" stop="20260621092600 +0800">
@@ -1164,10 +1164,10 @@
     <programme channel="CCTV13" start="20260621100000 +0800" stop="20260621120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260621120000 +0800" stop="20260621123500 +0800">
+    <programme channel="CCTV13" start="20260621120000 +0800" stop="20260621123600 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260621123500 +0800" stop="20260621130000 +0800">
+    <programme channel="CCTV13" start="20260621123600 +0800" stop="20260621130000 +0800">
         <title lang="zh">每周质量报告</title>
     </programme>
     <programme channel="CCTV13" start="20260621130000 +0800" stop="20260621140000 +0800">
