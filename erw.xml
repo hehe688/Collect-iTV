@@ -75,25 +75,25 @@
     <programme channel="CCTV1" start="20260623190000 +0800" stop="20260623193800 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1" start="20260623193800 +0800" stop="20260623195900 +0800">
+    <programme channel="CCTV1" start="20260623193800 +0800" stop="20260623195800 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1" start="20260623195900 +0800" stop="20260623200300 +0800">
-        <title lang="zh">前情提要-星月征途-20/20</title>
+    <programme channel="CCTV1" start="20260623195800 +0800" stop="20260623200300 +0800">
+        <title lang="zh">前情提要-星月征途-第20集</title>
     </programme>
-    <programme channel="CCTV1" start="20260623200300 +0800" stop="20260623205400 +0800">
-        <title lang="zh">星月征途20/20</title>
+    <programme channel="CCTV1" start="20260623200300 +0800" stop="20260623205300 +0800">
+        <title lang="zh">星月征途第20集</title>
     </programme>
-    <programme channel="CCTV1" start="20260623205400 +0800" stop="20260623205700 +0800">
-        <title lang="zh">前情提要-电视剧</title>
+    <programme channel="CCTV1" start="20260623205300 +0800" stop="20260623205600 +0800">
+        <title lang="zh">前情提要-种墨园-1/34</title>
     </programme>
-    <programme channel="CCTV1" start="20260623205700 +0800" stop="20260623214700 +0800">
-        <title lang="zh">电视剧</title>
+    <programme channel="CCTV1" start="20260623205600 +0800" stop="20260623214400 +0800">
+        <title lang="zh">种墨园1/34</title>
     </programme>
-    <programme channel="CCTV1" start="20260623214700 +0800" stop="20260623215400 +0800">
+    <programme channel="CCTV1" start="20260623214400 +0800" stop="20260623215200 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme channel="CCTV1" start="20260623215400 +0800" stop="20260623220000 +0800">
+    <programme channel="CCTV1" start="20260623215200 +0800" stop="20260623220000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme channel="CCTV1" start="20260623220000 +0800" stop="20260623223500 +0800">
@@ -2481,7 +2481,7 @@
     <programme channel="河北卫视" start="20260623233000 +0800" stop="20260623233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260623233300 +0800" stop="20260624000000 +0800">
+    <programme channel="河北卫视" start="20260623233300 +0800" stop="20260624000300 +0800">
         <title lang="zh">纪录片：纪录</title>
     </programme>
     <channel id="江西卫视">
