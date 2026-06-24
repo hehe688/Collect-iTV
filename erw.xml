@@ -546,31 +546,34 @@
     <programme channel="CCTV6" start="20260624013700 +0800" stop="20260624031600 +0800">
         <title lang="zh">天净沙</title>
     </programme>
-    <programme channel="CCTV6" start="20260624031600 +0800" stop="20260624065800 +0800">
+    <programme channel="CCTV6" start="20260624031600 +0800" stop="20260624050600 +0800">
         <title lang="zh">酒精计划</title>
     </programme>
-    <programme channel="CCTV6" start="20260624065800 +0800" stop="20260624083100 +0800">
+    <programme channel="CCTV6" start="20260624050600 +0800" stop="20260624063600 +0800">
+        <title lang="zh">狼兵吼</title>
+    </programme>
+    <programme channel="CCTV6" start="20260624063600 +0800" stop="20260624081100 +0800">
         <title lang="zh">古道西风</title>
     </programme>
-    <programme channel="CCTV6" start="20260624083100 +0800" stop="20260624103800 +0800">
+    <programme channel="CCTV6" start="20260624081100 +0800" stop="20260624101600 +0800">
         <title lang="zh">杀破狼2</title>
     </programme>
-    <programme channel="CCTV6" start="20260624103800 +0800" stop="20260624121500 +0800">
+    <programme channel="CCTV6" start="20260624101600 +0800" stop="20260624115600 +0800">
         <title lang="zh">鹞子高三</title>
     </programme>
-    <programme channel="CCTV6" start="20260624121500 +0800" stop="20260624122100 +0800">
+    <programme channel="CCTV6" start="20260624115600 +0800" stop="20260624120200 +0800">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme channel="CCTV6" start="20260624122100 +0800" stop="20260624142200 +0800">
+    <programme channel="CCTV6" start="20260624120200 +0800" stop="20260624135900 +0800">
         <title lang="zh">绝世高手2017</title>
     </programme>
-    <programme channel="CCTV6" start="20260624142200 +0800" stop="20260624160400 +0800">
-        <title lang="zh">男人私房话</title>
+    <programme channel="CCTV6" start="20260624135900 +0800" stop="20260624161000 +0800">
+        <title lang="zh">猎杀T34</title>
     </programme>
-    <programme channel="CCTV6" start="20260624160400 +0800" stop="20260624181500 +0800">
+    <programme channel="CCTV6" start="20260624161000 +0800" stop="20260624182100 +0800">
         <title lang="zh">龙之战</title>
     </programme>
-    <programme channel="CCTV6" start="20260624181500 +0800" stop="20260624202700 +0800">
+    <programme channel="CCTV6" start="20260624182100 +0800" stop="20260624202700 +0800">
         <title lang="zh">拆弹专家2</title>
     </programme>
     <programme channel="CCTV6" start="20260624202700 +0800" stop="20260624220000 +0800">
@@ -2466,7 +2469,7 @@
     <programme channel="河北卫视" start="20260624233000 +0800" stop="20260624233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260624233300 +0800" stop="20260625000000 +0800">
+    <programme channel="河北卫视" start="20260624233300 +0800" stop="20260625001100 +0800">
         <title lang="zh">中国经济圆桌会</title>
     </programme>
     <channel id="江西卫视">
