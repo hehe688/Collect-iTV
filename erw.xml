@@ -1167,10 +1167,10 @@
     <programme channel="CCTV13" start="20260628090000 +0800" stop="20260628091200 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260628091200 +0800" stop="20260628100000 +0800">
+    <programme channel="CCTV13" start="20260628091200 +0800" stop="20260628110000 +0800">
         <title lang="zh">新闻周刊</title>
     </programme>
-    <programme channel="CCTV13" start="20260628100000 +0800" stop="20260628120000 +0800">
+    <programme channel="CCTV13" start="20260628110000 +0800" stop="20260628120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme channel="CCTV13" start="20260628120000 +0800" stop="20260628123600 +0800">
