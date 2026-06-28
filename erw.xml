@@ -333,10 +333,10 @@
     <programme channel="CCTV4" start="20260628070000 +0800" stop="20260628073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260628073000 +0800" stop="20260628080000 +0800">
+    <programme channel="CCTV4" start="20260628073000 +0800" stop="20260628080300 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4" start="20260628080000 +0800" stop="20260628090300 +0800">
+    <programme channel="CCTV4" start="20260628080300 +0800" stop="20260628090300 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4" start="20260628090300 +0800" stop="20260628093000 +0800">
@@ -472,7 +472,7 @@
         <title lang="zh">实况录像-2026年世界田联钻石联赛  斯德哥尔摩站 25分钟版</title>
     </programme>
     <programme channel="CCTV5+" start="20260628044500 +0800" stop="20260628071000 +0800">
-        <title lang="zh">2026世界杯小组赛-L组第三轮（巴拿马队—英格兰队）</title>
+        <title lang="zh">2026世界杯小组赛-L组第三轮（克罗地亚队—加纳队）</title>
     </programme>
     <programme channel="CCTV5+" start="20260628071000 +0800" stop="20260628094500 +0800">
         <title lang="zh">2026世界杯小组赛-K组第三轮（刚果(金)队—乌兹别克斯坦队）</title>
@@ -493,7 +493,7 @@
         <title lang="zh">2026年亚洲体操锦标赛-女子成年组、青年组单项决赛2</title>
     </programme>
     <programme channel="CCTV5+" start="20260628164500 +0800" stop="20260628171500 +0800">
-        <title lang="zh">实况录像-2026年世界田联钻石联赛 多哈站 25分钟版</title>
+        <title lang="zh">实况录像-绿茵热潮—城市故事 亚特兰大</title>
     </programme>
     <programme channel="CCTV5+" start="20260628171500 +0800" stop="20260628173000 +0800">
         <title lang="zh">实况录像-2025/2026赛季斯诺克世界公开赛 决赛 塔猜亚的147</title>
@@ -1173,10 +1173,10 @@
     <programme channel="CCTV13" start="20260628100000 +0800" stop="20260628120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260628120000 +0800" stop="20260628123500 +0800">
+    <programme channel="CCTV13" start="20260628120000 +0800" stop="20260628123600 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260628123500 +0800" stop="20260628130000 +0800">
+    <programme channel="CCTV13" start="20260628123600 +0800" stop="20260628130000 +0800">
         <title lang="zh">每周质量报告</title>
     </programme>
     <programme channel="CCTV13" start="20260628130000 +0800" stop="20260628140000 +0800">
