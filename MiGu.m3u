@@ -87,6 +87,8 @@ http://47.119.24.76:59093/738910535
 http://47.119.24.76:59093/738910914
 #EXTINF:-1 tvg-name="三沙卫视" group-title="卫视频道",三沙卫视
 http://47.119.24.76:59093/961023778
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
+http://47.119.24.76:59093/738906901
 #EXTINF:-1 tvg-name="中国之声" group-title="广播电台",中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1 tvg-name="中国之声" group-title="广播电台",中国之声
