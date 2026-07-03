@@ -96,7 +96,7 @@
     <programme channel="CCTV1" start="20260703220000 +0800" stop="20260703223600 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1" start="20260703223600 +0800" stop="20260704004700 +0800">
+    <programme channel="CCTV1" start="20260703223600 +0800" stop="20260704001300 +0800">
         <title lang="zh">山水间的家（第四季）-12</title>
     </programme>
     <channel id="CCTV2">
@@ -357,10 +357,10 @@
     <programme channel="CCTV4" start="20260703070000 +0800" stop="20260703073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260703073000 +0800" stop="20260703080000 +0800">
+    <programme channel="CCTV4" start="20260703073000 +0800" stop="20260703080100 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4" start="20260703080000 +0800" stop="20260703090000 +0800">
+    <programme channel="CCTV4" start="20260703080100 +0800" stop="20260703090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4" start="20260703090000 +0800" stop="20260703092800 +0800">
@@ -736,37 +736,37 @@
         <title lang="zh">星推荐-2026年7月-2</title>
     </programme>
     <programme channel="CCTV8" start="20260703000400 +0800" stop="20260703005000 +0800">
-        <title lang="zh">枫桥警事3/30</title>
+        <title lang="zh">枫桥警事第3集</title>
     </programme>
     <programme channel="CCTV8" start="20260703005000 +0800" stop="20260703013600 +0800">
-        <title lang="zh">枫桥警事4/30</title>
+        <title lang="zh">枫桥警事第4集</title>
     </programme>
     <programme channel="CCTV8" start="20260703013600 +0800" stop="20260703022200 +0800">
-        <title lang="zh">枫桥警事5/30</title>
+        <title lang="zh">枫桥警事第5集</title>
     </programme>
     <programme channel="CCTV8" start="20260703022200 +0800" stop="20260703030800 +0800">
-        <title lang="zh">枫桥警事6/30</title>
+        <title lang="zh">枫桥警事第6集</title>
     </programme>
     <programme channel="CCTV8" start="20260703030800 +0800" stop="20260703035400 +0800">
-        <title lang="zh">枫桥警事7/30</title>
+        <title lang="zh">枫桥警事第7集</title>
     </programme>
     <programme channel="CCTV8" start="20260703035400 +0800" stop="20260703044000 +0800">
-        <title lang="zh">枫桥警事8/30</title>
+        <title lang="zh">枫桥警事第8集</title>
     </programme>
     <programme channel="CCTV8" start="20260703044000 +0800" stop="20260703044400 +0800">
         <title lang="zh">插花-2022-4</title>
     </programme>
     <programme channel="CCTV8" start="20260703044400 +0800" stop="20260703053000 +0800">
-        <title lang="zh">高山清渠19/28</title>
+        <title lang="zh">高山清渠第19集</title>
     </programme>
     <programme channel="CCTV8" start="20260703053000 +0800" stop="20260703061600 +0800">
-        <title lang="zh">高山清渠20/28</title>
+        <title lang="zh">高山清渠第20集</title>
     </programme>
     <programme channel="CCTV8" start="20260703061600 +0800" stop="20260703070300 +0800">
-        <title lang="zh">高山清渠21/28</title>
+        <title lang="zh">高山清渠第21集</title>
     </programme>
     <programme channel="CCTV8" start="20260703070300 +0800" stop="20260703074900 +0800">
-        <title lang="zh">高山清渠22/28</title>
+        <title lang="zh">高山清渠第22集</title>
     </programme>
     <programme channel="CCTV8" start="20260703074900 +0800" stop="20260703075500 +0800">
         <title lang="zh">星推荐-2026年7月-2</title>
@@ -778,7 +778,7 @@
         <title lang="zh">星推荐-2026年7月-2</title>
     </programme>
     <programme channel="CCTV8" start="20260703124200 +0800" stop="20260703133800 +0800">
-        <title lang="zh">莫离39/40</title>
+        <title lang="zh">莫离第39集</title>
     </programme>
     <programme channel="CCTV8" start="20260703133800 +0800" stop="20260703162300 +0800">
         <title lang="zh">星月征途7-9</title>
@@ -793,19 +793,25 @@
         <title lang="zh">星推荐-2026年7月-3</title>
     </programme>
     <programme channel="CCTV8" start="20260703192600 +0800" stop="20260703193000 +0800">
-        <title lang="zh">本集提要-问心2-31/40</title>
+        <title lang="zh">本集提要-问心2-第31集</title>
     </programme>
     <programme channel="CCTV8" start="20260703193000 +0800" stop="20260703212400 +0800">
         <title lang="zh">问心2 31-32</title>
     </programme>
     <programme channel="CCTV8" start="20260703212400 +0800" stop="20260703212900 +0800">
-        <title lang="zh">本集提要-爱情有烟火-35/36</title>
+        <title lang="zh">本集提要-悬案-1/19</title>
     </programme>
-    <programme channel="CCTV8" start="20260703212900 +0800" stop="20260703231100 +0800">
-        <title lang="zh">爱情有烟火35-36</title>
+    <programme channel="CCTV8" start="20260703212900 +0800" stop="20260703221900 +0800">
+        <title lang="zh">悬案1/19</title>
+    </programme>
+    <programme channel="CCTV8" start="20260703221900 +0800" stop="20260703222100 +0800">
+        <title lang="zh">本集提要-爱情有烟火-第35集</title>
+    </programme>
+    <programme channel="CCTV8" start="20260703222100 +0800" stop="20260703231100 +0800">
+        <title lang="zh">爱情有烟火第35集</title>
     </programme>
     <programme channel="CCTV8" start="20260703231100 +0800" stop="20260703235700 +0800">
-        <title lang="zh">枫桥警事9/30</title>
+        <title lang="zh">枫桥警事第9集</title>
     </programme>
     <programme channel="CCTV8" start="20260703235700 +0800" stop="20260704000400 +0800">
         <title lang="zh">星推荐-2026年7月-3</title>
@@ -1236,10 +1242,10 @@
     <programme channel="CCTV13" start="20260703110000 +0800" stop="20260703120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260703120000 +0800" stop="20260703123300 +0800">
+    <programme channel="CCTV13" start="20260703120000 +0800" stop="20260703123500 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260703123300 +0800" stop="20260703130000 +0800">
+    <programme channel="CCTV13" start="20260703123500 +0800" stop="20260703130000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13" start="20260703130000 +0800" stop="20260703140000 +0800">
