@@ -72,16 +72,16 @@
     <programme channel="CCTV1" start="20260704190000 +0800" stop="20260704193800 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1" start="20260704193800 +0800" stop="20260704200300 +0800">
+    <programme channel="CCTV1" start="20260704193800 +0800" stop="20260704200100 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1" start="20260704200300 +0800" stop="20260704214200 +0800">
-        <title lang="zh">专题节目-1</title>
+    <programme channel="CCTV1" start="20260704200100 +0800" stop="20260704213700 +0800">
+        <title lang="zh">城市风华录（第二季）-沈阳篇</title>
     </programme>
-    <programme channel="CCTV1" start="20260704214200 +0800" stop="20260704215200 +0800">
+    <programme channel="CCTV1" start="20260704213700 +0800" stop="20260704214700 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
     </programme>
-    <programme channel="CCTV1" start="20260704215200 +0800" stop="20260704220000 +0800">
+    <programme channel="CCTV1" start="20260704214700 +0800" stop="20260704220000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme channel="CCTV1" start="20260704220000 +0800" stop="20260704223600 +0800">
@@ -90,7 +90,7 @@
     <programme channel="CCTV1" start="20260704223600 +0800" stop="20260704232700 +0800">
         <title lang="zh">开讲啦-2026-20</title>
     </programme>
-    <programme channel="CCTV1" start="20260704232700 +0800" stop="20260705003300 +0800">
+    <programme channel="CCTV1" start="20260704232700 +0800" stop="20260705004800 +0800">
         <title lang="zh">星光大道-2026-38</title>
     </programme>
     <channel id="CCTV2">
@@ -348,10 +348,10 @@
     <programme channel="CCTV4" start="20260704070000 +0800" stop="20260704073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260704073000 +0800" stop="20260704080000 +0800">
+    <programme channel="CCTV4" start="20260704073000 +0800" stop="20260704080300 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4" start="20260704080000 +0800" stop="20260704090000 +0800">
+    <programme channel="CCTV4" start="20260704080300 +0800" stop="20260704090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4" start="20260704090000 +0800" stop="20260704092800 +0800">
@@ -1191,10 +1191,10 @@
     <programme channel="CCTV13" start="20260704100000 +0800" stop="20260704120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260704120000 +0800" stop="20260704123300 +0800">
+    <programme channel="CCTV13" start="20260704120000 +0800" stop="20260704123500 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260704123300 +0800" stop="20260704130000 +0800">
+    <programme channel="CCTV13" start="20260704123500 +0800" stop="20260704130000 +0800">
         <title lang="zh">军情时间到</title>
     </programme>
     <programme channel="CCTV13" start="20260704130000 +0800" stop="20260704140000 +0800">
@@ -2379,7 +2379,7 @@
     <programme channel="河北卫视" start="20260704233900 +0800" stop="20260704234200 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260704234200 +0800" stop="20260705000000 +0800">
+    <programme channel="河北卫视" start="20260704234200 +0800" stop="20260705001600 +0800">
         <title lang="zh">纪录片：纪录</title>
     </programme>
     <channel id="江西卫视">
