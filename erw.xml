@@ -486,7 +486,7 @@
     <programme channel="CCTV5" start="20260708220000 +0800" stop="20260708230500 +0800">
         <title lang="zh">2026年美加墨世界杯报道-如约而至-28</title>
     </programme>
-    <programme channel="CCTV5" start="20260708230500 +0800" stop="20260709003500 +0800">
+    <programme channel="CCTV5" start="20260708230500 +0800" stop="20260709002500 +0800">
         <title lang="zh">实况录像-2026世界杯 1/8决赛 7</title>
     </programme>
     <channel id="CCTV5+">
@@ -1278,10 +1278,10 @@
     <programme channel="CCTV13" start="20260708110000 +0800" stop="20260708120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260708120000 +0800" stop="20260708123300 +0800">
+    <programme channel="CCTV13" start="20260708120000 +0800" stop="20260708123500 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260708123300 +0800" stop="20260708130000 +0800">
+    <programme channel="CCTV13" start="20260708123500 +0800" stop="20260708130000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13" start="20260708130000 +0800" stop="20260708140000 +0800">
