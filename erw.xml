@@ -283,7 +283,7 @@
         <title lang="zh">灿烂的季节14/40</title>
     </programme>
     <programme channel="CCTV4" start="20260711003500 +0800" stop="20260711012100 +0800">
-        <title lang="zh">灿烂的季节15/40</title>
+        <title lang="zh">灿烂的季节第15集</title>
     </programme>
     <programme channel="CCTV4" start="20260711012100 +0800" stop="20260711015100 +0800">
         <title lang="zh">中国文艺-2026-137</title>
@@ -342,35 +342,32 @@
     <programme channel="CCTV4" start="20260711113000 +0800" stop="20260711120000 +0800">
         <title lang="zh">海峡两岸-2026-191</title>
     </programme>
-    <programme channel="CCTV4" start="20260711120000 +0800" stop="20260711130200 +0800">
+    <programme channel="CCTV4" start="20260711120000 +0800" stop="20260711130300 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260711130200 +0800" stop="20260711133100 +0800">
-        <title lang="zh">华人故事-2026-29</title>
+    <programme channel="CCTV4" start="20260711130300 +0800" stop="20260711135000 +0800">
+        <title lang="zh">铁道风云第12集</title>
     </programme>
-    <programme channel="CCTV4" start="20260711133100 +0800" stop="20260711141800 +0800">
-        <title lang="zh">铁道风云12/34</title>
+    <programme channel="CCTV4" start="20260711135000 +0800" stop="20260711143900 +0800">
+        <title lang="zh">铁道风云第13集</title>
     </programme>
-    <programme channel="CCTV4" start="20260711141800 +0800" stop="20260711150400 +0800">
-        <title lang="zh">铁道风云13/34</title>
+    <programme channel="CCTV4" start="20260711143900 +0800" stop="20260711152600 +0800">
+        <title lang="zh">铁道风云第14集</title>
     </programme>
-    <programme channel="CCTV4" start="20260711150400 +0800" stop="20260711155300 +0800">
-        <title lang="zh">铁道风云14/34</title>
+    <programme channel="CCTV4" start="20260711152600 +0800" stop="20260711161300 +0800">
+        <title lang="zh">铁道风云第15集</title>
     </programme>
-    <programme channel="CCTV4" start="20260711155300 +0800" stop="20260711164000 +0800">
-        <title lang="zh">铁道风云15/34</title>
-    </programme>
-    <programme channel="CCTV4" start="20260711164000 +0800" stop="20260711172800 +0800">
-        <title lang="zh">铁道风云16/34</title>
-    </programme>
-    <programme channel="CCTV4" start="20260711172800 +0800" stop="20260711174300 +0800">
+    <programme channel="CCTV4" start="20260711161300 +0800" stop="20260711163000 +0800">
         <title lang="zh">平凡匠心-2026-57</title>
     </programme>
-    <programme channel="CCTV4" start="20260711174300 +0800" stop="20260711180000 +0800">
-        <title lang="zh">平凡匠心-2026-58</title>
-    </programme>
-    <programme channel="CCTV4" start="20260711180000 +0800" stop="20260711190000 +0800">
+    <programme channel="CCTV4" start="20260711163000 +0800" stop="20260711172900 +0800">
         <title lang="zh">中国文艺-致敬经典2026-28</title>
+    </programme>
+    <programme channel="CCTV4" start="20260711172900 +0800" stop="20260711173500 +0800">
+        <title lang="zh">记住乡愁-片段展播-2024-20</title>
+    </programme>
+    <programme channel="CCTV4" start="20260711173500 +0800" stop="20260711190000 +0800">
+        <title lang="zh">中国中医药大会（第三季）-10(四套)</title>
     </programme>
     <programme channel="CCTV4" start="20260711190000 +0800" stop="20260711193000 +0800">
         <title lang="zh">中国新闻</title>
@@ -400,7 +397,7 @@
         <title lang="zh">健康中国-2026-27</title>
     </programme>
     <programme channel="CCTV4" start="20260711235800 +0800" stop="20260712004400 +0800">
-        <title lang="zh">灿烂的季节16/40</title>
+        <title lang="zh">灿烂的季节第16集</title>
     </programme>
     <channel id="CCTV5">
         <display-name lang="zh">CCTV5</display-name>
@@ -1182,10 +1179,10 @@
     <programme channel="CCTV13" start="20260711110000 +0800" stop="20260711120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260711120000 +0800" stop="20260711123400 +0800">
+    <programme channel="CCTV13" start="20260711120000 +0800" stop="20260711123500 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260711123400 +0800" stop="20260711130000 +0800">
+    <programme channel="CCTV13" start="20260711123500 +0800" stop="20260711130000 +0800">
         <title lang="zh">军情时间到</title>
     </programme>
     <programme channel="CCTV13" start="20260711130000 +0800" stop="20260711140000 +0800">
