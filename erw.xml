@@ -1176,10 +1176,10 @@
     <programme channel="CCTV13" start="20260712100000 +0800" stop="20260712120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260712120000 +0800" stop="20260712123500 +0800">
+    <programme channel="CCTV13" start="20260712120000 +0800" stop="20260712123600 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260712123500 +0800" stop="20260712130000 +0800">
+    <programme channel="CCTV13" start="20260712123600 +0800" stop="20260712130000 +0800">
         <title lang="zh">每周质量报告</title>
     </programme>
     <programme channel="CCTV13" start="20260712130000 +0800" stop="20260712140000 +0800">
@@ -1555,10 +1555,10 @@
         <title lang="zh">开门大吉（海外版）-2026-19</title>
     </programme>
     <programme channel="CCTV4" start="20260712022800 +0800" stop="20260712031400 +0800">
-        <title lang="zh">红石榴餐厅2/20</title>
+        <title lang="zh">红石榴餐厅第2集</title>
     </programme>
     <programme channel="CCTV4" start="20260712031400 +0800" stop="20260712040000 +0800">
-        <title lang="zh">红石榴餐厅3/20</title>
+        <title lang="zh">红石榴餐厅第3集</title>
     </programme>
     <programme channel="CCTV4" start="20260712040000 +0800" stop="20260712043000 +0800">
         <title lang="zh">中国新闻</title>
@@ -1593,23 +1593,20 @@
     <programme channel="CCTV4" start="20260712080000 +0800" stop="20260712090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
-    <programme channel="CCTV4" start="20260712090000 +0800" stop="20260712100000 +0800">
-        <title lang="zh">中国文艺-致敬经典2026-28</title>
+    <programme channel="CCTV4" start="20260712090000 +0800" stop="20260712102700 +0800">
+        <title lang="zh">中国中医药大会（第三季）-10(四套)</title>
     </programme>
-    <programme channel="CCTV4" start="20260712100000 +0800" stop="20260712102800 +0800">
+    <programme channel="CCTV4" start="20260712102700 +0800" stop="20260712105500 +0800">
         <title lang="zh">深度国际-2026年7月-2</title>
     </programme>
-    <programme channel="CCTV4" start="20260712102800 +0800" stop="20260712104300 +0800">
+    <programme channel="CCTV4" start="20260712105500 +0800" stop="20260712111000 +0800">
         <title lang="zh">平凡匠心-2026-57</title>
     </programme>
-    <programme channel="CCTV4" start="20260712104300 +0800" stop="20260712104800 +0800">
+    <programme channel="CCTV4" start="20260712111000 +0800" stop="20260712111500 +0800">
         <title lang="zh">记住乡愁-片段展播-2025-26</title>
     </programme>
-    <programme channel="CCTV4" start="20260712104800 +0800" stop="20260712105300 +0800">
+    <programme channel="CCTV4" start="20260712111500 +0800" stop="20260712112000 +0800">
         <title lang="zh">记住乡愁-片段展播-2025-27</title>
-    </programme>
-    <programme channel="CCTV4" start="20260712105300 +0800" stop="20260712112000 +0800">
-        <title lang="zh">国宝发现-2026-27</title>
     </programme>
     <programme channel="CCTV4" start="20260712112000 +0800" stop="20260712114800 +0800">
         <title lang="zh">华人故事-2026-29</title>
@@ -1620,23 +1617,29 @@
     <programme channel="CCTV4" start="20260712120000 +0800" stop="20260712130000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260712130000 +0800" stop="20260712132900 +0800">
+    <programme channel="CCTV4" start="20260712130000 +0800" stop="20260712133400 +0800">
         <title lang="zh">海峡两岸-2026-192</title>
     </programme>
-    <programme channel="CCTV4" start="20260712132900 +0800" stop="20260712142800 +0800">
-        <title lang="zh">中国文艺-致敬经典2026-28</title>
+    <programme channel="CCTV4" start="20260712133400 +0800" stop="20260712140100 +0800">
+        <title lang="zh">国家记忆-2026-60</title>
+    </programme>
+    <programme channel="CCTV4" start="20260712140100 +0800" stop="20260712142800 +0800">
+        <title lang="zh">国家记忆-2026-61</title>
     </programme>
     <programme channel="CCTV4" start="20260712142800 +0800" stop="20260712151400 +0800">
-        <title lang="zh">红石榴餐厅2/20</title>
+        <title lang="zh">红石榴餐厅第2集</title>
     </programme>
     <programme channel="CCTV4" start="20260712151400 +0800" stop="20260712160000 +0800">
-        <title lang="zh">红石榴餐厅3/20</title>
+        <title lang="zh">红石榴餐厅第3集</title>
     </programme>
     <programme channel="CCTV4" start="20260712160000 +0800" stop="20260712170300 +0800">
         <title lang="zh">环球综艺秀-2026-27</title>
     </programme>
-    <programme channel="CCTV4" start="20260712170300 +0800" stop="20260712180200 +0800">
-        <title lang="zh">中国文艺-致敬经典2026-28</title>
+    <programme channel="CCTV4" start="20260712170300 +0800" stop="20260712173000 +0800">
+        <title lang="zh">国家记忆-2026-62</title>
+    </programme>
+    <programme channel="CCTV4" start="20260712173000 +0800" stop="20260712180200 +0800">
+        <title lang="zh">国家记忆-2026-63</title>
     </programme>
     <programme channel="CCTV4" start="20260712180200 +0800" stop="20260712182900 +0800">
         <title lang="zh">国宝发现-2026-27</title>
@@ -3430,19 +3433,19 @@
         <title lang="zh">拉家常</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712083500 +0800" stop="20260712091500 +0800">
-        <title lang="zh">剧场-游击英雄</title>
+        <title lang="zh">剧场-再造之恩14</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712091500 +0800" stop="20260712095500 +0800">
-        <title lang="zh">剧场-游击英雄</title>
+        <title lang="zh">剧场-再造之恩15</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712095500 +0800" stop="20260712103600 +0800">
-        <title lang="zh">剧场-游击英雄</title>
+        <title lang="zh">剧场-再造之恩16</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712103600 +0800" stop="20260712111600 +0800">
-        <title lang="zh">剧场-游击英雄</title>
+        <title lang="zh">剧场-再造之恩17</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712111600 +0800" stop="20260712120800 +0800">
-        <title lang="zh">剧场-游击英雄</title>
+        <title lang="zh">剧场-再造之恩18</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712120800 +0800" stop="20260712121800 +0800">
         <title lang="zh">中国农资秀</title>
@@ -3454,34 +3457,34 @@
         <title lang="zh">秦之声大剧院</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712131600 +0800" stop="20260712140600 +0800">
-        <title lang="zh">剧场-包青天</title>
+        <title lang="zh">剧场-穆桂英挂帅9</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712140600 +0800" stop="20260712144800 +0800">
-        <title lang="zh">剧场-包青天</title>
+        <title lang="zh">剧场-穆桂英挂帅10</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712144800 +0800" stop="20260712152900 +0800">
-        <title lang="zh">剧场-包青天</title>
+        <title lang="zh">剧场-穆桂英挂帅11</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712152900 +0800" stop="20260712160900 +0800">
-        <title lang="zh">剧场-包青天</title>
+        <title lang="zh">剧场-穆桂英挂帅12</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712160900 +0800" stop="20260712165100 +0800">
-        <title lang="zh">剧场-包青天</title>
+        <title lang="zh">剧场-穆桂英挂帅13</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712165100 +0800" stop="20260712174400 +0800">
-        <title lang="zh">剧场-包青天</title>
+        <title lang="zh">剧场-穆桂英挂帅14</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712174400 +0800" stop="20260712183400 +0800">
-        <title lang="zh">剧场-薛丁山</title>
+        <title lang="zh">剧场-薛丁山36</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712183400 +0800" stop="20260712192500 +0800">
-        <title lang="zh">剧场-薛丁山</title>
+        <title lang="zh">剧场-薛丁山37</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712192500 +0800" stop="20260712201500 +0800">
-        <title lang="zh">剧场-薛丁山</title>
+        <title lang="zh">剧场-薛丁山38</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712201500 +0800" stop="20260712203800 +0800">
-        <title lang="zh">第一农经</title>
+        <title lang="zh">农村大市场</title>
     </programme>
     <programme channel="中国农林卫视" start="20260712203800 +0800" stop="20260712205000 +0800">
         <title lang="zh">为老乡支一招</title>
