@@ -3057,8 +3057,59 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20260718000000 +0800" stop="20260718235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="东南卫视" start="20260718000000 +0800" stop="20260718003600 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718003600 +0800" stop="20260718015000 +0800">
+        <title lang="zh">重播“闽超”第九轮 泉州vS宁德(下半场)</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718015000 +0800" stop="20260718031000 +0800">
+        <title lang="zh">重播中国正在说</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718031000 +0800" stop="20260718052300 +0800">
+        <title lang="zh">重播玩转海岸线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718052300 +0800" stop="20260718065500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718065500 +0800" stop="20260718070000 +0800">
+        <title lang="zh">东南早间天气预报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718070000 +0800" stop="20260718120000 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718120000 +0800" stop="20260718124000 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718124000 +0800" stop="20260718180500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718180500 +0800" stop="20260718182400 +0800">
+        <title lang="zh">玩转海岸线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718182400 +0800" stop="20260718183000 +0800">
+        <title lang="zh">东南气象快讯</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718183000 +0800" stop="20260718190000 +0800">
+        <title lang="zh">福建卫视新闻</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718190000 +0800" stop="20260718193400 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718193400 +0800" stop="20260718193500 +0800">
+        <title lang="zh">闽超片头</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718193500 +0800" stop="20260718214100 +0800">
+        <title lang="zh">兴业银行2026年福建省城市足球联赛第八轮 莆田VS福州</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718214100 +0800" stop="20260718223600 +0800">
+        <title lang="zh">东南军情</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718223600 +0800" stop="20260718232600 +0800">
+        <title lang="zh">海峡新干线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260718232600 +0800" stop="20260719000000 +0800">
+        <title lang="zh">东南晚报</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
@@ -3174,8 +3225,122 @@
     <channel id="海峡卫视">
         <display-name lang="zh">海峡卫视</display-name>
     </channel>
-    <programme channel="海峡卫视" start="20260718000000 +0800" stop="20260718235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="海峡卫视" start="20260718000000 +0800" stop="20260718004200 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718004200 +0800" stop="20260718010800 +0800">
+        <title lang="zh">重播海峡拼经济</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718010800 +0800" stop="20260718013300 +0800">
+        <title lang="zh">重播精品纪录片:长城之歌 9</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718013300 +0800" stop="20260718014000 +0800">
+        <title lang="zh">重播走近这片海精华版:4</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718014000 +0800" stop="20260718022400 +0800">
+        <title lang="zh">重播青春剧场:北上 第30集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718022400 +0800" stop="20260718030800 +0800">
+        <title lang="zh">重播青春剧场:北上 第31集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718030800 +0800" stop="20260718035200 +0800">
+        <title lang="zh">重播青春剧场:北上 第32集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718035200 +0800" stop="20260718041700 +0800">
+        <title lang="zh">重播精品纪录片:长城之歌 9</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718041700 +0800" stop="20260718045900 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718045900 +0800" stop="20260718052300 +0800">
+        <title lang="zh">重播海峡拼经济</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718052300 +0800" stop="20260718054100 +0800">
+        <title lang="zh">重播向往的大海</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718054100 +0800" stop="20260718060600 +0800">
+        <title lang="zh">重播精品纪录片:长城之歌 7</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718060600 +0800" stop="20260718063100 +0800">
+        <title lang="zh">重播精品纪录片:长城之歌 8</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718063100 +0800" stop="20260718063700 +0800">
+        <title lang="zh">重播走近这片海精华版:4</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718063700 +0800" stop="20260718072200 +0800">
+        <title lang="zh">重播今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718072200 +0800" stop="20260718074700 +0800">
+        <title lang="zh">重播精品纪录片:长城之歌 7</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718074700 +0800" stop="20260718081400 +0800">
+        <title lang="zh">重播精品纪录片:长城之歌 8</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718081400 +0800" stop="20260718082000 +0800">
+        <title lang="zh">重播走近这片海精华版:4</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718082000 +0800" stop="20260718084400 +0800">
+        <title lang="zh">重播海峡拼经济</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718084400 +0800" stop="20260718090100 +0800">
+        <title lang="zh">重播向往的大海</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718090100 +0800" stop="20260718094500 +0800">
+        <title lang="zh">时代剧场:无所畏惧 第11集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718094500 +0800" stop="20260718102900 +0800">
+        <title lang="zh">时代剧场:无所畏惧 第12集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718102900 +0800" stop="20260718111300 +0800">
+        <title lang="zh">时代剧场:无所畏惧 第13集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718111300 +0800" stop="20260718112800 +0800">
+        <title lang="zh">重播向往的大海</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718112800 +0800" stop="20260718115300 +0800">
+        <title lang="zh">重播精品纪录片:长城之歌 9</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718115300 +0800" stop="20260718120000 +0800">
+        <title lang="zh">重播走近这片海精华版:4</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718120000 +0800" stop="20260718123100 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718123100 +0800" stop="20260718131500 +0800">
+        <title lang="zh">家庭剧场:沉默的荣耀 第15集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718131500 +0800" stop="20260718135900 +0800">
+        <title lang="zh">家庭剧场:沉默的荣耀 第16集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718135900 +0800" stop="20260718144300 +0800">
+        <title lang="zh">家庭剧场:沉默的荣耀 第17集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718144300 +0800" stop="20260718162600 +0800">
+        <title lang="zh">重播向往的大海</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718162600 +0800" stop="20260718164200 +0800">
+        <title lang="zh">玩转海岸线</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718164200 +0800" stop="20260718172600 +0800">
+        <title lang="zh">青春剧场:北上 第33集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718172600 +0800" stop="20260718181000 +0800">
+        <title lang="zh">青春剧场:北上 第34集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718181000 +0800" stop="20260718185400 +0800">
+        <title lang="zh">青春剧场:北上 第35集</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718185400 +0800" stop="20260718190000 +0800">
+        <title lang="zh">早餐中国第二季:14</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718190000 +0800" stop="20260718214000 +0800">
+        <title lang="zh">直播：兴业银行 2026年福建省城市足球联赛 第八轮赛事 宁德VS厦门</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718214000 +0800" stop="20260718235200 +0800">
+        <title lang="zh">今日海峡</title>
+    </programme>
+    <programme channel="海峡卫视" start="20260718235200 +0800" stop="20260719000000 +0800">
+        <title lang="zh">重播早餐中国第二季:14</title>
     </programme>
     <channel id="中国农林卫视">
         <display-name lang="zh">中国农林卫视</display-name>
