@@ -450,10 +450,10 @@
     <programme channel="CCTV5" start="20260721040000 +0800" stop="20260721060000 +0800">
         <title lang="zh">2026年温布尔登网球锦标赛-男单半决赛(4K)</title>
     </programme>
-    <programme channel="CCTV5" start="20260721060000 +0800" stop="20260721063100 +0800">
+    <programme channel="CCTV5" start="20260721060000 +0800" stop="20260721063000 +0800">
         <title lang="zh">实况录像-2026年射箭世界杯 中国站 1</title>
     </programme>
-    <programme channel="CCTV5" start="20260721063100 +0800" stop="20260721070000 +0800">
+    <programme channel="CCTV5" start="20260721063000 +0800" stop="20260721070000 +0800">
         <title lang="zh">健身动起来</title>
     </programme>
     <programme channel="CCTV5" start="20260721070000 +0800" stop="20260721080300 +0800">
@@ -462,11 +462,8 @@
     <programme channel="CCTV5" start="20260721080300 +0800" stop="20260721090000 +0800">
         <title lang="zh">2026年环法自行车赛-第15赛段</title>
     </programme>
-    <programme channel="CCTV5" start="20260721090000 +0800" stop="20260721115100 +0800">
+    <programme channel="CCTV5" start="20260721090000 +0800" stop="20260721115500 +0800">
         <title lang="zh">2026中国羽毛球公开赛 第一轮</title>
-    </programme>
-    <programme channel="CCTV5" start="20260721115100 +0800" stop="20260721115500 +0800">
-        <title lang="zh">2026年中国男篮热身赛-杭州站(中国队-荷兰队)</title>
     </programme>
     <programme channel="CCTV5" start="20260721115500 +0800" stop="20260721120000 +0800">
         <title lang="zh">健身动起来</title>
