@@ -1197,10 +1197,10 @@
     <programme channel="CCTV13" start="20260725100000 +0800" stop="20260725120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260725120000 +0800" stop="20260725123300 +0800">
+    <programme channel="CCTV13" start="20260725120000 +0800" stop="20260725123500 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260725123300 +0800" stop="20260725130000 +0800">
+    <programme channel="CCTV13" start="20260725123500 +0800" stop="20260725130000 +0800">
         <title lang="zh">军情时间到</title>
     </programme>
     <programme channel="CCTV13" start="20260725130000 +0800" stop="20260725140000 +0800">
