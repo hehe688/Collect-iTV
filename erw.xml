@@ -531,8 +531,11 @@
     <programme channel="CCTV5+" start="20260726154500 +0800" stop="20260726160000 +0800">
         <title lang="zh">实况录像-荣耀十分-2026年艺术体操世界杯索菲亚站 中国队获集体5球单项金牌</title>
     </programme>
-    <programme channel="CCTV5+" start="20260726160000 +0800" stop="20260726173000 +0800">
-        <title lang="zh">2026年世界泳联水球世界杯-男子决赛</title>
+    <programme channel="CCTV5+" start="20260726160000 +0800" stop="20260726170500 +0800">
+        <title lang="zh">2026年国际排联世界沙滩排球巡回赛挑战赛-女子决赛</title>
+    </programme>
+    <programme channel="CCTV5+" start="20260726170500 +0800" stop="20260726173000 +0800">
+        <title lang="zh">燃动金杯-2026年世界杯小组赛第三轮进球集锦</title>
     </programme>
     <programme channel="CCTV5+" start="20260726173000 +0800" stop="20260726180000 +0800">
         <title lang="zh">实况录像-2026年世界田联钻石联赛 伦敦站 25分钟版</title>
@@ -540,14 +543,14 @@
     <programme channel="CCTV5+" start="20260726180000 +0800" stop="20260726193000 +0800">
         <title lang="zh">实况录像-2026世界杯 半决赛 法国队-西班牙队</title>
     </programme>
-    <programme channel="CCTV5+" start="20260726193000 +0800" stop="20260726214000 +0800">
+    <programme channel="CCTV5+" start="20260726193000 +0800" stop="20260726213500 +0800">
         <title lang="zh">2026中国足球超级联赛-第20轮（成都蓉城—北京国安）</title>
     </programme>
-    <programme channel="CCTV5+" start="20260726214000 +0800" stop="20260726224100 +0800">
-        <title lang="zh">2026年环法自行车赛-第20赛段</title>
+    <programme channel="CCTV5+" start="20260726213500 +0800" stop="20260726230500 +0800">
+        <title lang="zh">2026年世界一级方程式锦标赛-匈牙利大奖赛 正赛</title>
     </programme>
-    <programme channel="CCTV5+" start="20260726224100 +0800" stop="20260727000500 +0800">
-        <title lang="zh">2026年温布尔登网球锦标赛-男单决赛（4K）</title>
+    <programme channel="CCTV5+" start="20260726230500 +0800" stop="20260727000500 +0800">
+        <title lang="zh">2026年环法自行车赛-第20赛段</title>
     </programme>
     <channel id="CCTV6">
         <display-name lang="zh">CCTV6</display-name>
@@ -1206,10 +1209,10 @@
     <programme channel="CCTV13" start="20260726110000 +0800" stop="20260726120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260726120000 +0800" stop="20260726123500 +0800">
+    <programme channel="CCTV13" start="20260726120000 +0800" stop="20260726123600 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260726123500 +0800" stop="20260726130000 +0800">
+    <programme channel="CCTV13" start="20260726123600 +0800" stop="20260726130000 +0800">
         <title lang="zh">每周质量报告</title>
     </programme>
     <programme channel="CCTV13" start="20260726130000 +0800" stop="20260726140000 +0800">
@@ -2262,7 +2265,7 @@
     <programme channel="辽宁卫视" start="20260726230300 +0800" stop="20260726233700 +0800">
         <title lang="zh">纪录片</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260726233700 +0800" stop="20260727000000 +0800">
+    <programme channel="辽宁卫视" start="20260726233700 +0800" stop="20260727003800 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
