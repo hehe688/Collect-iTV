@@ -1257,10 +1257,10 @@
     <programme channel="CCTV13" start="20260728110000 +0800" stop="20260728120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260728120000 +0800" stop="20260728123400 +0800">
+    <programme channel="CCTV13" start="20260728120000 +0800" stop="20260728123500 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260728123400 +0800" stop="20260728130000 +0800">
+    <programme channel="CCTV13" start="20260728123500 +0800" stop="20260728130000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13" start="20260728130000 +0800" stop="20260728140000 +0800">
@@ -2343,7 +2343,7 @@
     <programme channel="辽宁卫视" start="20260728230300 +0800" stop="20260728232900 +0800">
         <title lang="zh">纪录片</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260728232900 +0800" stop="20260729000000 +0800">
+    <programme channel="辽宁卫视" start="20260728232900 +0800" stop="20260729005300 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
