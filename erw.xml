@@ -357,10 +357,10 @@
     <programme channel="CCTV4" start="20260728070000 +0800" stop="20260728073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260728073000 +0800" stop="20260728080000 +0800">
+    <programme channel="CCTV4" start="20260728073000 +0800" stop="20260728080100 +0800">
         <title lang="zh">海峡两岸-2026-208</title>
     </programme>
-    <programme channel="CCTV4" start="20260728080000 +0800" stop="20260728090000 +0800">
+    <programme channel="CCTV4" start="20260728080100 +0800" stop="20260728090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4" start="20260728090000 +0800" stop="20260728092800 +0800">
@@ -447,10 +447,10 @@
     <programme channel="CCTV5" start="20260728040000 +0800" stop="20260728060000 +0800">
         <title lang="zh">2026年法国网球公开赛-男单决赛（4K）</title>
     </programme>
-    <programme channel="CCTV5" start="20260728060000 +0800" stop="20260728063000 +0800">
+    <programme channel="CCTV5" start="20260728060000 +0800" stop="20260728063100 +0800">
         <title lang="zh">实况录像-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌2</title>
     </programme>
-    <programme channel="CCTV5" start="20260728063000 +0800" stop="20260728070000 +0800">
+    <programme channel="CCTV5" start="20260728063100 +0800" stop="20260728070000 +0800">
         <title lang="zh">健身动起来</title>
     </programme>
     <programme channel="CCTV5" start="20260728070000 +0800" stop="20260728080300 +0800">
@@ -1209,13 +1209,13 @@
     <programme channel="CCTV13" start="20260728000000 +0800" stop="20260728010000 +0800">
         <title lang="zh">午夜新闻</title>
     </programme>
-    <programme channel="CCTV13" start="20260728010000 +0800" stop="20260728012000 +0800">
+    <programme channel="CCTV13" start="20260728010000 +0800" stop="20260728012100 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260728012000 +0800" stop="20260728013600 +0800">
+    <programme channel="CCTV13" start="20260728012100 +0800" stop="20260728013700 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13" start="20260728013600 +0800" stop="20260728020000 +0800">
+    <programme channel="CCTV13" start="20260728013700 +0800" stop="20260728020000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13" start="20260728020000 +0800" stop="20260728023300 +0800">
@@ -1236,13 +1236,13 @@
     <programme channel="CCTV13" start="20260728043300 +0800" stop="20260728050000 +0800">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme channel="CCTV13" start="20260728050000 +0800" stop="20260728051700 +0800">
+    <programme channel="CCTV13" start="20260728050000 +0800" stop="20260728051800 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260728051700 +0800" stop="20260728053300 +0800">
+    <programme channel="CCTV13" start="20260728051800 +0800" stop="20260728053400 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13" start="20260728053300 +0800" stop="20260728060000 +0800">
+    <programme channel="CCTV13" start="20260728053400 +0800" stop="20260728060000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13" start="20260728060000 +0800" stop="20260728090000 +0800">
@@ -1257,10 +1257,10 @@
     <programme channel="CCTV13" start="20260728110000 +0800" stop="20260728120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260728120000 +0800" stop="20260728123300 +0800">
+    <programme channel="CCTV13" start="20260728120000 +0800" stop="20260728123400 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260728123300 +0800" stop="20260728130000 +0800">
+    <programme channel="CCTV13" start="20260728123400 +0800" stop="20260728130000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13" start="20260728130000 +0800" stop="20260728140000 +0800">
@@ -1281,10 +1281,13 @@
     <programme channel="CCTV13" start="20260728180000 +0800" stop="20260728190000 +0800">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme channel="CCTV13" start="20260728190000 +0800" stop="20260728194000 +0800">
+    <programme channel="CCTV13" start="20260728190000 +0800" stop="20260728193100 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13" start="20260728194000 +0800" stop="20260728200000 +0800">
+    <programme channel="CCTV13" start="20260728193100 +0800" stop="20260728193800 +0800">
+        <title lang="zh">天气预报</title>
+    </programme>
+    <programme channel="CCTV13" start="20260728193800 +0800" stop="20260728200000 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV13" start="20260728200000 +0800" stop="20260728210000 +0800">
@@ -2499,7 +2502,7 @@
     <programme channel="河北卫视" start="20260728234200 +0800" stop="20260728234600 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260728234600 +0800" stop="20260729000000 +0800">
+    <programme channel="河北卫视" start="20260728234600 +0800" stop="20260729011900 +0800">
         <title lang="zh">黄雀</title>
     </programme>
     <channel id="江西卫视">
