@@ -357,10 +357,10 @@
     <programme channel="CCTV4" start="20260801070000 +0800" stop="20260801073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260801073000 +0800" stop="20260801080000 +0800">
+    <programme channel="CCTV4" start="20260801073000 +0800" stop="20260801080100 +0800">
         <title lang="zh">海峡两岸-2026-212</title>
     </programme>
-    <programme channel="CCTV4" start="20260801080000 +0800" stop="20260801090000 +0800">
+    <programme channel="CCTV4" start="20260801080100 +0800" stop="20260801090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4" start="20260801090000 +0800" stop="20260801092700 +0800">
@@ -462,10 +462,10 @@
     <programme channel="CCTV5" start="20260801040000 +0800" stop="20260801060000 +0800">
         <title lang="zh">实况录像-2026年汤姆斯杯羽毛球赛  半决赛</title>
     </programme>
-    <programme channel="CCTV5" start="20260801060000 +0800" stop="20260801063000 +0800">
+    <programme channel="CCTV5" start="20260801060000 +0800" stop="20260801063100 +0800">
         <title lang="zh">实况录像-2026年射箭世界杯 中国站 2</title>
     </programme>
-    <programme channel="CCTV5" start="20260801063000 +0800" stop="20260801070000 +0800">
+    <programme channel="CCTV5" start="20260801063100 +0800" stop="20260801070000 +0800">
         <title lang="zh">健身动起来</title>
     </programme>
     <programme channel="CCTV5" start="20260801070000 +0800" stop="20260801080300 +0800">
@@ -565,7 +565,7 @@
         <title lang="zh">实况录像-2026世界杯 决赛 西班牙队-阿根廷队</title>
     </programme>
     <programme channel="CCTV5+" start="20260801193000 +0800" stop="20260801205300 +0800">
-        <title lang="zh">实况录像-2026年世界女排联赛总决赛 决赛</title>
+        <title lang="zh">2026斯诺克上海大师赛-半决赛2（第二阶段）</title>
     </programme>
     <programme channel="CCTV5+" start="20260801205300 +0800" stop="20260801215600 +0800">
         <title lang="zh">2026年亚洲体操锦标赛-男子单项决赛2（4K）</title>
@@ -1224,10 +1224,10 @@
     <programme channel="CCTV13" start="20260801100000 +0800" stop="20260801120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260801120000 +0800" stop="20260801123300 +0800">
+    <programme channel="CCTV13" start="20260801120000 +0800" stop="20260801123600 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260801123300 +0800" stop="20260801130000 +0800">
+    <programme channel="CCTV13" start="20260801123600 +0800" stop="20260801130000 +0800">
         <title lang="zh">军情时间到</title>
     </programme>
     <programme channel="CCTV13" start="20260801130000 +0800" stop="20260801140000 +0800">
