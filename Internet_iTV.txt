@@ -1665,7 +1665,6 @@ CETV4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index
 邯郸科教,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
 🚓河南频道,#genre#
- 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
  新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
  永城综合,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
  荥阳综合,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
@@ -1737,7 +1736,6 @@ CETV4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index
 新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?zhend
 新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
 新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend?
-新闻综合,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
 方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
 桐柏新闻综合,http://live.dxhmt.cn:9081/tv/11330-1.m3u8
@@ -2317,9 +2315,11 @@ CETV4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index
 宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 石嘴山综合,http://live.kanwz.net/ggpd/playlist.m3u8
 🛵青海频道,#genre#
+ 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
  西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 兴海综合,http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8
 化隆综合,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8?zqinghd
+新闻综合,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 民和综合,http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd
 西宁新闻综合,http://cm-wshls.homecdn.com/live/5a296.dlv
 西宁新闻综合,http://cm-wshls.homecdn.com/live/5a296.m3u8
