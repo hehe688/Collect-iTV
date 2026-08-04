@@ -102,7 +102,7 @@
     <programme channel="CCTV1" start="20260804220000 +0800" stop="20260804223500 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1" start="20260804223500 +0800" stop="20260805000000 +0800">
+    <programme channel="CCTV1" start="20260804223500 +0800" stop="20260805001800 +0800">
         <title lang="zh">宗师列传·大唐诗人传-王维</title>
     </programme>
     <channel id="CCTV2">
@@ -645,7 +645,7 @@
     <programme channel="CCTV6" start="20260804230000 +0800" stop="20260804230100 +0800">
         <title lang="zh">中国体育彩票阳光开奖2026-08-04</title>
     </programme>
-    <programme channel="CCTV6" start="20260804230100 +0800" stop="20260805000600 +0800">
+    <programme channel="CCTV6" start="20260804230100 +0800" stop="20260805000500 +0800">
         <title lang="zh">平原游击队（下）</title>
     </programme>
     <channel id="CCTV7">
