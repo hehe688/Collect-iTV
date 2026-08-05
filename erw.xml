@@ -93,7 +93,7 @@
     <programme channel="CCTV1" start="20260805220000 +0800" stop="20260805223500 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1" start="20260805223500 +0800" stop="20260806000000 +0800">
+    <programme channel="CCTV1" start="20260805223500 +0800" stop="20260806001200 +0800">
         <title lang="zh">宗师列传·大唐诗人传-李贺</title>
     </programme>
     <channel id="CCTV2">
@@ -624,7 +624,7 @@
     <programme channel="CCTV6" start="20260805222300 +0800" stop="20260805235700 +0800">
         <title lang="zh">铁道游击队（上）（下）</title>
     </programme>
-    <programme channel="CCTV6" start="20260805235700 +0800" stop="20260806000000 +0800">
+    <programme channel="CCTV6" start="20260805235700 +0800" stop="20260806012900 +0800">
         <title lang="zh">马锡五断案</title>
     </programme>
     <channel id="CCTV7">
@@ -2466,7 +2466,7 @@
     <programme channel="河北卫视" start="20260805233000 +0800" stop="20260805233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260805233300 +0800" stop="20260806000000 +0800">
+    <programme channel="河北卫视" start="20260805233300 +0800" stop="20260806000300 +0800">
         <title lang="zh">嘿，这就是诗经</title>
     </programme>
     <channel id="江西卫视">
