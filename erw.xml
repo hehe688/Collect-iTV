@@ -96,7 +96,7 @@
     <programme channel="CCTV1" start="20260806220000 +0800" stop="20260806223500 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1" start="20260806223500 +0800" stop="20260807000000 +0800">
+    <programme channel="CCTV1" start="20260806223500 +0800" stop="20260807001100 +0800">
         <title lang="zh">宗师列传·大唐诗人传-李商隐</title>
     </programme>
     <channel id="CCTV2">
@@ -618,7 +618,7 @@
     <programme channel="CCTV6" start="20260806230000 +0800" stop="20260806230100 +0800">
         <title lang="zh">中国体育彩票阳光开奖2026-08-06</title>
     </programme>
-    <programme channel="CCTV6" start="20260806230100 +0800" stop="20260807003500 +0800">
+    <programme channel="CCTV6" start="20260806230100 +0800" stop="20260807003800 +0800">
         <title lang="zh">南征北战 (下)</title>
     </programme>
     <channel id="CCTV7">
@@ -2082,7 +2082,7 @@
     <programme channel="广东卫视" start="20260806225500 +0800" stop="20260806233500 +0800">
         <title lang="zh">秋蝉(20)</title>
     </programme>
-    <programme channel="广东卫视" start="20260806233500 +0800" stop="20260807000000 +0800">
+    <programme channel="广东卫视" start="20260806233500 +0800" stop="20260807001300 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
