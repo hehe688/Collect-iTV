@@ -198,13 +198,10 @@
     <programme channel="CCTV2" start="20260809213000 +0800" stop="20260809221600 +0800">
         <title lang="zh">中国经济大讲堂-2026-30</title>
     </programme>
-    <programme channel="CCTV2" start="20260809221600 +0800" stop="20260809223800 +0800">
-        <title lang="zh">2026精品财经纪录-中国民居第三季-5</title>
+    <programme channel="CCTV2" start="20260809221600 +0800" stop="20260809231900 +0800">
+        <title lang="zh">致胜观球团-和企业家一起侃球-8</title>
     </programme>
-    <programme channel="CCTV2" start="20260809223800 +0800" stop="20260809230300 +0800">
-        <title lang="zh">2026精品财经纪录-中国民居第三季-6</title>
-    </programme>
-    <programme channel="CCTV2" start="20260809230300 +0800" stop="20260810002400 +0800">
+    <programme channel="CCTV2" start="20260809231900 +0800" stop="20260810002400 +0800">
         <title lang="zh">一槌定音-2026-25</title>
     </programme>
     <channel id="CCTV3">
@@ -342,10 +339,10 @@
     <programme channel="CCTV4" start="20260809070000 +0800" stop="20260809073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260809073000 +0800" stop="20260809080000 +0800">
+    <programme channel="CCTV4" start="20260809073000 +0800" stop="20260809080100 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4" start="20260809080000 +0800" stop="20260809090000 +0800">
+    <programme channel="CCTV4" start="20260809080100 +0800" stop="20260809090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4" start="20260809090000 +0800" stop="20260809092700 +0800">
@@ -444,10 +441,10 @@
     <programme channel="CCTV5" start="20260809040000 +0800" stop="20260809060000 +0800">
         <title lang="zh">实况录像-2026年汤姆斯杯羽毛球赛  决赛</title>
     </programme>
-    <programme channel="CCTV5" start="20260809060000 +0800" stop="20260809063000 +0800">
+    <programme channel="CCTV5" start="20260809060000 +0800" stop="20260809063100 +0800">
         <title lang="zh">实况录像-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌2</title>
     </programme>
-    <programme channel="CCTV5" start="20260809063000 +0800" stop="20260809070000 +0800">
+    <programme channel="CCTV5" start="20260809063100 +0800" stop="20260809070000 +0800">
         <title lang="zh">健身动起来</title>
     </programme>
     <programme channel="CCTV5" start="20260809070000 +0800" stop="20260809080300 +0800">
