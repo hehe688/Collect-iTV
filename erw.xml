@@ -366,10 +366,10 @@
     <programme channel="CCTV4" start="20260813070000 +0800" stop="20260813073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260813073000 +0800" stop="20260813080000 +0800">
+    <programme channel="CCTV4" start="20260813073000 +0800" stop="20260813080200 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4" start="20260813080000 +0800" stop="20260813090000 +0800">
+    <programme channel="CCTV4" start="20260813080200 +0800" stop="20260813090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4" start="20260813090000 +0800" stop="20260813092600 +0800">
@@ -585,43 +585,43 @@
     <channel id="CCTV6">
         <display-name lang="zh">CCTV6</display-name>
     </channel>
-    <programme channel="CCTV6" start="20260812222200 +0800" stop="20260813004600 +0800">
+    <programme channel="CCTV6" start="20260812222200 +0800" stop="20260813004400 +0800">
         <title lang="zh">热辣滚烫</title>
     </programme>
-    <programme channel="CCTV6" start="20260813004600 +0800" stop="20260813022700 +0800">
+    <programme channel="CCTV6" start="20260813004400 +0800" stop="20260813022200 +0800">
         <title lang="zh">玄武门之殇</title>
     </programme>
-    <programme channel="CCTV6" start="20260813022700 +0800" stop="20260813042500 +0800">
+    <programme channel="CCTV6" start="20260813022200 +0800" stop="20260813054900 +0800">
         <title lang="zh">狼图腾</title>
     </programme>
-    <programme channel="CCTV6" start="20260813042500 +0800" stop="20260813061400 +0800">
-        <title lang="zh">三城记</title>
-    </programme>
-    <programme channel="CCTV6" start="20260813061400 +0800" stop="20260813074400 +0800">
+    <programme channel="CCTV6" start="20260813054900 +0800" stop="20260813071900 +0800">
         <title lang="zh">真凶疑云</title>
     </programme>
-    <programme channel="CCTV6" start="20260813074400 +0800" stop="20260813093200 +0800">
-        <title lang="zh">少林寺（银都）</title>
+    <programme channel="CCTV6" start="20260813071900 +0800" stop="20260813092700 +0800">
+        <title lang="zh">新警察故事</title>
     </programme>
-    <programme channel="CCTV6" start="20260813093200 +0800" stop="20260813111000 +0800">
+    <programme channel="CCTV6" start="20260813092700 +0800" stop="20260813110900 +0800">
         <title lang="zh">雪耻杀</title>
     </programme>
-    <programme channel="CCTV6" start="20260813111000 +0800" stop="20260813111600 +0800">
+    <programme channel="CCTV6" start="20260813110900 +0800" stop="20260813111400 +0800">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme channel="CCTV6" start="20260813111600 +0800" stop="20260813125500 +0800">
+    <programme channel="CCTV6" start="20260813111400 +0800" stop="20260813125300 +0800">
         <title lang="zh">百万巨鳄</title>
     </programme>
-    <programme channel="CCTV6" start="20260813125500 +0800" stop="20260813152300 +0800">
+    <programme channel="CCTV6" start="20260813125300 +0800" stop="20260813152100 +0800">
         <title lang="zh">虎!虎!虎!</title>
     </programme>
-    <programme channel="CCTV6" start="20260813152300 +0800" stop="20260813182300 +0800">
-        <title lang="zh">拯救大兵瑞恩</title>
+    <programme channel="CCTV6" start="20260813152100 +0800" stop="20260813164600 +0800">
+        <title lang="zh">拯救大兵瑞恩（上）</title>
     </programme>
-    <programme channel="CCTV6" start="20260813182300 +0800" stop="20260813202600 +0800">
+    <programme channel="CCTV6" start="20260813164600 +0800" stop="20260813182800 +0800">
+        <title lang="zh">拯救大兵瑞恩（下）</title>
+    </programme>
+    <programme channel="CCTV6" start="20260813182800 +0800" stop="20260813202500 +0800">
         <title lang="zh">我是证人</title>
     </programme>
-    <programme channel="CCTV6" start="20260813202600 +0800" stop="20260813220000 +0800">
+    <programme channel="CCTV6" start="20260813202500 +0800" stop="20260813220000 +0800">
         <title lang="zh">狼牙</title>
     </programme>
     <programme channel="CCTV6" start="20260813220000 +0800" stop="20260813221800 +0800">
