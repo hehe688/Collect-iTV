@@ -81,11 +81,8 @@
     <programme channel="CCTV1" start="20260814194000 +0800" stop="20260814200300 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1" start="20260814200300 +0800" stop="20260814204700 +0800">
-        <title lang="zh">江泽民-7</title>
-    </programme>
-    <programme channel="CCTV1" start="20260814204700 +0800" stop="20260814214200 +0800">
-        <title lang="zh">江泽民-8</title>
+    <programme channel="CCTV1" start="20260814200300 +0800" stop="20260814214200 +0800">
+        <title lang="zh">江泽民7-8</title>
     </programme>
     <programme channel="CCTV1" start="20260814214200 +0800" stop="20260814214900 +0800">
         <title lang="zh">非遗里的中国-MV</title>
@@ -690,7 +687,7 @@
     <programme channel="CCTV6" start="20260814230000 +0800" stop="20260814230100 +0800">
         <title lang="zh">中国体育彩票阳光开奖</title>
     </programme>
-    <programme channel="CCTV6" start="20260814230100 +0800" stop="20260815004200 +0800">
+    <programme channel="CCTV6" start="20260814230100 +0800" stop="20260815004400 +0800">
         <title lang="zh">斯大林格勒(下)</title>
     </programme>
     <channel id="CCTV7">
@@ -1314,10 +1311,10 @@
     <programme channel="CCTV13" start="20260814110000 +0800" stop="20260814120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260814120000 +0800" stop="20260814123300 +0800">
+    <programme channel="CCTV13" start="20260814120000 +0800" stop="20260814123500 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260814123300 +0800" stop="20260814130000 +0800">
+    <programme channel="CCTV13" start="20260814123500 +0800" stop="20260814130000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13" start="20260814130000 +0800" stop="20260814140000 +0800">
@@ -2568,7 +2565,7 @@
     <programme channel="河北卫视" start="20260814233900 +0800" stop="20260814235900 +0800">
         <title lang="zh">磁州窑</title>
     </programme>
-    <programme channel="河北卫视" start="20260814235900 +0800" stop="20260815000000 +0800">
+    <programme channel="河北卫视" start="20260814235900 +0800" stop="20260815005200 +0800">
         <title lang="zh">父辈的荣耀</title>
     </programme>
     <channel id="江西卫视">
