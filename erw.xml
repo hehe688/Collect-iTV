@@ -66,11 +66,8 @@
     <programme channel="CCTV1" start="20260815193900 +0800" stop="20260815200300 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1" start="20260815200300 +0800" stop="20260815204800 +0800">
-        <title lang="zh">江泽民-9</title>
-    </programme>
-    <programme channel="CCTV1" start="20260815204800 +0800" stop="20260815214200 +0800">
-        <title lang="zh">江泽民-10</title>
+    <programme channel="CCTV1" start="20260815200300 +0800" stop="20260815214200 +0800">
+        <title lang="zh">《江泽民》9-10 </title>
     </programme>
     <programme channel="CCTV1" start="20260815214200 +0800" stop="20260815215000 +0800">
         <title lang="zh">三餐四季-宣传片</title>
