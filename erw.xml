@@ -72,11 +72,8 @@
     <programme channel="CCTV1" start="20260816193900 +0800" stop="20260816200300 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1" start="20260816200300 +0800" stop="20260816204600 +0800">
-        <title lang="zh">江泽民-11</title>
-    </programme>
-    <programme channel="CCTV1" start="20260816204600 +0800" stop="20260816213600 +0800">
-        <title lang="zh">江泽民-12</title>
+    <programme channel="CCTV1" start="20260816200300 +0800" stop="20260816213600 +0800">
+        <title lang="zh">江泽民11-12</title>
     </programme>
     <programme channel="CCTV1" start="20260816213600 +0800" stop="20260816215000 +0800">
         <title lang="zh">中华古树-明清石榴园古树群（4K）</title>
@@ -576,11 +573,8 @@
     <programme channel="CCTV6" start="20260816154700 +0800" stop="20260816160600 +0800">
         <title lang="zh">佳片有约周日版2026-033</title>
     </programme>
-    <programme channel="CCTV6" start="20260816160600 +0800" stop="20260816163300 +0800">
-        <title lang="zh">斯大林格勒（上）</title>
-    </programme>
-    <programme channel="CCTV6" start="20260816163300 +0800" stop="20260816182800 +0800">
-        <title lang="zh">斯大林格勒（下）</title>
+    <programme channel="CCTV6" start="20260816160600 +0800" stop="20260816182800 +0800">
+        <title lang="zh">斯大林格勒（上）（下）</title>
     </programme>
     <programme channel="CCTV6" start="20260816182800 +0800" stop="20260816201900 +0800">
         <title lang="zh">毒蜂</title>
