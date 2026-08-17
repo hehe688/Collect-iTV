@@ -675,7 +675,7 @@
     <programme channel="CCTV6" start="20260817230000 +0800" stop="20260817230100 +0800">
         <title lang="zh">中国体育彩票阳光开奖</title>
     </programme>
-    <programme channel="CCTV6" start="20260817230100 +0800" stop="20260818001400 +0800">
+    <programme channel="CCTV6" start="20260817230100 +0800" stop="20260818001000 +0800">
         <title lang="zh">神丐(下)</title>
     </programme>
     <channel id="CCTV7">
@@ -2418,7 +2418,7 @@
     <programme channel="辽宁卫视" start="20260817225200 +0800" stop="20260817233100 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260817233100 +0800" stop="20260818000000 +0800">
+    <programme channel="辽宁卫视" start="20260817233100 +0800" stop="20260818002700 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
     <channel id="河北卫视">
