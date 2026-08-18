@@ -1546,7 +1546,6 @@ CETV4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index
  广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
  来宾综合,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
  灌阳新闻综合,https://ls.qingting.fm/live/5043/64k.m3u8
- 经济科教,http://120.237.39.10:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1
 北海新闻,http://45.192.97.170:8880/play/2390.m3u8
 北海新闻综合,https://live.gxrb.com.cn/gx/beihai/index.m3u8
 北海经济科教,https://play-a2.quklive.com:443/live/1727311690820146.m3u8
@@ -2604,6 +2603,7 @@ CETV4,http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/cetv4/51/20240709/index
  湖州新闻综合,http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
  绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
  绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+ 经济科教,http://120.237.39.10:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&down=1
  缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
  缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed?
  苍南新闻综合,https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
