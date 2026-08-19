@@ -57,11 +57,8 @@
     <programme channel="CCTV1" start="20260819130500 +0800" stop="20260819170700 +0800">
         <title lang="zh">我的山与海24-28</title>
     </programme>
-    <programme channel="CCTV1" start="20260819170700 +0800" stop="20260819172800 +0800">
+    <programme channel="CCTV1" start="20260819170700 +0800" stop="20260819173800 +0800">
         <title lang="zh">第一动画乐园-2026-206</title>
-    </programme>
-    <programme channel="CCTV1" start="20260819172800 +0800" stop="20260819173800 +0800">
-        <title lang="zh">千秋诗颂-2026-6</title>
     </programme>
     <programme channel="CCTV1" start="20260819173800 +0800" stop="20260819182100 +0800">
         <title lang="zh">生活早参考-特别节目（生活圈）2026-226</title>
@@ -79,7 +76,7 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV1" start="20260819200400 +0800" stop="20260819220000 +0800">
-        <title lang="zh">专题节目-1</title>
+        <title lang="zh">今夕颂——2026中央广播电视总台七夕晚会-1</title>
     </programme>
     <programme channel="CCTV1" start="20260819220000 +0800" stop="20260819223600 +0800">
         <title lang="zh">晚间新闻</title>
@@ -630,7 +627,7 @@
     <programme channel="CCTV6" start="20260819230000 +0800" stop="20260819230100 +0800">
         <title lang="zh">中国体育彩票阳光开奖2026-08-19</title>
     </programme>
-    <programme channel="CCTV6" start="20260819230100 +0800" stop="20260820000300 +0800">
+    <programme channel="CCTV6" start="20260819230100 +0800" stop="20260820000100 +0800">
         <title lang="zh">广东十虎铁桥三之王者荣威（下）</title>
     </programme>
     <channel id="CCTV7">
@@ -1242,10 +1239,10 @@
     <programme channel="CCTV13" start="20260819110000 +0800" stop="20260819120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260819120000 +0800" stop="20260819123300 +0800">
+    <programme channel="CCTV13" start="20260819120000 +0800" stop="20260819123500 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260819123300 +0800" stop="20260819130000 +0800">
+    <programme channel="CCTV13" start="20260819123500 +0800" stop="20260819130000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13" start="20260819130000 +0800" stop="20260819140000 +0800">
