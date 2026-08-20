@@ -636,7 +636,7 @@
     <programme channel="CCTV6" start="20260820222300 +0800" stop="20260820235500 +0800">
         <title lang="zh">东北警察故事（上）（下）</title>
     </programme>
-    <programme channel="CCTV6" start="20260820235500 +0800" stop="20260821013200 +0800">
+    <programme channel="CCTV6" start="20260820235500 +0800" stop="20260821012700 +0800">
         <title lang="zh">特警云豹</title>
     </programme>
     <channel id="CCTV7">
@@ -1254,10 +1254,10 @@
     <programme channel="CCTV13" start="20260820110000 +0800" stop="20260820120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260820120000 +0800" stop="20260820123300 +0800">
+    <programme channel="CCTV13" start="20260820120000 +0800" stop="20260820123600 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260820123300 +0800" stop="20260820130000 +0800">
+    <programme channel="CCTV13" start="20260820123600 +0800" stop="20260820130000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13" start="20260820130000 +0800" stop="20260820140000 +0800">
@@ -2493,7 +2493,7 @@
     <programme channel="河北卫视" start="20260820233300 +0800" stop="20260820233600 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260820233600 +0800" stop="20260821000000 +0800">
+    <programme channel="河北卫视" start="20260820233600 +0800" stop="20260821000100 +0800">
         <title lang="zh">城市烟火</title>
     </programme>
     <channel id="江西卫视">
