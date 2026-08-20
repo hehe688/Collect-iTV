@@ -357,10 +357,10 @@
     <programme channel="CCTV4" start="20260820070000 +0800" stop="20260820073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260820073000 +0800" stop="20260820080000 +0800">
+    <programme channel="CCTV4" start="20260820073000 +0800" stop="20260820080300 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4" start="20260820080000 +0800" stop="20260820090000 +0800">
+    <programme channel="CCTV4" start="20260820080300 +0800" stop="20260820090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4" start="20260820090000 +0800" stop="20260820092800 +0800">
@@ -459,10 +459,10 @@
     <programme channel="CCTV5" start="20260820040000 +0800" stop="20260820060000 +0800">
         <title lang="zh">2026年法国网球公开赛-男单决赛（4K）</title>
     </programme>
-    <programme channel="CCTV5" start="20260820060000 +0800" stop="20260820063000 +0800">
+    <programme channel="CCTV5" start="20260820060000 +0800" stop="20260820063100 +0800">
         <title lang="zh">实况录像-2026年射箭世界杯 中国站 2</title>
     </programme>
-    <programme channel="CCTV5" start="20260820063000 +0800" stop="20260820070000 +0800">
+    <programme channel="CCTV5" start="20260820063100 +0800" stop="20260820070000 +0800">
         <title lang="zh">健身动起来</title>
     </programme>
     <programme channel="CCTV5" start="20260820070000 +0800" stop="20260820080300 +0800">
