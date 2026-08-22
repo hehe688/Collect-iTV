@@ -90,23 +90,20 @@
     <channel id="CCTV2">
         <display-name lang="zh">CCTV2</display-name>
     </channel>
-    <programme channel="CCTV2" start="20260821235400 +0800" stop="20260822005400 +0800">
+    <programme channel="CCTV2" start="20260821235400 +0800" stop="20260822003200 +0800">
         <title lang="zh">职场健康课-2026-33</title>
     </programme>
-    <programme channel="CCTV2" start="20260822005400 +0800" stop="20260822011800 +0800">
-        <title lang="zh">2026精品财经纪录-崂山1</title>
+    <programme channel="CCTV2" start="20260822003200 +0800" stop="20260822010600 +0800">
+        <title lang="zh">经济半小时</title>
     </programme>
-    <programme channel="CCTV2" start="20260822011800 +0800" stop="20260822020200 +0800">
-        <title lang="zh">中国经济大讲堂-2026-31</title>
+    <programme channel="CCTV2" start="20260822010600 +0800" stop="20260822023800 +0800">
+        <title lang="zh">赢在AI+（第二季）-1</title>
     </programme>
-    <programme channel="CCTV2" start="20260822020200 +0800" stop="20260822024500 +0800">
+    <programme channel="CCTV2" start="20260822023800 +0800" stop="20260822032100 +0800">
         <title lang="zh">对话-2026-31</title>
     </programme>
-    <programme channel="CCTV2" start="20260822024500 +0800" stop="20260822024900 +0800">
-        <title lang="zh">周末特供2026-奇妙中国第二季9-4分版</title>
-    </programme>
-    <programme channel="CCTV2" start="20260822024900 +0800" stop="20260822033400 +0800">
-        <title lang="zh">2025精品财经纪录-我们的国家公园-5</title>
+    <programme channel="CCTV2" start="20260822032100 +0800" stop="20260822033400 +0800">
+        <title lang="zh">周末特供2025-万物滋养1(上)-13分版</title>
     </programme>
     <programme channel="CCTV2" start="20260822033400 +0800" stop="20260822043300 +0800">
         <title lang="zh">一槌定音-2026-34</title>
@@ -201,11 +198,8 @@
     <programme channel="CCTV2" start="20260822221600 +0800" stop="20260822230400 +0800">
         <title lang="zh">2025精品财经纪录-我们的国家公园-1</title>
     </programme>
-    <programme channel="CCTV2" start="20260822230400 +0800" stop="20260822233000 +0800">
-        <title lang="zh">2025精品财经纪录-大唐盛世千年文物-1</title>
-    </programme>
-    <programme channel="CCTV2" start="20260822233000 +0800" stop="20260823000200 +0800">
-        <title lang="zh">2025精品财经纪录-大唐盛世千年文物-2</title>
+    <programme channel="CCTV2" start="20260822230400 +0800" stop="20260823000200 +0800">
+        <title lang="zh">赢在AI+（第二季）-1</title>
     </programme>
     <channel id="CCTV3">
         <display-name lang="zh">CCTV3</display-name>
@@ -214,7 +208,7 @@
         <title lang="zh">综艺喜乐汇-2026-872  四喜 8/36</title>
     </programme>
     <programme channel="CCTV3" start="20260822004300 +0800" stop="20260822012900 +0800">
-        <title lang="zh">综艺喜乐汇-2026-873  四喜 9/36</title>
+        <title lang="zh">综艺喜乐汇-2026-873 四喜 9/36</title>
     </programme>
     <programme channel="CCTV3" start="20260822012900 +0800" stop="20260822032000 +0800">
         <title lang="zh">影视留声机-2025-90-经典电影欣赏《永不消逝的电波》</title>
@@ -240,11 +234,11 @@
     <programme channel="CCTV3" start="20260822080000 +0800" stop="20260822080300 +0800">
         <title lang="zh">综艺喜乐汇-2026-1036 喜雨</title>
     </programme>
-    <programme channel="CCTV3" start="20260822080300 +0800" stop="20260822095000 +0800">
+    <programme channel="CCTV3" start="20260822080300 +0800" stop="20260822094500 +0800">
         <title lang="zh">今夕颂——2026中央广播电视总台七夕晚会-1</title>
     </programme>
-    <programme channel="CCTV3" start="20260822095000 +0800" stop="20260822100000 +0800">
-        <title lang="zh">国家宝藏-周游季-91</title>
+    <programme channel="CCTV3" start="20260822094500 +0800" stop="20260822100000 +0800">
+        <title lang="zh">有礼走遍天下-2</title>
     </programme>
     <programme channel="CCTV3" start="20260822100000 +0800" stop="20260822100400 +0800">
         <title lang="zh">综艺喜乐汇-2026-1128 岁月长情</title>
@@ -283,10 +277,10 @@
         <title lang="zh">跟着春晚游中国（义乌篇）-3</title>
     </programme>
     <programme channel="CCTV3" start="20260822225100 +0800" stop="20260822233700 +0800">
-        <title lang="zh">综艺喜乐汇-2026-874  四喜10/36</title>
+        <title lang="zh">综艺喜乐汇-2026-874 四喜10/36</title>
     </programme>
     <programme channel="CCTV3" start="20260822233700 +0800" stop="20260823002300 +0800">
-        <title lang="zh">综艺喜乐汇-2026-875  四喜11/36</title>
+        <title lang="zh">综艺喜乐汇-2026-875 四喜11/36</title>
     </programme>
     <channel id="CCTV4">
         <display-name lang="zh">CCTV4</display-name>
@@ -444,11 +438,11 @@
     <programme channel="CCTV5" start="20260822080300 +0800" stop="20260822090000 +0800">
         <title lang="zh">2026年国际马联世界锦标赛-1（4K）</title>
     </programme>
-    <programme channel="CCTV5" start="20260822090000 +0800" stop="20260822103100 +0800">
-        <title lang="zh">实况录像-2026/2027赛季斯诺克中国公开赛 2</title>
+    <programme channel="CCTV5" start="20260822090000 +0800" stop="20260822100000 +0800">
+        <title lang="zh">实况录像-WTT欧洲大满贯2026 比赛 2</title>
     </programme>
-    <programme channel="CCTV5" start="20260822103100 +0800" stop="20260822115500 +0800">
-        <title lang="zh">国际足球赛场-2026英格兰社区盾 阿森纳—曼城（4K）</title>
+    <programme channel="CCTV5" start="20260822100000 +0800" stop="20260822115500 +0800">
+        <title lang="zh">2026年亚洲女排锦标赛-小组赛（越南队—韩国队）</title>
     </programme>
     <programme channel="CCTV5" start="20260822115500 +0800" stop="20260822120000 +0800">
         <title lang="zh">健身动起来</title>
@@ -471,13 +465,13 @@
     <programme channel="CCTV5" start="20260822170000 +0800" stop="20260822180000 +0800">
         <title lang="zh">实况录像-WTT欧洲大满贯2026 比赛 1</title>
     </programme>
-    <programme channel="CCTV5" start="20260822180000 +0800" stop="20260822183500 +0800">
+    <programme channel="CCTV5" start="20260822180000 +0800" stop="20260822183000 +0800">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme channel="CCTV5" start="20260822183500 +0800" stop="20260822185500 +0800">
-        <title lang="zh">实况录像-精彩一刻-2025/2026斯诺克世界公开赛 奥沙利文的153</title>
+    <programme channel="CCTV5" start="20260822183000 +0800" stop="20260822192500 +0800">
+        <title lang="zh">实况录像-2026年世界艺术体操锦标赛 2</title>
     </programme>
-    <programme channel="CCTV5" start="20260822185500 +0800" stop="20260822200000 +0800">
+    <programme channel="CCTV5" start="20260822192500 +0800" stop="20260822200000 +0800">
         <title lang="zh">第二届世界人形机器人运动会-开幕式</title>
     </programme>
     <programme channel="CCTV5" start="20260822200000 +0800" stop="20260822231500 +0800">
