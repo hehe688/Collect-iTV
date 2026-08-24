@@ -1254,10 +1254,10 @@
     <programme channel="CCTV13" start="20260824060000 +0800" stop="20260824090000 +0800">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme channel="CCTV13" start="20260824090000 +0800" stop="20260824091200 +0800">
+    <programme channel="CCTV13" start="20260824090000 +0800" stop="20260824091500 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260824091200 +0800" stop="20260824100000 +0800">
+    <programme channel="CCTV13" start="20260824091500 +0800" stop="20260824100000 +0800">
         <title lang="zh">世界周刊</title>
     </programme>
     <programme channel="CCTV13" start="20260824100000 +0800" stop="20260824110000 +0800">
@@ -2343,7 +2343,7 @@
     <programme channel="辽宁卫视" start="20260824225200 +0800" stop="20260824233100 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260824233100 +0800" stop="20260825000000 +0800">
+    <programme channel="辽宁卫视" start="20260824233100 +0800" stop="20260825003500 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
     <channel id="河北卫视">
@@ -2493,7 +2493,7 @@
     <programme channel="河北卫视" start="20260824233300 +0800" stop="20260824235800 +0800">
         <title lang="zh">城市烟火</title>
     </programme>
-    <programme channel="河北卫视" start="20260824235800 +0800" stop="20260825000000 +0800">
+    <programme channel="河北卫视" start="20260824235800 +0800" stop="20260825004000 +0800">
         <title lang="zh">依依向北风</title>
     </programme>
     <channel id="江西卫视">
