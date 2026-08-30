@@ -60,10 +60,10 @@
     <programme channel="CCTV1" start="20260830185100 +0800" stop="20260830190000 +0800">
         <title lang="zh">秘境之眼-2026-235</title>
     </programme>
-    <programme channel="CCTV1" start="20260830190000 +0800" stop="20260830193900 +0800">
+    <programme channel="CCTV1" start="20260830190000 +0800" stop="20260830194100 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1" start="20260830193900 +0800" stop="20260830200400 +0800">
+    <programme channel="CCTV1" start="20260830194100 +0800" stop="20260830200400 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV1" start="20260830200400 +0800" stop="20260830214500 +0800">
@@ -1143,10 +1143,10 @@
     <programme channel="CCTV12" start="20260830170100 +0800" stop="20260830173400 +0800">
         <title lang="zh">法治深壹度-2026-35</title>
     </programme>
-    <programme channel="CCTV12" start="20260830173400 +0800" stop="20260830182500 +0800">
+    <programme channel="CCTV12" start="20260830173400 +0800" stop="20260830182600 +0800">
         <title lang="zh">剧懂法2026-25</title>
     </programme>
-    <programme channel="CCTV12" start="20260830182500 +0800" stop="20260830185800 +0800">
+    <programme channel="CCTV12" start="20260830182600 +0800" stop="20260830185800 +0800">
         <title lang="zh">热话-2026-35</title>
     </programme>
     <programme channel="CCTV12" start="20260830185800 +0800" stop="20260830193200 +0800">
