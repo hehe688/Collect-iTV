@@ -390,10 +390,10 @@
     <programme channel="CCTV4" start="20260831070000 +0800" stop="20260831073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260831073000 +0800" stop="20260831080000 +0800">
+    <programme channel="CCTV4" start="20260831073000 +0800" stop="20260831080100 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4" start="20260831080000 +0800" stop="20260831090000 +0800">
+    <programme channel="CCTV4" start="20260831080100 +0800" stop="20260831090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4" start="20260831090000 +0800" stop="20260831091700 +0800">
@@ -1311,10 +1311,10 @@
     <programme channel="CCTV13" start="20260831110000 +0800" stop="20260831120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260831120000 +0800" stop="20260831123300 +0800">
+    <programme channel="CCTV13" start="20260831120000 +0800" stop="20260831123500 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260831123300 +0800" stop="20260831130000 +0800">
+    <programme channel="CCTV13" start="20260831123500 +0800" stop="20260831130000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13" start="20260831130000 +0800" stop="20260831140000 +0800">
@@ -2436,7 +2436,7 @@
     <programme channel="辽宁卫视" start="20260831225200 +0800" stop="20260831233100 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260831233100 +0800" stop="20260901000000 +0800">
+    <programme channel="辽宁卫视" start="20260831233100 +0800" stop="20260901000100 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
     <channel id="河北卫视">
