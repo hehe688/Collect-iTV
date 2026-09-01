@@ -75,17 +75,14 @@
     <programme channel="CCTV1" start="20260901193900 +0800" stop="20260901200000 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1" start="20260901200000 +0800" stop="20260901212800 +0800">
+    <programme channel="CCTV1" start="20260901200000 +0800" stop="20260901212200 +0800">
         <title lang="zh">2026开学第一课-1</title>
     </programme>
-    <programme channel="CCTV1" start="20260901212800 +0800" stop="20260901214100 +0800">
+    <programme channel="CCTV1" start="20260901212200 +0800" stop="20260901213300 +0800">
+        <title lang="zh">中华古树-绿色国宝（4K）</title>
+    </programme>
+    <programme channel="CCTV1" start="20260901213300 +0800" stop="20260901220000 +0800">
         <title lang="zh">中华古树-北京九搂十八杈（4K）</title>
-    </programme>
-    <programme channel="CCTV1" start="20260901214100 +0800" stop="20260901214900 +0800">
-        <title lang="zh">非遗里的中国-MV</title>
-    </programme>
-    <programme channel="CCTV1" start="20260901214900 +0800" stop="20260901220000 +0800">
-        <title lang="zh">三餐四季-宣传片</title>
     </programme>
     <programme channel="CCTV1" start="20260901220000 +0800" stop="20260901223500 +0800">
         <title lang="zh">晚间新闻</title>
@@ -429,10 +426,10 @@
     <programme channel="CCTV4" start="20260901193000 +0800" stop="20260901200000 +0800">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme channel="CCTV4" start="20260901200000 +0800" stop="20260901203000 +0800">
+    <programme channel="CCTV4" start="20260901200000 +0800" stop="20260901203300 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260901203000 +0800" stop="20260901210000 +0800">
+    <programme channel="CCTV4" start="20260901203300 +0800" stop="20260901210000 +0800">
         <title lang="zh">海峡两岸-2026-244</title>
     </programme>
     <programme channel="CCTV4" start="20260901210000 +0800" stop="20260901213000 +0800">
