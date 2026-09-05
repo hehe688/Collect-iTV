@@ -136,10 +136,10 @@
         <title lang="zh">周末特供2023-万物滋养2-11分版</title>
     </programme>
     <programme channel="CCTV2" start="20260905101700 +0800" stop="20260905103100 +0800">
-        <title lang="zh">周末特供2026-577</title>
+        <title lang="zh">周末特供2026-581</title>
     </programme>
     <programme channel="CCTV2" start="20260905103100 +0800" stop="20260905104700 +0800">
-        <title lang="zh">周末特供2026-578</title>
+        <title lang="zh">周末特供2026-583</title>
     </programme>
     <programme channel="CCTV2" start="20260905104700 +0800" stop="20260905110900 +0800">
         <title lang="zh">2025精品财经纪录-第一餐第二季-1</title>
@@ -148,7 +148,7 @@
         <title lang="zh">2022精品财经纪录-敦煌千年不散的宴席-1</title>
     </programme>
     <programme channel="CCTV2" start="20260905113400 +0800" stop="20260905120000 +0800">
-        <title lang="zh">2022精品财经纪录-敦煌千年不散的宴席-2</title>
+        <title lang="zh">2022精品财经纪录-敦煌千年不散的宴席-4</title>
     </programme>
     <programme channel="CCTV2" start="20260905120000 +0800" stop="20260905130100 +0800">
         <title lang="zh">天下财经</title>
@@ -156,11 +156,14 @@
     <programme channel="CCTV2" start="20260905130100 +0800" stop="20260905132400 +0800">
         <title lang="zh">2024精品财经纪录-皖美风味-1</title>
     </programme>
-    <programme channel="CCTV2" start="20260905132400 +0800" stop="20260905134900 +0800">
-        <title lang="zh">2023精品财经纪录-冀味儿运河风味-1</title>
+    <programme channel="CCTV2" start="20260905132400 +0800" stop="20260905134600 +0800">
+        <title lang="zh">2024精品财经纪录-皖美风味-2</title>
     </programme>
-    <programme channel="CCTV2" start="20260905134900 +0800" stop="20260905141600 +0800">
+    <programme channel="CCTV2" start="20260905134600 +0800" stop="20260905141100 +0800">
         <title lang="zh">2023精品财经纪录-冀味儿运河风味-2</title>
+    </programme>
+    <programme channel="CCTV2" start="20260905141100 +0800" stop="20260905141600 +0800">
+        <title lang="zh">周末特供2025-519</title>
     </programme>
     <programme channel="CCTV2" start="20260905141600 +0800" stop="20260905151800 +0800">
         <title lang="zh">一槌定音-2026-36</title>
@@ -169,13 +172,13 @@
         <title lang="zh">2023精品财经纪录-大泰山-6</title>
     </programme>
     <programme channel="CCTV2" start="20260905155700 +0800" stop="20260905162700 +0800">
-        <title lang="zh">2025精品财经纪录-晋在眼前-3</title>
+        <title lang="zh">2026精品财经纪录-神奇的嫦娥五号3</title>
     </programme>
     <programme channel="CCTV2" start="20260905162700 +0800" stop="20260905164900 +0800">
-        <title lang="zh">周末特供2026-570</title>
+        <title lang="zh">周末特供2026-585</title>
     </programme>
     <programme channel="CCTV2" start="20260905164900 +0800" stop="20260905171200 +0800">
-        <title lang="zh">周末特供2026-522</title>
+        <title lang="zh">周末特供2026-586</title>
     </programme>
     <programme channel="CCTV2" start="20260905171200 +0800" stop="20260905173600 +0800">
         <title lang="zh">周末特供2026-574</title>
@@ -184,10 +187,10 @@
         <title lang="zh">周末特供2025-522</title>
     </programme>
     <programme channel="CCTV2" start="20260905174000 +0800" stop="20260905181000 +0800">
-        <title lang="zh">2025精品财经纪录-傲椒的湘菜第三季-9</title>
+        <title lang="zh">2026精品财经纪录-筷意东南亚3</title>
     </programme>
     <programme channel="CCTV2" start="20260905181000 +0800" stop="20260905184200 +0800">
-        <title lang="zh">2025精品财经纪录-傲椒的湘菜第三季-10</title>
+        <title lang="zh">2026精品财经纪录-味道大师3</title>
     </programme>
     <programme channel="CCTV2" start="20260905184200 +0800" stop="20260905191200 +0800">
         <title lang="zh">2026精品财经纪录-味道大师5</title>
@@ -474,8 +477,11 @@
     <programme channel="CCTV5" start="20260905193000 +0800" stop="20260905220000 +0800">
         <title lang="zh">2026中国羽毛球大师赛-半决赛</title>
     </programme>
-    <programme channel="CCTV5" start="20260905220000 +0800" stop="20260906000500 +0800">
-        <title lang="zh">2026/2027英格兰足球超级联赛-第3轮（曼城—考文垂城）</title>
+    <programme channel="CCTV5" start="20260905220000 +0800" stop="20260905231000 +0800">
+        <title lang="zh">2026年世界一级方程式锦标赛-意大利大奖赛  排位赛</title>
+    </programme>
+    <programme channel="CCTV5" start="20260905231000 +0800" stop="20260906010500 +0800">
+        <title lang="zh">2026年美国网球公开赛-第三轮（郑钦文-凯斯）</title>
     </programme>
     <channel id="CCTV5+">
         <display-name lang="zh">CCTV5+</display-name>
