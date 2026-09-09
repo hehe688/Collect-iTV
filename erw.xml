@@ -192,10 +192,10 @@
     <programme channel="CCTV2" start="20260909183000 +0800" stop="20260909190000 +0800">
         <title lang="zh">回家吃饭-2026-184</title>
     </programme>
-    <programme channel="CCTV2" start="20260909190000 +0800" stop="20260909193000 +0800">
+    <programme channel="CCTV2" start="20260909190000 +0800" stop="20260909193300 +0800">
         <title lang="zh">生财有道-2026-9-9</title>
     </programme>
-    <programme channel="CCTV2" start="20260909193000 +0800" stop="20260909200000 +0800">
+    <programme channel="CCTV2" start="20260909193300 +0800" stop="20260909200000 +0800">
         <title lang="zh">消费主张</title>
     </programme>
     <programme channel="CCTV2" start="20260909200000 +0800" stop="20260909203000 +0800">
@@ -396,10 +396,10 @@
     <programme channel="CCTV4" start="20260909180000 +0800" stop="20260909190000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260909190000 +0800" stop="20260909193000 +0800">
+    <programme channel="CCTV4" start="20260909190000 +0800" stop="20260909193200 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260909193000 +0800" stop="20260909200000 +0800">
+    <programme channel="CCTV4" start="20260909193200 +0800" stop="20260909200000 +0800">
         <title lang="zh">今日亚洲</title>
     </programme>
     <programme channel="CCTV4" start="20260909200000 +0800" stop="20260909203000 +0800">
@@ -696,10 +696,10 @@
     <programme channel="CCTV7" start="20260909193300 +0800" stop="20260909200300 +0800">
         <title lang="zh">军事报道</title>
     </programme>
-    <programme channel="CCTV7" start="20260909200300 +0800" stop="20260909200900 +0800">
+    <programme channel="CCTV7" start="20260909200300 +0800" stop="20260909201300 +0800">
         <title lang="zh">国防微视频-军歌嘹亮-难忘十八岁（2026）</title>
     </programme>
-    <programme channel="CCTV7" start="20260909200900 +0800" stop="20260909204300 +0800">
+    <programme channel="CCTV7" start="20260909201300 +0800" stop="20260909204300 +0800">
         <title lang="zh">防务新观察-2026-252</title>
     </programme>
     <programme channel="CCTV7" start="20260909204300 +0800" stop="20260909211700 +0800">
@@ -1233,13 +1233,13 @@
     <programme channel="CCTV13" start="20260909180000 +0800" stop="20260909190000 +0800">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme channel="CCTV13" start="20260909190000 +0800" stop="20260909194000 +0800">
+    <programme channel="CCTV13" start="20260909190000 +0800" stop="20260909194200 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13" start="20260909194000 +0800" stop="20260909200000 +0800">
+    <programme channel="CCTV13" start="20260909194200 +0800" stop="20260909200300 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13" start="20260909200000 +0800" stop="20260909210000 +0800">
+    <programme channel="CCTV13" start="20260909200300 +0800" stop="20260909210000 +0800">
         <title lang="zh">东方时空</title>
     </programme>
     <programme channel="CCTV13" start="20260909210000 +0800" stop="20260909213700 +0800">
