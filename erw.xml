@@ -348,10 +348,10 @@
     <programme channel="CCTV4" start="20260909070000 +0800" stop="20260909073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260909073000 +0800" stop="20260909080000 +0800">
+    <programme channel="CCTV4" start="20260909073000 +0800" stop="20260909080100 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4" start="20260909080000 +0800" stop="20260909090000 +0800">
+    <programme channel="CCTV4" start="20260909080100 +0800" stop="20260909090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4" start="20260909090000 +0800" stop="20260909092800 +0800">
@@ -441,10 +441,10 @@
     <programme channel="CCTV5" start="20260909040000 +0800" stop="20260909060000 +0800">
         <title lang="zh">2026年法国网球公开赛-男单半决赛（4K）</title>
     </programme>
-    <programme channel="CCTV5" start="20260909060000 +0800" stop="20260909063000 +0800">
+    <programme channel="CCTV5" start="20260909060000 +0800" stop="20260909063100 +0800">
         <title lang="zh">实况录像-2026年射箭世界杯 中国站 3</title>
     </programme>
-    <programme channel="CCTV5" start="20260909063000 +0800" stop="20260909070000 +0800">
+    <programme channel="CCTV5" start="20260909063100 +0800" stop="20260909070000 +0800">
         <title lang="zh">健身动起来</title>
     </programme>
     <programme channel="CCTV5" start="20260909070000 +0800" stop="20260909080000 +0800">
@@ -1209,10 +1209,10 @@
     <programme channel="CCTV13" start="20260909110000 +0800" stop="20260909120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260909120000 +0800" stop="20260909123300 +0800">
+    <programme channel="CCTV13" start="20260909120000 +0800" stop="20260909123500 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260909123300 +0800" stop="20260909130000 +0800">
+    <programme channel="CCTV13" start="20260909123500 +0800" stop="20260909130000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13" start="20260909130000 +0800" stop="20260909140000 +0800">
@@ -2475,7 +2475,7 @@
     <programme channel="河北卫视" start="20260909233300 +0800" stop="20260909235900 +0800">
         <title lang="zh">城市烟火</title>
     </programme>
-    <programme channel="河北卫视" start="20260909235900 +0800" stop="20260910000000 +0800">
+    <programme channel="河北卫视" start="20260909235900 +0800" stop="20260910004200 +0800">
         <title lang="zh">欢乐家长群2</title>
     </programme>
     <channel id="江西卫视">
@@ -3132,8 +3132,92 @@
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
     </channel>
-    <programme channel="东南卫视" start="20260909000000 +0800" stop="20260909235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="东南卫视" start="20260909000000 +0800" stop="20260909010500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909010500 +0800" stop="20260909012000 +0800">
+        <title lang="zh">特别节目:《2025闽茶神州行》第1期</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909012000 +0800" stop="20260909014100 +0800">
+        <title lang="zh">特别节目:《2025闽茶神州行》第2期</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909014100 +0800" stop="20260909024900 +0800">
+        <title lang="zh">重播中国正在说</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909024900 +0800" stop="20260909032400 +0800">
+        <title lang="zh">重播原来是这样</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909032400 +0800" stop="20260909035800 +0800">
+        <title lang="zh">重播海好遇见你</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909035800 +0800" stop="20260909050600 +0800">
+        <title lang="zh">重播玩转海岸线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909050600 +0800" stop="20260909053800 +0800">
+        <title lang="zh">重播早餐中国（第五季）</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909053800 +0800" stop="20260909065500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909065500 +0800" stop="20260909070000 +0800">
+        <title lang="zh">东南早间天气预报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909070000 +0800" stop="20260909115700 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909115700 +0800" stop="20260909120000 +0800">
+        <title lang="zh">政绩观短视频:《金字口碑中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909120000 +0800" stop="20260909123500 +0800">
+        <title lang="zh">海峡午报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909123500 +0800" stop="20260909124200 +0800">
+        <title lang="zh">政绩观短视频:《金字口碑中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909124200 +0800" stop="20260909180500 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909180500 +0800" stop="20260909182400 +0800">
+        <title lang="zh">风从海上来</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909182400 +0800" stop="20260909183000 +0800">
+        <title lang="zh">东南气象快讯</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909183000 +0800" stop="20260909185800 +0800">
+        <title lang="zh">福建卫视新闻</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909185800 +0800" stop="20260909190000 +0800">
+        <title lang="zh">政绩观短视频:《金字口碑中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909190000 +0800" stop="20260909193000 +0800">
+        <title lang="zh">转播中央台新闻联播</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909193000 +0800" stop="20260909193400 +0800">
+        <title lang="zh">政绩观短视频:《金字口碑中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909193400 +0800" stop="20260909211700 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909211700 +0800" stop="20260909211800 +0800">
+        <title lang="zh">政绩观短视频:《金字口碑中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909211800 +0800" stop="20260909211900 +0800">
+        <title lang="zh">精彩节目</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909211900 +0800" stop="20260909221000 +0800">
+        <title lang="zh">田野之上:第2集</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909221000 +0800" stop="20260909230000 +0800">
+        <title lang="zh">海峡新干线</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909230000 +0800" stop="20260909230100 +0800">
+        <title lang="zh">政绩观短视频:《金字口碑中的政绩观》</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909230100 +0800" stop="20260909231700 +0800">
+        <title lang="zh">东南晚报</title>
+    </programme>
+    <programme channel="东南卫视" start="20260909231700 +0800" stop="20260910000000 +0800">
+        <title lang="zh">精彩节目</title>
     </programme>
     <channel id="海南卫视">
         <display-name lang="zh">海南卫视</display-name>
