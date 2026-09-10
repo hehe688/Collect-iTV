@@ -417,16 +417,16 @@
     <programme channel="CCTV4" start="20260910180000 +0800" stop="20260910190000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260910190000 +0800" stop="20260910193000 +0800">
+    <programme channel="CCTV4" start="20260910190000 +0800" stop="20260910193100 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260910193000 +0800" stop="20260910200000 +0800">
+    <programme channel="CCTV4" start="20260910193100 +0800" stop="20260910200000 +0800">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme channel="CCTV4" start="20260910200000 +0800" stop="20260910203000 +0800">
+    <programme channel="CCTV4" start="20260910200000 +0800" stop="20260910203500 +0800">
         <title lang="zh">国家记忆-2026-108</title>
     </programme>
-    <programme channel="CCTV4" start="20260910203000 +0800" stop="20260910210000 +0800">
+    <programme channel="CCTV4" start="20260910203500 +0800" stop="20260910210000 +0800">
         <title lang="zh">海峡两岸-2026-253</title>
     </programme>
     <programme channel="CCTV4" start="20260910210000 +0800" stop="20260910213000 +0800">
@@ -486,13 +486,13 @@
     <programme channel="CCTV5" start="20260910125500 +0800" stop="20260910132500 +0800">
         <title lang="zh">2026/2027法国足球甲级联赛-第3轮集锦（4K）</title>
     </programme>
-    <programme channel="CCTV5" start="20260910132500 +0800" stop="20260910145000 +0800">
+    <programme channel="CCTV5" start="20260910132500 +0800" stop="20260910150100 +0800">
         <title lang="zh">实况录像-2026年世界田联钻石联赛 布鲁塞尔站 1</title>
     </programme>
-    <programme channel="CCTV5" start="20260910145000 +0800" stop="20260910170000 +0800">
+    <programme channel="CCTV5" start="20260910150100 +0800" stop="20260910170500 +0800">
         <title lang="zh">2026年亚运会-男篮小组赛（韩国-沙特）</title>
     </programme>
-    <programme channel="CCTV5" start="20260910170000 +0800" stop="20260910180000 +0800">
+    <programme channel="CCTV5" start="20260910170500 +0800" stop="20260910180000 +0800">
         <title lang="zh">足球之夜</title>
     </programme>
     <programme channel="CCTV5" start="20260910180000 +0800" stop="20260910183000 +0800">
@@ -1293,10 +1293,10 @@
     <programme channel="CCTV13" start="20260910180000 +0800" stop="20260910190000 +0800">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme channel="CCTV13" start="20260910190000 +0800" stop="20260910194700 +0800">
+    <programme channel="CCTV13" start="20260910190000 +0800" stop="20260910194200 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13" start="20260910194700 +0800" stop="20260910200500 +0800">
+    <programme channel="CCTV13" start="20260910194200 +0800" stop="20260910200500 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV13" start="20260910200500 +0800" stop="20260910210000 +0800">
@@ -2109,7 +2109,7 @@
     <programme channel="广东卫视" start="20260910230500 +0800" stop="20260910234500 +0800">
         <title lang="zh">孤舟(3)</title>
     </programme>
-    <programme channel="广东卫视" start="20260910234500 +0800" stop="20260911000000 +0800">
+    <programme channel="广东卫视" start="20260910234500 +0800" stop="20260911002300 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
