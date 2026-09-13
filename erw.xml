@@ -330,10 +330,10 @@
     <programme channel="CCTV4" start="20260913070000 +0800" stop="20260913073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260913073000 +0800" stop="20260913080000 +0800">
+    <programme channel="CCTV4" start="20260913073000 +0800" stop="20260913080100 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4" start="20260913080000 +0800" stop="20260913090100 +0800">
+    <programme channel="CCTV4" start="20260913080100 +0800" stop="20260913090100 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4" start="20260913090100 +0800" stop="20260913092800 +0800">
@@ -528,64 +528,61 @@
     <channel id="CCTV6">
         <display-name lang="zh">CCTV6</display-name>
     </channel>
-    <programme channel="CCTV6" start="20260912225200 +0800" stop="20260913004900 +0800">
+    <programme channel="CCTV6" start="20260912225200 +0800" stop="20260913005600 +0800">
         <title lang="zh">007大战皇家赌场（下）</title>
     </programme>
-    <programme channel="CCTV6" start="20260913004900 +0800" stop="20260913022500 +0800">
+    <programme channel="CCTV6" start="20260913005600 +0800" stop="20260913022900 +0800">
         <title lang="zh">王平开辟根据地</title>
     </programme>
-    <programme channel="CCTV6" start="20260913022500 +0800" stop="20260913035800 +0800">
+    <programme channel="CCTV6" start="20260913022900 +0800" stop="20260913040100 +0800">
         <title lang="zh">踪迹</title>
     </programme>
-    <programme channel="CCTV6" start="20260913035800 +0800" stop="20260913074800 +0800">
+    <programme channel="CCTV6" start="20260913040100 +0800" stop="20260913055300 +0800">
         <title lang="zh">天使陷落</title>
     </programme>
-    <programme channel="CCTV6" start="20260913074800 +0800" stop="20260913092900 +0800">
+    <programme channel="CCTV6" start="20260913055300 +0800" stop="20260913071000 +0800">
+        <title lang="zh">甲方乙方</title>
+    </programme>
+    <programme channel="CCTV6" start="20260913071000 +0800" stop="20260913081400 +0800">
         <title lang="zh">白头小书记</title>
     </programme>
-    <programme channel="CCTV6" start="20260913092900 +0800" stop="20260913111400 +0800">
-        <title lang="zh">长津湖（上）</title>
+    <programme channel="CCTV6" start="20260913081400 +0800" stop="20260913113500 +0800">
+        <title lang="zh">长津湖（上）（下）</title>
     </programme>
-    <programme channel="CCTV6" start="20260913111400 +0800" stop="20260913124800 +0800">
-        <title lang="zh">长津湖（下）</title>
-    </programme>
-    <programme channel="CCTV6" start="20260913124800 +0800" stop="20260913125500 +0800">
+    <programme channel="CCTV6" start="20260913113500 +0800" stop="20260913114500 +0800">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme channel="CCTV6" start="20260913125500 +0800" stop="20260913142000 +0800">
-        <title lang="zh">长津湖之水门桥（上）</title>
+    <programme channel="CCTV6" start="20260913114500 +0800" stop="20260913142200 +0800">
+        <title lang="zh">长津湖之水门桥（上）（下）</title>
     </programme>
-    <programme channel="CCTV6" start="20260913142000 +0800" stop="20260913154700 +0800">
-        <title lang="zh">长津湖之水门桥（下）</title>
+    <programme channel="CCTV6" start="20260913142200 +0800" stop="20260913153900 +0800">
+        <title lang="zh">我和我的祖国：前夜</title>
     </programme>
-    <programme channel="CCTV6" start="20260913154700 +0800" stop="20260913160600 +0800">
+    <programme channel="CCTV6" start="20260913153900 +0800" stop="20260913155800 +0800">
         <title lang="zh">佳片有约周日版2026-037</title>
     </programme>
-    <programme channel="CCTV6" start="20260913160600 +0800" stop="20260913163400 +0800">
-        <title lang="zh">007大战皇家赌场（上）</title>
+    <programme channel="CCTV6" start="20260913155800 +0800" stop="20260913183600 +0800">
+        <title lang="zh">007大战皇家赌场（上）（下）</title>
     </programme>
-    <programme channel="CCTV6" start="20260913163400 +0800" stop="20260913183800 +0800">
-        <title lang="zh">007大战皇家赌场（下）</title>
-    </programme>
-    <programme channel="CCTV6" start="20260913183800 +0800" stop="20260913202200 +0800">
+    <programme channel="CCTV6" start="20260913183600 +0800" stop="20260913201600 +0800">
         <title lang="zh">毒海风云</title>
     </programme>
-    <programme channel="CCTV6" start="20260913202200 +0800" stop="20260913220500 +0800">
+    <programme channel="CCTV6" start="20260913201600 +0800" stop="20260913220000 +0800">
         <title lang="zh">冲出亚马逊</title>
     </programme>
-    <programme channel="CCTV6" start="20260913220500 +0800" stop="20260913222300 +0800">
+    <programme channel="CCTV6" start="20260913220000 +0800" stop="20260913221800 +0800">
         <title lang="zh">中国电影报道2026-256</title>
     </programme>
-    <programme channel="CCTV6" start="20260913222300 +0800" stop="20260913222900 +0800">
+    <programme channel="CCTV6" start="20260913221800 +0800" stop="20260913222300 +0800">
         <title lang="zh">中国福利彩票阳光开奖2026-09-13</title>
     </programme>
-    <programme channel="CCTV6" start="20260913222900 +0800" stop="20260913230600 +0800">
+    <programme channel="CCTV6" start="20260913222300 +0800" stop="20260913230000 +0800">
         <title lang="zh">阿里巴巴（上）</title>
     </programme>
-    <programme channel="CCTV6" start="20260913230600 +0800" stop="20260913230700 +0800">
+    <programme channel="CCTV6" start="20260913230000 +0800" stop="20260913230100 +0800">
         <title lang="zh">中国体育彩票阳光开奖2026-09-13</title>
     </programme>
-    <programme channel="CCTV6" start="20260913230700 +0800" stop="20260914000300 +0800">
+    <programme channel="CCTV6" start="20260913230100 +0800" stop="20260914000300 +0800">
         <title lang="zh">阿里巴巴（下）</title>
     </programme>
     <channel id="CCTV7">
@@ -1170,10 +1167,10 @@
     <programme channel="CCTV13" start="20260913100000 +0800" stop="20260913120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260913120000 +0800" stop="20260913123500 +0800">
+    <programme channel="CCTV13" start="20260913120000 +0800" stop="20260913123700 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260913123500 +0800" stop="20260913130000 +0800">
+    <programme channel="CCTV13" start="20260913123700 +0800" stop="20260913130000 +0800">
         <title lang="zh">每周质量报告</title>
     </programme>
     <programme channel="CCTV13" start="20260913130000 +0800" stop="20260913140000 +0800">
