@@ -408,22 +408,22 @@
     <programme channel="CCTV4" start="20260914180000 +0800" stop="20260914190000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260914190000 +0800" stop="20260914193000 +0800">
+    <programme channel="CCTV4" start="20260914190000 +0800" stop="20260914193200 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260914193000 +0800" stop="20260914200000 +0800">
+    <programme channel="CCTV4" start="20260914193200 +0800" stop="20260914200000 +0800">
         <title lang="zh">今日亚洲</title>
     </programme>
-    <programme channel="CCTV4" start="20260914200000 +0800" stop="20260914203000 +0800">
+    <programme channel="CCTV4" start="20260914200000 +0800" stop="20260914203300 +0800">
         <title lang="zh">国家记忆-2026-110</title>
     </programme>
-    <programme channel="CCTV4" start="20260914203000 +0800" stop="20260914210000 +0800">
+    <programme channel="CCTV4" start="20260914203300 +0800" stop="20260914210000 +0800">
         <title lang="zh">海峡两岸-2026-257</title>
     </programme>
-    <programme channel="CCTV4" start="20260914210000 +0800" stop="20260914213000 +0800">
+    <programme channel="CCTV4" start="20260914210000 +0800" stop="20260914213500 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260914213000 +0800" stop="20260914220000 +0800">
+    <programme channel="CCTV4" start="20260914213500 +0800" stop="20260914220000 +0800">
         <title lang="zh">今日关注</title>
     </programme>
     <programme channel="CCTV4" start="20260914220000 +0800" stop="20260914223000 +0800">
@@ -492,10 +492,10 @@
     <programme channel="CCTV5" start="20260914173000 +0800" stop="20260914175500 +0800">
         <title lang="zh">体育新闻</title>
     </programme>
-    <programme channel="CCTV5" start="20260914175500 +0800" stop="20260914200000 +0800">
+    <programme channel="CCTV5" start="20260914175500 +0800" stop="20260914200300 +0800">
         <title lang="zh">2026年亚运会-女足小组赛(中国-中国香港)</title>
     </programme>
-    <programme channel="CCTV5" start="20260914200000 +0800" stop="20260914213000 +0800">
+    <programme channel="CCTV5" start="20260914200300 +0800" stop="20260914213000 +0800">
         <title lang="zh">天下足球</title>
     </programme>
     <programme channel="CCTV5" start="20260914213000 +0800" stop="20260914223500 +0800">
@@ -1266,19 +1266,19 @@
     <programme channel="CCTV13" start="20260914180000 +0800" stop="20260914190000 +0800">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme channel="CCTV13" start="20260914190000 +0800" stop="20260914194000 +0800">
+    <programme channel="CCTV13" start="20260914190000 +0800" stop="20260914194200 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13" start="20260914194000 +0800" stop="20260914200000 +0800">
+    <programme channel="CCTV13" start="20260914194200 +0800" stop="20260914200300 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13" start="20260914200000 +0800" stop="20260914210000 +0800">
+    <programme channel="CCTV13" start="20260914200300 +0800" stop="20260914210000 +0800">
         <title lang="zh">东方时空</title>
     </programme>
-    <programme channel="CCTV13" start="20260914210000 +0800" stop="20260914213000 +0800">
+    <programme channel="CCTV13" start="20260914210000 +0800" stop="20260914213200 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13" start="20260914213000 +0800" stop="20260914220000 +0800">
+    <programme channel="CCTV13" start="20260914213200 +0800" stop="20260914220000 +0800">
         <title lang="zh">新闻1+1</title>
     </programme>
     <programme channel="CCTV13" start="20260914220000 +0800" stop="20260914223000 +0800">
@@ -2319,7 +2319,7 @@
     <programme channel="辽宁卫视" start="20260914225200 +0800" stop="20260914233100 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260914233100 +0800" stop="20260915000000 +0800">
+    <programme channel="辽宁卫视" start="20260914233100 +0800" stop="20260915000300 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
     <channel id="河北卫视">
