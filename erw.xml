@@ -351,10 +351,10 @@
     <programme channel="CCTV4" start="20260915070000 +0800" stop="20260915073000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4" start="20260915073000 +0800" stop="20260915080000 +0800">
+    <programme channel="CCTV4" start="20260915073000 +0800" stop="20260915080100 +0800">
         <title lang="zh">今日关注</title>
     </programme>
-    <programme channel="CCTV4" start="20260915080000 +0800" stop="20260915090000 +0800">
+    <programme channel="CCTV4" start="20260915080100 +0800" stop="20260915090000 +0800">
         <title lang="zh">今日环球</title>
     </programme>
     <programme channel="CCTV4" start="20260915090000 +0800" stop="20260915092800 +0800">
@@ -1242,10 +1242,10 @@
     <programme channel="CCTV13" start="20260915110000 +0800" stop="20260915120000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13" start="20260915120000 +0800" stop="20260915123300 +0800">
+    <programme channel="CCTV13" start="20260915120000 +0800" stop="20260915123500 +0800">
         <title lang="zh">新闻30分</title>
     </programme>
-    <programme channel="CCTV13" start="20260915123300 +0800" stop="20260915130000 +0800">
+    <programme channel="CCTV13" start="20260915123500 +0800" stop="20260915130000 +0800">
         <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13" start="20260915130000 +0800" stop="20260915140000 +0800">
@@ -2496,7 +2496,7 @@
     <programme channel="河北卫视" start="20260915233300 +0800" stop="20260915235900 +0800">
         <title lang="zh">城市烟火</title>
     </programme>
-    <programme channel="河北卫视" start="20260915235900 +0800" stop="20260916000000 +0800">
+    <programme channel="河北卫视" start="20260915235900 +0800" stop="20260916010200 +0800">
         <title lang="zh">群星闪耀时</title>
     </programme>
     <channel id="江西卫视">
