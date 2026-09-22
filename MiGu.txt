@@ -33,8 +33,10 @@ CGTN西班牙语,http://47.119.24.76:59093/stream/proxy/migu_609006450.m3u8
 重庆卫视,http://47.119.24.76:59093/stream/proxy/migu_738910914.m3u8
 大湾区卫视,http://47.119.24.76:59093/stream/proxy/migu_608917627.m3u8
 东方卫视,http://47.119.24.76:59093/stream/proxy/migu_651632648.m3u8
+东南卫视,http://47.119.24.76:59093/stream/proxy/migu_849116810.m3u8
 广东卫视,http://47.119.24.76:59093/stream/proxy/migu_608831231.m3u8
 海南卫视,http://47.119.24.76:59093/stream/proxy/migu_947472502.m3u8
+海峡卫视,http://47.119.24.76:59093/stream/proxy/migu_849119120.m3u8
 河北卫视,http://47.119.24.76:59093/stream/proxy/migu_962042070.m3u8
 河南卫视,http://47.119.24.76:59093/stream/proxy/migu_790187291.m3u8
 黑龙江卫视,http://47.119.24.76:59093/stream/proxy/migu_738906901.m3u8
@@ -78,6 +80,7 @@ CGTN西班牙语,http://47.119.24.76:59093/stream/proxy/migu_609006450.m3u8
 上视东方影视,http://47.119.24.76:59093/stream/proxy/migu_617290047.m3u8
 宿迁新闻综合,http://47.119.24.76:59093/stream/proxy/migu_639731832.m3u8
 泰州新闻综合,http://47.119.24.76:59093/stream/proxy/migu_639731818.m3u8
+体育休闲频道,http://47.119.24.76:59093/stream/proxy/migu_626064707.m3u8
 徐州新闻综合,http://47.119.24.76:59093/stream/proxy/migu_639731747.m3u8
 盐城新闻综合,http://47.119.24.76:59093/stream/proxy/migu_639731825.m3u8
 宜兴新闻综合,http://47.119.24.76:59093/stream/proxy/migu_955227996.m3u8
@@ -119,10 +122,14 @@ CETV1,http://47.119.24.76:59093/stream/proxy/migu_923287154.m3u8
 CETV2,http://47.119.24.76:59093/stream/proxy/migu_923287211.m3u8
 CETV4,http://47.119.24.76:59093/stream/proxy/migu_923287339.m3u8
 CHC影迷电影,http://47.119.24.76:59093/stream/proxy/migu_952383261.m3u8
-中国之声,https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-经济之声,https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+中国之声,https://radio.0472.org/?id=639
+经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+经济之声,https://radio.0472.org/?id=640
 音乐之声,https://ngcdn001.cnr.cn/live/yyzs/index.m3u8
+音乐之声,https://radio.0472.org/?id=641
 经典音乐广播,https://ngcdn001.cnr.cn/live/dszs/index.m3u8
+经典音乐广播,https://radio.0472.org/?id=642
 深圳先锋89.8,https://live.ximalaya.com/radio-first-page-app/live/262/64.m3u8?transcode=ts
 深圳生活94.2,https://live.ximalaya.com/radio-first-page-app/live/265/64.m3u8?transcode=ts
 深圳飞扬97.1,https://live.ximalaya.com/radio-first-page-app/live/263/64.m3u8?transcode=ts

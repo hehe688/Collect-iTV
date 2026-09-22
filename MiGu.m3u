@@ -69,10 +69,14 @@ http://47.119.24.76:59093/stream/proxy/migu_738910914.m3u8
 http://47.119.24.76:59093/stream/proxy/migu_608917627.m3u8
 #EXTINF:-1 tvg-id="migu_651632648" tvg-name="migu_651632648" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/185/202508040856_5100043384_H32_1080.webp" group-title="卫视",东方卫视
 http://47.119.24.76:59093/stream/proxy/migu_651632648.m3u8
+#EXTINF:-1 tvg-id="migu_849116810" tvg-name="migu_849116810" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/182/202507151427_1744624877917_H32_1080.webp" group-title="卫视",东南卫视
+http://47.119.24.76:59093/stream/proxy/migu_849116810.m3u8
 #EXTINF:-1 tvg-id="migu_608831231" tvg-name="migu_608831231" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2202/428/795/202107191524_2202428795_H32_1080.webp" group-title="卫视",广东卫视
 http://47.119.24.76:59093/stream/proxy/migu_608831231.m3u8
 #EXTINF:-1 tvg-id="migu_947472502" tvg-name="migu_947472502" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/165/202501231715_1658138869802_H32_1080.webp" group-title="卫视",海南卫视
 http://47.119.24.76:59093/stream/proxy/migu_947472502.m3u8
+#EXTINF:-1 tvg-id="migu_849119120" tvg-name="migu_849119120" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/183/202507151427_1690875420570_H32_1080.webp" group-title="卫视",海峡卫视
+http://47.119.24.76:59093/stream/proxy/migu_849119120.m3u8
 #EXTINF:-1 tvg-id="migu_962042070" tvg-name="migu_962042070" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/316/202512310003_1766556161260_H32_1080.webp" group-title="卫视",河北卫视
 http://47.119.24.76:59093/stream/proxy/migu_962042070.m3u8
 #EXTINF:-1 tvg-id="migu_790187291" tvg-name="migu_790187291" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/021/585/202304031400_1679994692427_H32_1080.webp" group-title="卫视",河南卫视
@@ -159,6 +163,8 @@ http://47.119.24.76:59093/stream/proxy/migu_617290047.m3u8
 http://47.119.24.76:59093/stream/proxy/migu_639731832.m3u8
 #EXTINF:-1 tvg-id="migu_639731818" tvg-name="migu_639731818" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/469/354/202104071213_5102012615_H32_1080.webp" group-title="地方",泰州新闻综合
 http://47.119.24.76:59093/stream/proxy/migu_639731818.m3u8
+#EXTINF:-1 tvg-id="migu_626064707" tvg-name="migu_626064707" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/554/202104022139_5100186459_H32_1080.webp" group-title="地方",体育休闲频道
+http://47.119.24.76:59093/stream/proxy/migu_626064707.m3u8
 #EXTINF:-1 tvg-id="migu_639731747" tvg-name="migu_639731747" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/469/368/202104022141_5102012620_H32_1080.webp" group-title="地方",徐州新闻综合
 http://47.119.24.76:59093/stream/proxy/migu_639731747.m3u8
 #EXTINF:-1 tvg-id="migu_639731825" tvg-name="migu_639731825" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/469/360/202212301654_5102012617_H32_1080.webp" group-title="地方",盐城新闻综合
@@ -242,13 +248,21 @@ http://47.119.24.76:59093/stream/proxy/migu_923287339.m3u8
 #EXTINF:-1 tvg-id="migu_952383261" tvg-name="migu_952383261" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/176/202504161629_1744788999453_H32_1080.webp" group-title="其他",CHC影迷电影
 http://47.119.24.76:59093/stream/proxy/migu_952383261.m3u8
 #EXTINF:-1 tvg-name="中国之声" group-title="广播电台",中国之声
-https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+#EXTINF:-1 tvg-name="中国之声" group-title="广播电台",中国之声
+https://radio.0472.org/?id=639
 #EXTINF:-1 tvg-name="经济之声" group-title="广播电台",经济之声
-https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1 tvg-name="经济之声" group-title="广播电台",经济之声
+https://radio.0472.org/?id=640
 #EXTINF:-1 tvg-name="音乐之声" group-title="广播电台",音乐之声
 https://ngcdn001.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1 tvg-name="音乐之声" group-title="广播电台",音乐之声
+https://radio.0472.org/?id=641
 #EXTINF:-1 tvg-name="经典音乐广播" group-title="广播电台",经典音乐广播
 https://ngcdn001.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1 tvg-name="经典音乐广播" group-title="广播电台",经典音乐广播
+https://radio.0472.org/?id=642
 #EXTINF:-1 tvg-name="深圳先锋89.8" group-title="广播电台",深圳先锋89.8
 https://live.ximalaya.com/radio-first-page-app/live/262/64.m3u8?transcode=ts
 #EXTINF:-1 tvg-name="深圳生活94.2" group-title="广播电台",深圳生活94.2
