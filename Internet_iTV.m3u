@@ -2767,8 +2767,6 @@ https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
 #EXTINF:-1 tvg-name=" 黄龙" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/黄龙.png" group-title="🗺️直播中国", 黄龙
 https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-#EXTINF:-1 tvg-name=" 东莞新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/东莞新闻综合.png" group-title="🚂江苏频道", 东莞新闻综合
-https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 tvg-name=" 东莞生活资讯" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/东莞生活资讯.png" group-title="🚂江苏频道", 东莞生活资讯
 https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
 #EXTINF:-1 tvg-name=" 南京教科" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/南京教科.png" group-title="🚂江苏频道", 南京教科
@@ -2975,8 +2973,6 @@ http://cm-wshls.homecdn.com/8bb.m3u8
 http://cm-wshls.homecdn.com/8bf.m3u8
 #EXTINF:-1 tvg-name="扬州邗江" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/扬州邗江.png" group-title="🚂江苏频道",扬州邗江
 http://cm-wshls.homecdn.com/8c3.m3u8
-#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新闻综合.png" group-title="🚂江苏频道",新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 #EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/无锡娱乐.png" group-title="🚂江苏频道",无锡娱乐
 http://stream.thmz.com/wxtv2/playlist.m3u8?_upt=5ff4061f1706166872
 #EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/无锡娱乐.png" group-title="🚂江苏频道",无锡娱乐
@@ -4205,6 +4201,8 @@ https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 #EXTINF:-1 tvg-name="鹿泉一套" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/鹿泉一套.png" group-title="🚒河北频道",鹿泉一套
 https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name=" 东莞新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/东莞新闻综合.png" group-title="🚓河南频道", 东莞新闻综合
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 tvg-name=" 新野综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新野综合.png" group-title="🚓河南频道", 新野综合
 http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
 #EXTINF:-1 tvg-name=" 永城综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/永城综合.png" group-title="🚓河南频道", 永城综合
@@ -4347,6 +4345,8 @@ http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?zhend
 http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
 #EXTINF:-1 tvg-name="新野综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新野综合.png" group-title="🚓河南频道",新野综合
 http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend?
+#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新闻综合.png" group-title="🚓河南频道",新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 #EXTINF:-1 tvg-name="方城一套" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/方城一套.png" group-title="🚓河南频道",方城一套
 http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
 #EXTINF:-1 tvg-name="方城一套" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/方城一套.png" group-title="🚓河南频道",方城一套
