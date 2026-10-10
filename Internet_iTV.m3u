@@ -4647,8 +4647,6 @@ https://t.freetv.fun/live/jing-men-xin-wen-zong-he-5.m3u8
 https://t.freetv.fun/live/jing-men-xin-wen-zong-he-4.m3u8
 #EXTINF:-1 tvg-name="荆门新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/荆门新闻综合.png" group-title="🚗湖北频道",荆门新闻综合
 https://t.freetv.fun/live/jing-men-xin-wen-zong-he.m3u8
-#EXTINF:-1 tvg-name=" 东莞新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/东莞新闻综合.png" group-title="🚙湖南频道", 东莞新闻综合
-https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 tvg-name=" 衡阳新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/衡阳新闻综合.png" group-title="🚙湖南频道", 衡阳新闻综合
 https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
 #EXTINF:-1 tvg-name=" 长沙新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/长沙新闻综合.png" group-title="🚙湖南频道", 长沙新闻综合
@@ -4661,8 +4659,6 @@ http://58.46.28.146:9999/tsfile/live/1088_1.m3u8
 http://58.46.29.253:9999/tsfile/live/1088_1.m3u8
 #EXTINF:-1 tvg-name="娄底综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/娄底综合.png" group-title="🚙湖南频道",娄底综合
 http://iptv.666230.xyz/iptv/hnyx.php/ldxw
-#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新闻综合.png" group-title="🚙湖南频道",新闻综合
-http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 #EXTINF:-1 tvg-name="湖南公共" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/湖南公共.png" group-title="🚙湖南频道",湖南公共
 http://119.39.9.8:9901/tsfile/live/1009_1.m3u8
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/湖南国际.png" group-title="🚙湖南频道",湖南国际
@@ -4965,8 +4961,12 @@ http://stream5.jlntv.cn/thx/playlist.m3u8
 http://stream8.jlntv.cn/jytv/playlist.m3u8
 #EXTINF:-1 tvg-name="龙井综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/龙井综合.png" group-title="🚚吉林频道",龙井综合
 http://stream8.jlntv.cn/ljtv/playlist.m3u8
+#EXTINF:-1 tvg-name=" 东莞新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/东莞新闻综合.png" group-title="🚜辽宁频道", 东莞新闻综合
+https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 #EXTINF:-1 tvg-name=" 辽宁都市" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/辽宁都市.png" group-title="🚜辽宁频道", 辽宁都市
 https://ls.qingting.fm/live/1099/64k.m3u8
+#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/新闻综合.png" group-title="🚜辽宁频道",新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
 #EXTINF:-1 tvg-name="辽宁体育" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/辽宁体育.png" group-title="🚜辽宁频道",辽宁体育
 http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
 #EXTINF:-1 tvg-name="辽宁北方" tvg-logo="https://logo.jsdelivr.dpdns.org/tv/辽宁北方.png" group-title="🚜辽宁频道",辽宁北方
