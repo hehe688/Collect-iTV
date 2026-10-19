@@ -78,8 +78,8 @@ CGTN西班牙语,http://47.119.24.76:59093/stream/proxy/migu_609006450.m3u8
 陕西新闻资讯频道,http://47.119.24.76:59093/stream/proxy/migu_956909289.m3u8
 陕西银龄频道,http://47.119.24.76:59093/stream/proxy/migu_956909362.m3u8
 上海第一财经,http://47.119.24.76:59093/stream/proxy/migu_608780988.m3u8
-上海新闻综合,http://47.119.24.76:59093/stream/proxy/migu_651632657.m3u8
 上视东方影视,http://47.119.24.76:59093/stream/proxy/migu_617290047.m3u8
+上视新闻综合,http://47.119.24.76:59093/stream/proxy/migu_651632657.m3u8
 宿迁新闻综合,http://47.119.24.76:59093/stream/proxy/migu_639731832.m3u8
 泰州新闻综合,http://47.119.24.76:59093/stream/proxy/migu_639731818.m3u8
 体育休闲频道,http://47.119.24.76:59093/stream/proxy/migu_626064707.m3u8

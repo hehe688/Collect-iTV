@@ -159,10 +159,10 @@ http://47.119.24.76:59093/stream/proxy/migu_956909289.m3u8
 http://47.119.24.76:59093/stream/proxy/migu_956909362.m3u8
 #EXTINF:-1 tvg-id="migu_608780988" tvg-name="migu_608780988" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/2201/008/312/202209271630_2201008312_H32_1080.webp" group-title="地方",上海第一财经
 http://47.119.24.76:59093/stream/proxy/migu_608780988.m3u8
-#EXTINF:-1 tvg-id="migu_651632657" tvg-name="migu_651632657" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/325/202512311824_5100001716_H32_1080.webp" group-title="地方",上海新闻综合
-http://47.119.24.76:59093/stream/proxy/migu_651632657.m3u8
 #EXTINF:-1 tvg-id="migu_617290047" tvg-name="migu_617290047" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/274/202105271333_5100001715_2_H32_1080.webp" group-title="地方",上视东方影视
 http://47.119.24.76:59093/stream/proxy/migu_617290047.m3u8
+#EXTINF:-1 tvg-id="migu_651632657" tvg-name="migu_651632657" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/325/202512311824_5100001716_H32_1080.webp" group-title="地方",上视新闻综合
+http://47.119.24.76:59093/stream/proxy/migu_651632657.m3u8
 #EXTINF:-1 tvg-id="migu_639731832" tvg-name="migu_639731832" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/469/357/202104022141_5102012616_H32_1080.webp" group-title="地方",宿迁新闻综合
 http://47.119.24.76:59093/stream/proxy/migu_639731832.m3u8
 #EXTINF:-1 tvg-id="migu_639731818" tvg-name="migu_639731818" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/469/354/202104071213_5102012615_H32_1080.webp" group-title="地方",泰州新闻综合
