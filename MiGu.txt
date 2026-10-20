@@ -61,6 +61,11 @@ CGTN西班牙语,http://47.119.24.76:59093/stream/proxy/migu_609006450.m3u8
 海南广播电视总台新闻频道,http://47.119.24.76:59093/stream/proxy/migu_962067517.m3u8
 海南广播电视总台自贸频道,http://47.119.24.76:59093/stream/proxy/migu_962045226.m3u8
 淮安新闻综合,http://47.119.24.76:59093/stream/proxy/migu_639731826.m3u8
+吉林都市频道,http://47.119.24.76:59093/stream/proxy/migu_968553190.m3u8
+吉林生活频道,http://47.119.24.76:59093/stream/proxy/migu_968553133.m3u8
+吉林乡村频道,http://47.119.24.76:59093/stream/proxy/migu_968553176.m3u8
+吉林影视频道,http://47.119.24.76:59093/stream/proxy/migu_968553184.m3u8
+吉林综艺文化频道,http://47.119.24.76:59093/stream/proxy/migu_968553163.m3u8
 江苏城市频道,http://47.119.24.76:59093/stream/proxy/migu_626064714.m3u8
 江苏国际,http://47.119.24.76:59093/stream/proxy/migu_626064674.m3u8
 江苏教育,http://47.119.24.76:59093/stream/proxy/migu_628008321.m3u8

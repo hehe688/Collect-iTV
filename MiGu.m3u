@@ -125,6 +125,16 @@ http://47.119.24.76:59093/stream/proxy/migu_962067517.m3u8
 http://47.119.24.76:59093/stream/proxy/migu_962045226.m3u8
 #EXTINF:-1 tvg-id="migu_639731826" tvg-name="migu_639731826" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/469/363/202104022141_5102012618_H32_1080.webp" group-title="地方",淮安新闻综合
 http://47.119.24.76:59093/stream/proxy/migu_639731826.m3u8
+#EXTINF:-1 tvg-id="migu_968553190" tvg-name="migu_968553190" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/523/202610192016_1792143352629_H32_1080.webp" group-title="地方",吉林都市频道
+http://47.119.24.76:59093/stream/proxy/migu_968553190.m3u8
+#EXTINF:-1 tvg-id="migu_968553133" tvg-name="migu_968553133" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/519/202610192014_1792143470836_H32_1080.webp" group-title="地方",吉林生活频道
+http://47.119.24.76:59093/stream/proxy/migu_968553133.m3u8
+#EXTINF:-1 tvg-id="migu_968553176" tvg-name="migu_968553176" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/521/202610192015_1792143300342_H32_1080.webp" group-title="地方",吉林乡村频道
+http://47.119.24.76:59093/stream/proxy/migu_968553176.m3u8
+#EXTINF:-1 tvg-id="migu_968553184" tvg-name="migu_968553184" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/522/202610192016_1792143524269_H32_1080.webp" group-title="地方",吉林影视频道
+http://47.119.24.76:59093/stream/proxy/migu_968553184.m3u8
+#EXTINF:-1 tvg-id="migu_968553163" tvg-name="migu_968553163" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/520/202610192015_1792143556302_H32_1080.webp" group-title="地方",吉林综艺文化频道
+http://47.119.24.76:59093/stream/proxy/migu_968553163.m3u8
 #EXTINF:-1 tvg-id="migu_626064714" tvg-name="migu_626064714" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/508/202104022138_5100186409_H32_1080.webp" group-title="地方",江苏城市频道
 http://47.119.24.76:59093/stream/proxy/migu_626064714.m3u8
 #EXTINF:-1 tvg-id="migu_626064674" tvg-name="migu_626064674" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/260/577/202104022139_5100186482_H32_1080.webp" group-title="地方",江苏国际
