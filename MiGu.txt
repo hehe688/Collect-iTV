@@ -106,6 +106,7 @@ CGTN西班牙语,http://47.119.24.76:59093/stream/proxy/migu_609006450.m3u8
 赛事最经典,http://47.119.24.76:59093/stream/proxy/migu_646596895.m3u8
 山东教育,http://47.119.24.76:59093/stream/proxy/migu_609154353.m3u8
 陕西体育休闲频道,http://47.119.24.76:59093/stream/proxy/migu_956909356.m3u8
+书画频道,http://47.119.24.76:59093/stream/proxy/migu_968663920.m3u8
 四海钓鱼,http://47.119.24.76:59093/stream/proxy/migu_637444975.m3u8
 体坛名栏汇,http://47.119.24.76:59093/stream/proxy/migu_629943305.m3u8
 武术世界,http://47.119.24.76:59093/stream/proxy/migu_958475359.m3u8
